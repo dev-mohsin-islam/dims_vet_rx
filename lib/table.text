@@ -1,0 +1,10 @@
+for performance
+= appointment and patient joining (like patient certificate joining to appointment)
+= appointment and prescription joining (like patient certificate joining to appointment)
+= get All data method implement Like (get patient certificate)
+= data join method update (like ref doctor, ref patient info)
+
+todo
+certificate search
+-report image and disease image show (edit prescription)
+

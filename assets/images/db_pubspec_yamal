@@ -1,0 +1,17 @@
+    - assets/images/loading.gif
+    - assets/db/advice.json
+    - assets/db/brand.json
+    - assets/db/cc.json
+    - assets/db/company.json
+    - assets/db/diagnosis.json
+    - assets/db/dose.json
+    - assets/db/duration.json
+    - assets/db/generic.json
+    - assets/db/handout.json
+    - assets/db/history.json
+    - assets/db/instruction.json
+    - assets/db/investigationAdvice.json
+    - assets/db/investigationReport.json
+    - assets/db/onExamination.json
+    - assets/db/onExaminationCategory.json
+    - assets/db/procedure.json

@@ -1,0 +1,1449 @@
+
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Anxiety",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 2,
+      "name": "Depression",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 3,
+      "name": "Bipolar disorder",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 4,
+      "name": "Obsessive Compulsive Disorder",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 5,
+      "name": "Schizophrenia",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 6,
+      "name": "Dementia",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 7,
+      "name": "Delirium",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 8,
+      "name": "Psycho-sexual disorder",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 9,
+      "name": "Substance/Drug related disorde",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 10,
+      "name": "Personality disorder",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 11,
+      "name": "Mood disorder",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 12,
+      "name": "Cognitive disorder",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 13,
+      "name": "Eating disorder",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 14,
+      "name": "Adjustment disorder",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 15,
+      "name": "Domestic violence",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 16,
+      "name": "Legal problems",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 17,
+      "name": "Learning Disability",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 18,
+      "name": "Attention Deficit Disorder",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 19,
+      "name": "Mental Retardation",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 20,
+      "name": "Autism",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 21,
+      "name": "Pervasive Developmental Disord",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 22,
+      "name": "Speech and Language Disorder",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 23,
+      "name": "Hearing Loss/Deafness",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 24,
+      "name": "Tourette or Tic disorder",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 25,
+      "name": "Behavior Problem",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 26,
+      "name": "Suicide Attempt",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 27,
+      "name": "Psychiatric hospitalization",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 28,
+      "name": "Alcohol dependency",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 29,
+      "name": "Obesity/Weight Problem",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 30,
+      "name": "HTN",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 31,
+      "name": "DM",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 32,
+      "name": "GDM",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 33,
+      "name": "Epilepsy/seizure",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 34,
+      "name": "TB",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 35,
+      "name": "Congenital Malformation (Birth",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 36,
+      "name": "Infertility",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 37,
+      "name": "Thyroid Disease",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 38,
+      "name": "SLE",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 39,
+      "name": "STD",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 40,
+      "name": "Asthma",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 41,
+      "name": "Rh-fever",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 42,
+      "name": "UTI",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 43,
+      "name": "Recurrent abortion",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 44,
+      "name": "Jaundice",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 45,
+      "name": "PPH",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 46,
+      "name": "Twins",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 47,
+      "name": "Congenital Problem (Genetic di",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 48,
+      "name": "IHD",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 49,
+      "name": "CKD",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 50,
+      "name": "CVD",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 51,
+      "name": "Dyslipidemia",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 52,
+      "name": "Pre eclampsia",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 53,
+      "name": "Eclampsia",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 54,
+      "name": "Anxiety",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 55,
+      "name": "Depression",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 56,
+      "name": "Bipolar disorder",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 57,
+      "name": "Obsessive Compulsive Disorder",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 58,
+      "name": "Schizophrenia",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 59,
+      "name": "Psycho-sexual disorder",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 60,
+      "name": "Physical/Sexual abuse",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 61,
+      "name": "Suicide Attempt",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 62,
+      "name": "Head trauma",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 63,
+      "name": "Drug allergy",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 64,
+      "name": "Other",
+      "category_id": 2,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 65,
+      "name": "Smoking",
+      "category_id": 3,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 66,
+      "name": "Alcohol",
+      "category_id": 3,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 67,
+      "name": "H/O Exposer (venereal disease)",
+      "category_id": 3,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 68,
+      "name": "Substance/Drug use",
+      "category_id": 3,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 69,
+      "name": "HTN",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 70,
+      "name": "DM",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 71,
+      "name": "Epilepsy/seizure",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 72,
+      "name": "Congenital Malformation (Birth",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 73,
+      "name": "Infertility",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 74,
+      "name": "Congenital Problem (Genetic di",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 75,
+      "name": "IHD",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 76,
+      "name": "CKD",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 77,
+      "name": "CVD",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 78,
+      "name": "TB",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 79,
+      "name": "Malaria",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 80,
+      "name": "Hepatitis B",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 81,
+      "name": "Hepatitis C",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 82,
+      "name": "Typhoid",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 83,
+      "name": "Measles",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 84,
+      "name": "Pneumonia",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 85,
+      "name": "Rubella",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 86,
+      "name": "Other",
+      "category_id": 1,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 196,
+      "name": "NSAID‚ÄôS",
+      "category_id": 4,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 197,
+      "name": "Penicillin‚Äôs",
+      "category_id": 4,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 198,
+      "name": "Cephalosporin‚Äôs",
+      "category_id": 4,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 199,
+      "name": "Sulfonamides (sulfur containing drugs)",
+      "category_id": 4,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 200,
+      "name": "Iodinated contrast media",
+      "category_id": 4,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 201,
+      "name": "Tetracycline",
+      "category_id": 4,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 202,
+      "name": "Quinolones",
+      "category_id": 4,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 203,
+      "name": "Antituberculous drugs",
+      "category_id": 4,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 204,
+      "name": "Antimalarials",
+      "category_id": 4,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 205,
+      "name": "Anticonvulsants",
+      "category_id": 4,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 206,
+      "name": "Anesthetics",
+      "category_id": 4,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 207,
+      "name": "Antipsychotic tranquilizers",
+      "category_id": 4,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 208,
+      "name": "Antihypertensive drugs",
+      "category_id": 4,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 209,
+      "name": "Antiarrhythmic drugs",
+      "category_id": 4,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 210,
+      "name": "Antithyroid drugs",
+      "category_id": 4,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 211,
+      "name": "Antisera and vaccines",
+      "category_id": 4,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 212,
+      "name": "Insulin",
+      "category_id": 4,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 213,
+      "name": "Opioids",
+      "category_id": 4,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 214,
+      "name": "Statins",
+      "category_id": 4,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 215,
+      "name": "ACE inhibitor",
+      "category_id": 4,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 216,
+      "name": "Sedative-hypnotics",
+      "category_id": 4,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 217,
+      "name": "Heavy metals",
+      "category_id": 4,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 218,
+      "name": "Aspirin",
+      "category_id": 4,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 219,
+      "name": "Allopurinol",
+      "category_id": 4,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 220,
+      "name": "Nitrofurantoin",
+      "category_id": 4,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 221,
+      "name": "Griseofulvin",
+      "category_id": 4,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 222,
+      "name": "Cow‚Äôs milk",
+      "category_id": 5,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 224,
+      "name": "Eggs",
+      "category_id": 5,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 225,
+      "name": "Peanuts",
+      "category_id": 5,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 226,
+      "name": "Dairy products",
+      "category_id": 5,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 227,
+      "name": "Fish (hilsha, sola fish)",
+      "category_id": 5,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 228,
+      "name": "Shellfish (crab, lobster, shrimp)",
+      "category_id": 5,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 229,
+      "name": "Tree nuts (almonds, cashews, walnuts)",
+      "category_id": 5,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 230,
+      "name": "Meat (beef, chicken, mutton, and pork)",
+      "category_id": 5,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 231,
+      "name": "Wheat",
+      "category_id": 5,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 232,
+      "name": "Soybean",
+      "category_id": 5,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 233,
+      "name": "Seafood‚Äôs",
+      "category_id": 5,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 234,
+      "name": "Coconut",
+      "category_id": 5,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 235,
+      "name": "Corn",
+      "category_id": 5,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 236,
+      "name": "Gelatin",
+      "category_id": 5,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 237,
+      "name": "Seeds (sesame, sunflower, and poppy)",
+      "category_id": 5,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 238,
+      "name": "Spices (caraway, coriander, garlic, mustard, Onion etc.)",
+      "category_id": 5,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 239,
+      "name": "Mushrooms",
+      "category_id": 5,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 240,
+      "name": "Brinjal",
+      "category_id": 5,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 241,
+      "name": "Banana",
+      "category_id": 5,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 242,
+      "name": "Pumpkin",
+      "category_id": 5,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 243,
+      "name": "Esculent/Taro roots",
+      "category_id": 5,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 244,
+      "name": "Grapes",
+      "category_id": 5,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 248,
+      "name": "Pollen",
+      "category_id": 6,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 249,
+      "name": "Dust",
+      "category_id": 6,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 250,
+      "name": "House Dust Mites",
+      "category_id": 6,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 251,
+      "name": "Mites",
+      "category_id": 6,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 252,
+      "name": "Molds",
+      "category_id": 6,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 253,
+      "name": "Pets & Animals",
+      "category_id": 6,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 254,
+      "name": "Animal Dander",
+      "category_id": 6,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 255,
+      "name": "Insect bites",
+      "category_id": 6,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 256,
+      "name": "Cockroaches",
+      "category_id": 6,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 257,
+      "name": "Seasonal (cold, dry or wet weather)",
+      "category_id": 6,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 258,
+      "name": "Fumes",
+      "category_id": 6,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 259,
+      "name": "Smokes",
+      "category_id": 6,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 260,
+      "name": "Cigarette Smoke",
+      "category_id": 6,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 261,
+      "name": "Air pollution",
+      "category_id": 6,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 262,
+      "name": "Chemicals",
+      "category_id": 6,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 263,
+      "name": "Pesticides",
+      "category_id": 6,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 264,
+      "name": "Latex",
+      "category_id": 6,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 265,
+      "name": "Cosmetics",
+      "category_id": 6,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 266,
+      "name": "Perfume",
+      "category_id": 6,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 267,
+      "name": "Arsenic",
+      "category_id": 6,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 268,
+      "name": "Lead",
+      "category_id": 6,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 269,
+      "name": "Mercury",
+      "category_id": 6,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 270,
+      "name": "Gold",
+      "category_id": 6,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 271,
+      "name": "Nickel",
+      "category_id": 6,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 272,
+      "name": "Metals",
+      "category_id": 6,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    },
+    {
+      "id": 273,
+      "name": "Wools",
+      "category_id": 6,
+      "identifier": 0,
+      "created_at": "2023-12-31T18:00:00.000000Z",
+      "updated_at": null,
+      "deleted_at": null
+    }
+  ],
+  "currentPage": 1,
+  "lastPage": 1,
+  "total": 160,
+  "perPage": "500"
+}

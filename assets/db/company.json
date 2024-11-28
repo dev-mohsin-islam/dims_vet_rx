@@ -1,0 +1,4015 @@
+{
+  "success": true,
+  "dataLength": 668,
+  "message": "data found.",
+  "data": [
+    {
+      "company_id": 812,
+      "company_name": " Boehringer Ingelheim Pharmaceutical",
+      "uuid": "",
+      "dimsid": 812
+    },
+    {
+      "company_id": 280,
+      "company_name": "245-3410(V)-98",
+      "uuid": "",
+      "dimsid": 280
+    },
+    {
+      "company_id": 281,
+      "company_name": "A/S Lundbeck Export DivisionLtd., Denmark",
+      "uuid": "",
+      "dimsid": 281
+    },
+    {
+      "company_id": 283,
+      "company_name": "Abbott HealthcareProducts,Netherlands",
+      "uuid": "",
+      "dimsid": 283
+    },
+    {
+      "company_id": 794,
+      "company_name": "Abbott India Ltd",
+      "uuid": "",
+      "dimsid": 794
+    },
+    {
+      "company_id": 284,
+      "company_name": "Abbott Laboratories Ltd., Pakistan",
+      "uuid": "",
+      "dimsid": 284
+    },
+    {
+      "company_id": 285,
+      "company_name": "Abbott Laboratories Ltd., USA",
+      "uuid": "",
+      "dimsid": 285
+    },
+    {
+      "company_id": 286,
+      "company_name": "Abbott Laboratories, UK",
+      "uuid": "",
+      "dimsid": 286
+    },
+    {
+      "company_id": 1,
+      "company_name": "Ablation Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 1
+    },
+    {
+      "company_id": 287,
+      "company_name": "Ace Chemicals,UK",
+      "uuid": "",
+      "dimsid": 287
+    },
+    {
+      "company_id": 2,
+      "company_name": "ACI Limited",
+      "uuid": "",
+      "dimsid": 2
+    },
+    {
+      "company_id": 3,
+      "company_name": "Acme Laboratories Ltd.",
+      "uuid": "",
+      "dimsid": 3
+    },
+    {
+      "company_id": 4,
+      "company_name": "Acme Specialized Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 4
+    },
+    {
+      "company_id": 288,
+      "company_name": "Actavis Italy SpA, Italy",
+      "uuid": "",
+      "dimsid": 288
+    },
+    {
+      "company_id": 289,
+      "company_name": "Actavis, UK",
+      "uuid": "",
+      "dimsid": 289
+    },
+    {
+      "company_id": 830,
+      "company_name": "Active Fine Chemicals Ltd",
+      "uuid": "",
+      "dimsid": 830
+    },
+    {
+      "company_id": 5,
+      "company_name": "Ad-din Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 5
+    },
+    {
+      "company_id": 6,
+      "company_name": "Adco Pharmaceuticals & Chemicals Ltd.",
+      "uuid": "",
+      "dimsid": 6
+    },
+    {
+      "company_id": 796,
+      "company_name": "Adcock Ingram",
+      "uuid": "",
+      "dimsid": 796
+    },
+    {
+      "company_id": 290,
+      "company_name": "Advanced Medical Optics UppsalaAB, Sweden",
+      "uuid": "",
+      "dimsid": 290
+    },
+    {
+      "company_id": 7,
+      "company_name": "Advent Pharma Ltd.",
+      "uuid": "",
+      "dimsid": 7
+    },
+    {
+      "company_id": 291,
+      "company_name": "Aesica Queenborough Limited, UK",
+      "uuid": "",
+      "dimsid": 291
+    },
+    {
+      "company_id": 8,
+      "company_name": "Aexim Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 8
+    },
+    {
+      "company_id": 9,
+      "company_name": "Agrani Pharmaceuticals",
+      "uuid": "",
+      "dimsid": 9
+    },
+    {
+      "company_id": 10,
+      "company_name": "Al-Madina Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 10
+    },
+    {
+      "company_id": 11,
+      "company_name": "Albert David (BD) Limited",
+      "uuid": "",
+      "dimsid": 11
+    },
+    {
+      "company_id": 12,
+      "company_name": "Albion Laboratories Ltd.",
+      "uuid": "",
+      "dimsid": 12
+    },
+    {
+      "company_id": 13,
+      "company_name": "Alco Pharma Limited",
+      "uuid": "",
+      "dimsid": 13
+    },
+    {
+      "company_id": 292,
+      "company_name": "Alcon Cannada Inc., Canada",
+      "uuid": "",
+      "dimsid": 292
+    },
+    {
+      "company_id": 293,
+      "company_name": "Alcon Laboratories Inc, USA",
+      "uuid": "",
+      "dimsid": 293
+    },
+    {
+      "company_id": 915,
+      "company_name": "Alien Pharma",
+      "uuid": "",
+      "dimsid": 850
+    },
+    {
+      "company_id": 14,
+      "company_name": "Alkad Laboratories",
+      "uuid": "",
+      "dimsid": 14
+    },
+    {
+      "company_id": 296,
+      "company_name": "Allergan Inc, USA",
+      "uuid": "",
+      "dimsid": 296
+    },
+    {
+      "company_id": 300,
+      "company_name": "Allergan Pharmaceuticals Ltd.,Ireland",
+      "uuid": "",
+      "dimsid": 300
+    },
+    {
+      "company_id": 303,
+      "company_name": "Allergan Sales LLC, USA",
+      "uuid": "",
+      "dimsid": 303
+    },
+    {
+      "company_id": 817,
+      "company_name": "Allied Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 817
+    },
+    {
+      "company_id": 15,
+      "company_name": "Alpha Pharmaceuticals",
+      "uuid": "",
+      "dimsid": 15
+    },
+    {
+      "company_id": 304,
+      "company_name": "Alpha Therapeutic Corporation,USA",
+      "uuid": "",
+      "dimsid": 304
+    },
+    {
+      "company_id": 16,
+      "company_name": "Ambee Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 16
+    },
+    {
+      "company_id": 17,
+      "company_name": "Amico Laboratories Ltd.",
+      "uuid": "",
+      "dimsid": 17
+    },
+    {
+      "company_id": 18,
+      "company_name": "Amulet Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 18
+    },
+    {
+      "company_id": 305,
+      "company_name": "Anhui Kangning Industrial (Group)Co. Ltd., China",
+      "uuid": "",
+      "dimsid": 305
+    },
+    {
+      "company_id": 306,
+      "company_name": "Anji Sunlight Medical Products Co.Ltd. China",
+      "uuid": "",
+      "dimsid": 306
+    },
+    {
+      "company_id": 309,
+      "company_name": "Antec International Ltd., U.K.",
+      "uuid": "",
+      "dimsid": 309
+    },
+    {
+      "company_id": 19,
+      "company_name": "APC Pharma Ltd.",
+      "uuid": "",
+      "dimsid": 19
+    },
+    {
+      "company_id": 20,
+      "company_name": "Apex Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 20
+    },
+    {
+      "company_id": 21,
+      "company_name": "Apollo Pharmaceutical Laboratories Ltd.",
+      "uuid": "",
+      "dimsid": 21
+    },
+    {
+      "company_id": 791,
+      "company_name": "Apothecon",
+      "uuid": "",
+      "dimsid": 791
+    },
+    {
+      "company_id": 908,
+      "company_name": "Arges Life Science Ltd.",
+      "uuid": "",
+      "dimsid": 843
+    },
+    {
+      "company_id": 22,
+      "company_name": "Aristopharma Limited",
+      "uuid": "",
+      "dimsid": 22
+    },
+    {
+      "company_id": 23,
+      "company_name": "Asiatic Laboratories Ltd.",
+      "uuid": "",
+      "dimsid": 23
+    },
+    {
+      "company_id": 313,
+      "company_name": "Aspen Bad Oldesloe, Germany",
+      "uuid": "",
+      "dimsid": 313
+    },
+    {
+      "company_id": 314,
+      "company_name": "Asta Medica AG, Germany",
+      "uuid": "",
+      "dimsid": 314
+    },
+    {
+      "company_id": 24,
+      "company_name": "Astra Biopharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 24
+    },
+    {
+      "company_id": 315,
+      "company_name": "Astral Pharmaceuticals Industries,India",
+      "uuid": "",
+      "dimsid": 315
+    },
+    {
+      "company_id": 813,
+      "company_name": "Astrazeneca Pharmaceutical company",
+      "uuid": "",
+      "dimsid": 813
+    },
+    {
+      "company_id": 316,
+      "company_name": "Aventis Behring GmbH, Germany",
+      "uuid": "",
+      "dimsid": 316
+    },
+    {
+      "company_id": 317,
+      "company_name": "Aventis Pasteur S.A. France",
+      "uuid": "",
+      "dimsid": 317
+    },
+    {
+      "company_id": 320,
+      "company_name": "Aventis Pharma, Dagenham, UK",
+      "uuid": "",
+      "dimsid": 320
+    },
+    {
+      "company_id": 321,
+      "company_name": "Aventis Pharma, France",
+      "uuid": "",
+      "dimsid": 321
+    },
+    {
+      "company_id": 322,
+      "company_name": "Aventis Pharma, Germany",
+      "uuid": "",
+      "dimsid": 322
+    },
+    {
+      "company_id": 323,
+      "company_name": "Aventis Pharma, UK",
+      "uuid": "",
+      "dimsid": 323
+    },
+    {
+      "company_id": 25,
+      "company_name": "Avert Pharma Ltd.",
+      "uuid": "",
+      "dimsid": 25
+    },
+    {
+      "company_id": 325,
+      "company_name": "Axcentive Sarl, France",
+      "uuid": "",
+      "dimsid": 325
+    },
+    {
+      "company_id": 326,
+      "company_name": "Ayerst Wyeth PharmaceuticalsInc.,",
+      "uuid": "",
+      "dimsid": 326
+    },
+    {
+      "company_id": 26,
+      "company_name": "Aztec Pharmaceuticals",
+      "uuid": "",
+      "dimsid": 26
+    },
+    {
+      "company_id": 329,
+      "company_name": "B. Braun Melsungen Ag, Germany",
+      "uuid": "",
+      "dimsid": 329
+    },
+    {
+      "company_id": 27,
+      "company_name": "Bangladesh Antibiotic Industries Limited",
+      "uuid": "",
+      "dimsid": 27
+    },
+    {
+      "company_id": 28,
+      "company_name": "Bangladesh Immunity Co.",
+      "uuid": "",
+      "dimsid": 28
+    },
+    {
+      "company_id": 29,
+      "company_name": "Bangladesh Oxygen Ltd.",
+      "uuid": "",
+      "dimsid": 29
+    },
+    {
+      "company_id": 330,
+      "company_name": "Baxter Ag, Australia",
+      "uuid": "",
+      "dimsid": 330
+    },
+    {
+      "company_id": 331,
+      "company_name": "Baxter AG, Austria",
+      "uuid": "",
+      "dimsid": 331
+    },
+    {
+      "company_id": 332,
+      "company_name": "Baxter Healthcare SA, Singapore",
+      "uuid": "",
+      "dimsid": 332
+    },
+    {
+      "company_id": 333,
+      "company_name": "Baxter Oncology Gmbh, Germany",
+      "uuid": "",
+      "dimsid": 333
+    },
+    {
+      "company_id": 335,
+      "company_name": "Bayer Pharma AG Berlin,Germany",
+      "uuid": "",
+      "dimsid": 335
+    },
+    {
+      "company_id": 336,
+      "company_name": "Bayer SChering Pharma Oy,Finland",
+      "uuid": "",
+      "dimsid": 336
+    },
+    {
+      "company_id": 30,
+      "company_name": "BC Laboratories Ltd.",
+      "uuid": "",
+      "dimsid": 30
+    },
+    {
+      "company_id": 31,
+      "company_name": "Beacon Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 31
+    },
+    {
+      "company_id": 337,
+      "company_name": "Becton Dickinson and Company,USA",
+      "uuid": "",
+      "dimsid": 337
+    },
+    {
+      "company_id": 338,
+      "company_name": "Behringwerke AG, Germany",
+      "uuid": "",
+      "dimsid": 338
+    },
+    {
+      "company_id": 339,
+      "company_name": "Beijing Fresenius KabiPharmacutical co. Ltd., China",
+      "uuid": "",
+      "dimsid": 339
+    },
+    {
+      "company_id": 33,
+      "company_name": "Belsen Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 33
+    },
+    {
+      "company_id": 340,
+      "company_name": "Bene Arzneimittel GmbH,Germany",
+      "uuid": "",
+      "dimsid": 340
+    },
+    {
+      "company_id": 34,
+      "company_name": "Bengal Drugs & Chemical Works Pharm. Ltd.",
+      "uuid": "",
+      "dimsid": 34
+    },
+    {
+      "company_id": 35,
+      "company_name": "Bengal Techno Pharma Ltd.",
+      "uuid": "",
+      "dimsid": 35
+    },
+    {
+      "company_id": 36,
+      "company_name": "Benham Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 36
+    },
+    {
+      "company_id": 341,
+      "company_name": "Berna Biotech Ltd., Switzerland",
+      "uuid": "",
+      "dimsid": 341
+    },
+    {
+      "company_id": 342,
+      "company_name": "Berna Biotech, Korea",
+      "uuid": "",
+      "dimsid": 342
+    },
+    {
+      "company_id": 343,
+      "company_name": "Bestar Laboratories (Singapore)Pte Ltd., Singapore",
+      "uuid": "",
+      "dimsid": 343
+    },
+    {
+      "company_id": 37,
+      "company_name": "Beximco Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 37
+    },
+    {
+      "company_id": 39,
+      "company_name": "Bikalpa Friends Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 39
+    },
+    {
+      "company_id": 40,
+      "company_name": "Bio Pharma Laboratories Ltd.",
+      "uuid": "",
+      "dimsid": 40
+    },
+    {
+      "company_id": 800,
+      "company_name": "Bioderma",
+      "uuid": "",
+      "dimsid": 800
+    },
+    {
+      "company_id": 345,
+      "company_name": "Biogen & Co. Ltd., Korea",
+      "uuid": "",
+      "dimsid": 345
+    },
+    {
+      "company_id": 840,
+      "company_name": "Biogen Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 840
+    },
+    {
+      "company_id": 347,
+      "company_name": "Biomune Company, USA",
+      "uuid": "",
+      "dimsid": 347
+    },
+    {
+      "company_id": 349,
+      "company_name": "Biomune de Mexico S.de R L CV., Mexico",
+      "uuid": "",
+      "dimsid": 349
+    },
+    {
+      "company_id": 350,
+      "company_name": "Biopharm, Research Institute ofBiopharmacy and veterinaryDrugs, Czech Republic",
+      "uuid": "",
+      "dimsid": 350
+    },
+    {
+      "company_id": 41,
+      "company_name": "Bios Pharmaceutical Ltd.",
+      "uuid": "",
+      "dimsid": 41
+    },
+    {
+      "company_id": 352,
+      "company_name": "Bioveta, Czech Republic",
+      "uuid": "",
+      "dimsid": 352
+    },
+    {
+      "company_id": 43,
+      "company_name": "Blubell Laboratories Ltd.",
+      "uuid": "",
+      "dimsid": 43
+    },
+    {
+      "company_id": 44,
+      "company_name": "Boichem Pharmaceutical",
+      "uuid": "",
+      "dimsid": 44
+    },
+    {
+      "company_id": 353,
+      "company_name": "Bomac Laboratories Limited NewZearland",
+      "uuid": "",
+      "dimsid": 353
+    },
+    {
+      "company_id": 45,
+      "company_name": "Bosco Laboratory",
+      "uuid": "",
+      "dimsid": 45
+    },
+    {
+      "company_id": 355,
+      "company_name": "Bracco S.P.A, Italy",
+      "uuid": "",
+      "dimsid": 355
+    },
+    {
+      "company_id": 356,
+      "company_name": "Bremer Pharma GmbH, Germany",
+      "uuid": "",
+      "dimsid": 356
+    },
+    {
+      "company_id": 46,
+      "company_name": "Bridge Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 46
+    },
+    {
+      "company_id": 357,
+      "company_name": "Bristol Caribbean, USA",
+      "uuid": "",
+      "dimsid": 357
+    },
+    {
+      "company_id": 358,
+      "company_name": "Bristol Myers Squibb Pvt. Ltd.,USA",
+      "uuid": "",
+      "dimsid": 358
+    },
+    {
+      "company_id": 47,
+      "company_name": "Bristol Pharma Ltd.",
+      "uuid": "",
+      "dimsid": 47
+    },
+    {
+      "company_id": 360,
+      "company_name": "Bristol-Myers, Italy",
+      "uuid": "",
+      "dimsid": 360
+    },
+    {
+      "company_id": 911,
+      "company_name": "Bronson Laboratories (BD) Ltd.",
+      "uuid": "",
+      "dimsid": 846
+    },
+    {
+      "company_id": 48,
+      "company_name": "BS Industries Ltd.",
+      "uuid": "",
+      "dimsid": 48
+    },
+    {
+      "company_id": 361,
+      "company_name": "C.B. Fleet Company Inc, USA",
+      "uuid": "",
+      "dimsid": 361
+    },
+    {
+      "company_id": 912,
+      "company_name": "C2C Pharma Ltd.",
+      "uuid": "",
+      "dimsid": 847
+    },
+    {
+      "company_id": 49,
+      "company_name": "Care Pharma Laboratories Ltd.",
+      "uuid": "",
+      "dimsid": 49
+    },
+    {
+      "company_id": 50,
+      "company_name": "Carew & Co.",
+      "uuid": "",
+      "dimsid": 50
+    },
+    {
+      "company_id": 833,
+      "company_name": "Centeon Pharma Limited",
+      "uuid": "",
+      "dimsid": 833
+    },
+    {
+      "company_id": 51,
+      "company_name": "Central Pharmaceutical Ltd.",
+      "uuid": "",
+      "dimsid": 51
+    },
+    {
+      "company_id": 362,
+      "company_name": "Ceva Phylaxia, Hungary",
+      "uuid": "",
+      "dimsid": 362
+    },
+    {
+      "company_id": 363,
+      "company_name": "CEVA Phylaxia, VeterinaryBiological Company, Hungary",
+      "uuid": "",
+      "dimsid": 363
+    },
+    {
+      "company_id": 364,
+      "company_name": "Ceva-Phylaxia VeterinaryBiological Co. Ltd., Hungary",
+      "uuid": "",
+      "dimsid": 364
+    },
+    {
+      "company_id": 365,
+      "company_name": "CEVA-PHYLAXIA VeterinaryBiologicals Co. Ltd., Hungary",
+      "uuid": "",
+      "dimsid": 365
+    },
+    {
+      "company_id": 366,
+      "company_name": "Cheil Bio Co. Ltd., Korea",
+      "uuid": "",
+      "dimsid": 366
+    },
+    {
+      "company_id": 367,
+      "company_name": "Chemial Works of Gedeon RichterLtd., Hungary",
+      "uuid": "",
+      "dimsid": 367
+    },
+    {
+      "company_id": 52,
+      "company_name": "Chemist Laboratories Ltd.",
+      "uuid": "",
+      "dimsid": 52
+    },
+    {
+      "company_id": 370,
+      "company_name": "Chiron Behring Vaccine Pvt. Ltd.,",
+      "uuid": "",
+      "dimsid": 370
+    },
+    {
+      "company_id": 371,
+      "company_name": "Choong Ang Animal DiseaseLaboratory, Korea",
+      "uuid": "",
+      "dimsid": 371
+    },
+    {
+      "company_id": 372,
+      "company_name": "Choong Ang VaccineLaboratory,Korea.",
+      "uuid": "",
+      "dimsid": 372
+    },
+    {
+      "company_id": 375,
+      "company_name": "Choongwae Pharma Corporation,Korea",
+      "uuid": "",
+      "dimsid": 375
+    },
+    {
+      "company_id": 376,
+      "company_name": "Ciba Geigy Ltd., Switzerland",
+      "uuid": "",
+      "dimsid": 376
+    },
+    {
+      "company_id": 377,
+      "company_name": "Ciba Vision Ag, Switzerland",
+      "uuid": "",
+      "dimsid": 377
+    },
+    {
+      "company_id": 378,
+      "company_name": "CID Lines N.V Waterpoorstraat 2,Belgium",
+      "uuid": "",
+      "dimsid": 378
+    },
+    {
+      "company_id": 379,
+      "company_name": "Cilag AG, Switzerland",
+      "uuid": "",
+      "dimsid": 379
+    },
+    {
+      "company_id": 53,
+      "company_name": "Cipla Ltd.",
+      "uuid": "",
+      "dimsid": 53
+    },
+    {
+      "company_id": 54,
+      "company_name": "City Chemicals & Pharmaceuticals Works Ltd.",
+      "uuid": "",
+      "dimsid": 54
+    },
+    {
+      "company_id": 801,
+      "company_name": "City overseas",
+      "uuid": "",
+      "dimsid": 801
+    },
+    {
+      "company_id": 380,
+      "company_name": "Claris Lifesciences Ltd., India",
+      "uuid": "",
+      "dimsid": 380
+    },
+    {
+      "company_id": 381,
+      "company_name": "Closed Joint-Stock Company",
+      "uuid": "",
+      "dimsid": 381
+    },
+    {
+      "company_id": 382,
+      "company_name": "CLS Pharma ,France",
+      "uuid": "",
+      "dimsid": 382
+    },
+    {
+      "company_id": 383,
+      "company_name": "CNN-Laboratoria veterinario Ltda.,Hungary",
+      "uuid": "",
+      "dimsid": 383
+    },
+    {
+      "company_id": 56,
+      "company_name": "Comilla Laboratories Ltd.",
+      "uuid": "",
+      "dimsid": 56
+    },
+    {
+      "company_id": 57,
+      "company_name": "Concord Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 57
+    },
+    {
+      "company_id": 789,
+      "company_name": "Convatec",
+      "uuid": "",
+      "dimsid": 789
+    },
+    {
+      "company_id": 384,
+      "company_name": "Coophavate,France",
+      "uuid": "",
+      "dimsid": 384
+    },
+    {
+      "company_id": 387,
+      "company_name": "Coophavet, France",
+      "uuid": "",
+      "dimsid": 387
+    },
+    {
+      "company_id": 58,
+      "company_name": "Cosmic Chemical Industries Ltd.",
+      "uuid": "",
+      "dimsid": 58
+    },
+    {
+      "company_id": 825,
+      "company_name": "Cosmic Pharma Ltd.",
+      "uuid": "",
+      "dimsid": 825
+    },
+    {
+      "company_id": 59,
+      "company_name": "Cosmo Pharma Laboratories Ltd.",
+      "uuid": "",
+      "dimsid": 59
+    },
+    {
+      "company_id": 388,
+      "company_name": "Coventry Chemicals Limited, EU",
+      "uuid": "",
+      "dimsid": 388
+    },
+    {
+      "company_id": 60,
+      "company_name": "Cresent Pharmaceuticals",
+      "uuid": "",
+      "dimsid": 60
+    },
+    {
+      "company_id": 61,
+      "company_name": "Crystal Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 61
+    },
+    {
+      "company_id": 389,
+      "company_name": "CSL Behring Ag, Switzeland",
+      "uuid": "",
+      "dimsid": 389
+    },
+    {
+      "company_id": 390,
+      "company_name": "CSL Behring GmbH, Germany",
+      "uuid": "",
+      "dimsid": 390
+    },
+    {
+      "company_id": 392,
+      "company_name": "Dabur Pharmaceuticals Ltd., India",
+      "uuid": "",
+      "dimsid": 392
+    },
+    {
+      "company_id": 393,
+      "company_name": "Dae Sung Microbiological Labs,korea",
+      "uuid": "",
+      "dimsid": 393
+    },
+    {
+      "company_id": 394,
+      "company_name": "DaOne Chemical Co. Ltd., Korea",
+      "uuid": "",
+      "dimsid": 394
+    },
+    {
+      "company_id": 910,
+      "company_name": "DBL pharmaceuticals ltd.",
+      "uuid": "",
+      "dimsid": 845
+    },
+    {
+      "company_id": 62,
+      "company_name": "Decent Pharma Laboratories Ltd.",
+      "uuid": "",
+      "dimsid": 62
+    },
+    {
+      "company_id": 63,
+      "company_name": "Delta Pharma Limited",
+      "uuid": "",
+      "dimsid": 63
+    },
+    {
+      "company_id": 395,
+      "company_name": "Denex International, India",
+      "uuid": "",
+      "dimsid": 395
+    },
+    {
+      "company_id": 64,
+      "company_name": "Desh Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 64
+    },
+    {
+      "company_id": 65,
+      "company_name": "Doctor Tims Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 65
+    },
+    {
+      "company_id": 66,
+      "company_name": "Doctor's Chemicals Works Ltd.",
+      "uuid": "",
+      "dimsid": 66
+    },
+    {
+      "company_id": 67,
+      "company_name": "Dolphin Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 67
+    },
+    {
+      "company_id": 68,
+      "company_name": "Doms Pharmaceuticals",
+      "uuid": "",
+      "dimsid": 68
+    },
+    {
+      "company_id": 396,
+      "company_name": "Dong Bang Co. Ltd. Korea",
+      "uuid": "",
+      "dimsid": 396
+    },
+    {
+      "company_id": 397,
+      "company_name": "Dong Kook Pharmaceutical, Korea",
+      "uuid": "",
+      "dimsid": 397
+    },
+    {
+      "company_id": 398,
+      "company_name": "Dopharma International,Netherlands",
+      "uuid": "",
+      "dimsid": 398
+    },
+    {
+      "company_id": 70,
+      "company_name": "Dr. Jalil's Pharma (Pvt) Ltd.",
+      "uuid": "",
+      "dimsid": 70
+    },
+    {
+      "company_id": 795,
+      "company_name": "Dr. Reddy's Laboratories ltd",
+      "uuid": "",
+      "dimsid": 795
+    },
+    {
+      "company_id": 71,
+      "company_name": "Drug International Ltd.",
+      "uuid": "",
+      "dimsid": 71
+    },
+    {
+      "company_id": 73,
+      "company_name": "Drugland Limited",
+      "uuid": "",
+      "dimsid": 73
+    },
+    {
+      "company_id": 799,
+      "company_name": "E. Merck",
+      "uuid": "",
+      "dimsid": 799
+    },
+    {
+      "company_id": 399,
+      "company_name": "Eagle Vet. Tech Co., Ltd., Korea",
+      "uuid": "",
+      "dimsid": 399
+    },
+    {
+      "company_id": 75,
+      "company_name": "Eastern Drug Co. (Pvt.) Ltd.",
+      "uuid": "",
+      "dimsid": 75
+    },
+    {
+      "company_id": 400,
+      "company_name": "Eastern Medikit Limited, India",
+      "uuid": "",
+      "dimsid": 400
+    },
+    {
+      "company_id": 76,
+      "company_name": "Eastern Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 76
+    },
+    {
+      "company_id": 402,
+      "company_name": "Ebew Pharma,Austria",
+      "uuid": "",
+      "dimsid": 402
+    },
+    {
+      "company_id": 403,
+      "company_name": "Eco Animal Health Ltd., UK",
+      "uuid": "",
+      "dimsid": 403
+    },
+    {
+      "company_id": 78,
+      "company_name": "EDCL (Dhaka)",
+      "uuid": "",
+      "dimsid": 78
+    },
+    {
+      "company_id": 79,
+      "company_name": "Edruc Ltd.",
+      "uuid": "",
+      "dimsid": 79
+    },
+    {
+      "company_id": 404,
+      "company_name": "Egis Pharmaceuticals, Hungary",
+      "uuid": "",
+      "dimsid": 404
+    },
+    {
+      "company_id": 405,
+      "company_name": "Elanco Animal Health, USA",
+      "uuid": "",
+      "dimsid": 405
+    },
+    {
+      "company_id": 407,
+      "company_name": "Eli Lilly and Company USA",
+      "uuid": "",
+      "dimsid": 407
+    },
+    {
+      "company_id": 408,
+      "company_name": "Eli Lilly France SA, France",
+      "uuid": "",
+      "dimsid": 408
+    },
+    {
+      "company_id": 409,
+      "company_name": "Eli Lilly Italia SpA, Italy",
+      "uuid": "",
+      "dimsid": 409
+    },
+    {
+      "company_id": 811,
+      "company_name": "Elixir",
+      "uuid": "",
+      "dimsid": 811
+    },
+    {
+      "company_id": 80,
+      "company_name": "Eon Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 80
+    },
+    {
+      "company_id": 81,
+      "company_name": "Eskayef Bangladesh Ltd.",
+      "uuid": "",
+      "dimsid": 81
+    },
+    {
+      "company_id": 819,
+      "company_name": "Essential Drugs Company Ltd.",
+      "uuid": "",
+      "dimsid": 819
+    },
+    {
+      "company_id": 83,
+      "company_name": "Ethical Drug Ltd.",
+      "uuid": "",
+      "dimsid": 83
+    },
+    {
+      "company_id": 84,
+      "company_name": "Euro Pharma Ltd.",
+      "uuid": "",
+      "dimsid": 84
+    },
+    {
+      "company_id": 410,
+      "company_name": "Evans Vanodine International, UK",
+      "uuid": "",
+      "dimsid": 410
+    },
+    {
+      "company_id": 85,
+      "company_name": "Everest Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 85
+    },
+    {
+      "company_id": 412,
+      "company_name": "Ewabo Chemikalien GmbH,Germany",
+      "uuid": "",
+      "dimsid": 412
+    },
+    {
+      "company_id": 413,
+      "company_name": "Excella, Germany",
+      "uuid": "",
+      "dimsid": 413
+    },
+    {
+      "company_id": 415,
+      "company_name": "Excelvision AG, Switzerland",
+      "uuid": "",
+      "dimsid": 415
+    },
+    {
+      "company_id": 86,
+      "company_name": "F N F Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 86
+    },
+    {
+      "company_id": 416,
+      "company_name": "F. H. Faulding & Co., Ltd.,Australia",
+      "uuid": "",
+      "dimsid": 416
+    },
+    {
+      "company_id": 418,
+      "company_name": "F. Hoffmann La Roche,Switzerland",
+      "uuid": "",
+      "dimsid": 418
+    },
+    {
+      "company_id": 419,
+      "company_name": "F. Hoffmann, Switzerland",
+      "uuid": "",
+      "dimsid": 419
+    },
+    {
+      "company_id": 422,
+      "company_name": "F. Hoffmann-La Roche Ltd.,Canada",
+      "uuid": "",
+      "dimsid": 422
+    },
+    {
+      "company_id": 421,
+      "company_name": "F. Hoffmann-La Roche Ltd.Switzerland",
+      "uuid": "",
+      "dimsid": 421
+    },
+    {
+      "company_id": 425,
+      "company_name": "F.Hoffmann La Roche, Switzerland",
+      "uuid": "",
+      "dimsid": 425
+    },
+    {
+      "company_id": 427,
+      "company_name": "F.Hoffmann-La Roche Ltd.Germany",
+      "uuid": "",
+      "dimsid": 427
+    },
+    {
+      "company_id": 429,
+      "company_name": "Fam Vanodione International, UK",
+      "uuid": "",
+      "dimsid": 429
+    },
+    {
+      "company_id": 430,
+      "company_name": "Famy Care Lrtd., India",
+      "uuid": "",
+      "dimsid": 430
+    },
+    {
+      "company_id": 822,
+      "company_name": "Faruk Pharmaceutical",
+      "uuid": "",
+      "dimsid": 822
+    },
+    {
+      "company_id": 431,
+      "company_name": "Fatro SpA, Italy",
+      "uuid": "",
+      "dimsid": 431
+    },
+    {
+      "company_id": 432,
+      "company_name": "Ferring GmbH, Germany",
+      "uuid": "",
+      "dimsid": 432
+    },
+    {
+      "company_id": 433,
+      "company_name": "Fidia Farmaceutical SPA, Italy",
+      "uuid": "",
+      "dimsid": 433
+    },
+    {
+      "company_id": 434,
+      "company_name": "Fisons Limited, UK",
+      "uuid": "",
+      "dimsid": 434
+    },
+    {
+      "company_id": 435,
+      "company_name": "Fort Dodge Animal Health, USA",
+      "uuid": "",
+      "dimsid": 435
+    },
+    {
+      "company_id": 436,
+      "company_name": "Fresenius Kabi (Guangzhou) Co.Ltd., China",
+      "uuid": "",
+      "dimsid": 436
+    },
+    {
+      "company_id": 437,
+      "company_name": "Fresenius Kabi Austria GmbH,Austria",
+      "uuid": "",
+      "dimsid": 437
+    },
+    {
+      "company_id": 438,
+      "company_name": "Fresenius Kabi DeutschlandGmbH, Germany",
+      "uuid": "",
+      "dimsid": 438
+    },
+    {
+      "company_id": 440,
+      "company_name": "Fresenius Medical CareDeustshland, Germany",
+      "uuid": "",
+      "dimsid": 440
+    },
+    {
+      "company_id": 441,
+      "company_name": "Fresinus Kabi Austria GmbH,Austria",
+      "uuid": "",
+      "dimsid": 441
+    },
+    {
+      "company_id": 87,
+      "company_name": "G. A. Company Ltd.",
+      "uuid": "",
+      "dimsid": 87
+    },
+    {
+      "company_id": 88,
+      "company_name": "G.M. Laboratory",
+      "uuid": "",
+      "dimsid": 88
+    },
+    {
+      "company_id": 89,
+      "company_name": "G.P.I. Ltd.",
+      "uuid": "",
+      "dimsid": 89
+    },
+    {
+      "company_id": 442,
+      "company_name": "Galxo Wellcome, France",
+      "uuid": "",
+      "dimsid": 442
+    },
+    {
+      "company_id": 443,
+      "company_name": "GE Health Care., Ireland",
+      "uuid": "",
+      "dimsid": 443
+    },
+    {
+      "company_id": 446,
+      "company_name": "Genentech Inc, USA",
+      "uuid": "",
+      "dimsid": 446
+    },
+    {
+      "company_id": 448,
+      "company_name": "Genentech Inc., USA",
+      "uuid": "",
+      "dimsid": 448
+    },
+    {
+      "company_id": 91,
+      "company_name": "General Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 91
+    },
+    {
+      "company_id": 92,
+      "company_name": "Gentry Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 92
+    },
+    {
+      "company_id": 839,
+      "company_name": "Genvio Pharma Ltd.",
+      "uuid": "",
+      "dimsid": 839
+    },
+    {
+      "company_id": 832,
+      "company_name": "Get Well Limited",
+      "uuid": "",
+      "dimsid": 832
+    },
+    {
+      "company_id": 449,
+      "company_name": "Glaxo Operations UK Ltd., UK",
+      "uuid": "",
+      "dimsid": 449
+    },
+    {
+      "company_id": 450,
+      "company_name": "Glaxo Smith Klin ,Australia",
+      "uuid": "",
+      "dimsid": 450
+    },
+    {
+      "company_id": 451,
+      "company_name": "Glaxo Smith Kline Bioglan SA,Belgium",
+      "uuid": "",
+      "dimsid": 451
+    },
+    {
+      "company_id": 452,
+      "company_name": "Glaxo Smith Kline Biological S.A.,Belgium",
+      "uuid": "",
+      "dimsid": 452
+    },
+    {
+      "company_id": 455,
+      "company_name": "Glaxo Smith Kline SpA, Italy",
+      "uuid": "",
+      "dimsid": 455
+    },
+    {
+      "company_id": 457,
+      "company_name": "Glaxo SmithKline Biological S.A.,Belgium",
+      "uuid": "",
+      "dimsid": 457
+    },
+    {
+      "company_id": 460,
+      "company_name": "Glaxo Wellcome GmbH, Germany",
+      "uuid": "",
+      "dimsid": 460
+    },
+    {
+      "company_id": 461,
+      "company_name": "Glaxo Wellcome Operations, UK",
+      "uuid": "",
+      "dimsid": 461
+    },
+    {
+      "company_id": 462,
+      "company_name": "Glaxo Wellcome Production,France",
+      "uuid": "",
+      "dimsid": 462
+    },
+    {
+      "company_id": 463,
+      "company_name": "Glaxo Wellcome Spa, Italy",
+      "uuid": "",
+      "dimsid": 463
+    },
+    {
+      "company_id": 93,
+      "company_name": "GlaxoSmithKline Bangladesh Ltd.",
+      "uuid": "",
+      "dimsid": 93
+    },
+    {
+      "company_id": 465,
+      "company_name": "GlaxoSmithkline Biologicals S.A,Australia",
+      "uuid": "",
+      "dimsid": 465
+    },
+    {
+      "company_id": 466,
+      "company_name": "GlaxoSmithkline Biologicals S.A,Belgium",
+      "uuid": "",
+      "dimsid": 466
+    },
+    {
+      "company_id": 468,
+      "company_name": "GlaxoSmithKline Biologicals,Germany",
+      "uuid": "",
+      "dimsid": 468
+    },
+    {
+      "company_id": 94,
+      "company_name": "Global Heavy Chemicals Ltd.",
+      "uuid": "",
+      "dimsid": 94
+    },
+    {
+      "company_id": 95,
+      "company_name": "Global s Ltd.",
+      "uuid": "",
+      "dimsid": 95
+    },
+    {
+      "company_id": 97,
+      "company_name": "Globe Drug Ltd",
+      "uuid": "",
+      "dimsid": 97
+    },
+    {
+      "company_id": 98,
+      "company_name": "Globe Laboratories (Pvt.) Ltd.",
+      "uuid": "",
+      "dimsid": 98
+    },
+    {
+      "company_id": 99,
+      "company_name": "Globe Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 99
+    },
+    {
+      "company_id": 101,
+      "company_name": "Globex Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 101
+    },
+    {
+      "company_id": 792,
+      "company_name": "GNC",
+      "uuid": "",
+      "dimsid": 792
+    },
+    {
+      "company_id": 469,
+      "company_name": "Godecke GmbH, Germany",
+      "uuid": "",
+      "dimsid": 469
+    },
+    {
+      "company_id": 104,
+      "company_name": "Gonoshasthaya Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 104
+    },
+    {
+      "company_id": 841,
+      "company_name": "Goodman Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 841
+    },
+    {
+      "company_id": 470,
+      "company_name": "Gosun Pharma Co. Ltd., China",
+      "uuid": "",
+      "dimsid": 470
+    },
+    {
+      "company_id": 471,
+      "company_name": "GP Grenzach Produktion GmbH,Germany",
+      "uuid": "",
+      "dimsid": 471
+    },
+    {
+      "company_id": 105,
+      "company_name": "Great Bengal Chemical & Pharmaceuticals Works (Suspended)",
+      "uuid": "",
+      "dimsid": 105
+    },
+    {
+      "company_id": 472,
+      "company_name": "Green Cross GuangzhouPharmaceutical Co. Ltd., China",
+      "uuid": "",
+      "dimsid": 472
+    },
+    {
+      "company_id": 473,
+      "company_name": "Green Cross veterinary productsCo. Ltd. Korea",
+      "uuid": "",
+      "dimsid": 473
+    },
+    {
+      "company_id": 106,
+      "company_name": "Green Laboratory",
+      "uuid": "",
+      "dimsid": 106
+    },
+    {
+      "company_id": 107,
+      "company_name": "Greenland Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 107
+    },
+    {
+      "company_id": 476,
+      "company_name": "Grifols Biologicals Inc, USA",
+      "uuid": "",
+      "dimsid": 476
+    },
+    {
+      "company_id": 477,
+      "company_name": "Gruppo Lepetit Srl, Italy",
+      "uuid": "",
+      "dimsid": 477
+    },
+    {
+      "company_id": 108,
+      "company_name": "Guardian Healthcare Ltd.",
+      "uuid": "",
+      "dimsid": 108
+    },
+    {
+      "company_id": 479,
+      "company_name": "H. Lundbeck & Co., A/S, Denmark",
+      "uuid": "",
+      "dimsid": 479
+    },
+    {
+      "company_id": 480,
+      "company_name": "H. Lundbeck A/S, Ottiliavej,Denmark",
+      "uuid": "",
+      "dimsid": 480
+    },
+    {
+      "company_id": 481,
+      "company_name": "Haiou Medical Appliance Co.,Chine",
+      "uuid": "",
+      "dimsid": 481
+    },
+    {
+      "company_id": 109,
+      "company_name": "Hallmark Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 109
+    },
+    {
+      "company_id": 482,
+      "company_name": "Halocarbone Laboratories, USA",
+      "uuid": "",
+      "dimsid": 482
+    },
+    {
+      "company_id": 483,
+      "company_name": "Hamdard Lab. (Waqf), Pakistan",
+      "uuid": "",
+      "dimsid": 483
+    },
+    {
+      "company_id": 484,
+      "company_name": "Hameln Pharma Plus GmbH,Germany",
+      "uuid": "",
+      "dimsid": 484
+    },
+    {
+      "company_id": 486,
+      "company_name": "Hangdong Co.Ltd. Korea",
+      "uuid": "",
+      "dimsid": 486
+    },
+    {
+      "company_id": 488,
+      "company_name": "Haupt Pharma, Germany",
+      "uuid": "",
+      "dimsid": 488
+    },
+    {
+      "company_id": 110,
+      "company_name": "Healthcare Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 110
+    },
+    {
+      "company_id": 489,
+      "company_name": "Hexal Ag Germany by EbewePharma Austria",
+      "uuid": "",
+      "dimsid": 489
+    },
+    {
+      "company_id": 490,
+      "company_name": "Hexal Ag, Austria",
+      "uuid": "",
+      "dimsid": 490
+    },
+    {
+      "company_id": 491,
+      "company_name": "Hexal ag, Germany",
+      "uuid": "",
+      "dimsid": 491
+    },
+    {
+      "company_id": 492,
+      "company_name": "HLL Life Care Limited, India",
+      "uuid": "",
+      "dimsid": 492
+    },
+    {
+      "company_id": 494,
+      "company_name": "Hoechst Marion RousselDeutschland GmbH, Germany",
+      "uuid": "",
+      "dimsid": 494
+    },
+    {
+      "company_id": 495,
+      "company_name": "Hoechst Roussel Vet Private Ltd.,India",
+      "uuid": "",
+      "dimsid": 495
+    },
+    {
+      "company_id": 496,
+      "company_name": "Hoechstl Aventis Pharma,Germany",
+      "uuid": "",
+      "dimsid": 496
+    },
+    {
+      "company_id": 497,
+      "company_name": "Hoffman-La Roche Ltd.Switzerland",
+      "uuid": "",
+      "dimsid": 497
+    },
+    {
+      "company_id": 111,
+      "company_name": "Hope Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 111
+    },
+    {
+      "company_id": 499,
+      "company_name": "Hospira Australia Pty Ltd.,Australia",
+      "uuid": "",
+      "dimsid": 499
+    },
+    {
+      "company_id": 500,
+      "company_name": "Hospira Australia Pvt. Ltd.,Australia",
+      "uuid": "",
+      "dimsid": 500
+    },
+    {
+      "company_id": 501,
+      "company_name": "Huaian wanjia Medical Divice Co.Ltd. China",
+      "uuid": "",
+      "dimsid": 501
+    },
+    {
+      "company_id": 112,
+      "company_name": "Hudson Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 112
+    },
+    {
+      "company_id": 113,
+      "company_name": "Huqsons Laboratories Ltd. Suspened",
+      "uuid": "",
+      "dimsid": 113
+    },
+    {
+      "company_id": 114,
+      "company_name": "Hydroxide Ltd.",
+      "uuid": "",
+      "dimsid": 114
+    },
+    {
+      "company_id": 115,
+      "company_name": "Ibn Sina Pharmaceutical Ind. Ltd.",
+      "uuid": "",
+      "dimsid": 115
+    },
+    {
+      "company_id": 116,
+      "company_name": "Incepta Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 116
+    },
+    {
+      "company_id": 119,
+      "company_name": "Indobangla Pharmaceuticals",
+      "uuid": "",
+      "dimsid": 119
+    },
+    {
+      "company_id": 120,
+      "company_name": "Innova Phrmaceutical Ltd.",
+      "uuid": "",
+      "dimsid": 120
+    },
+    {
+      "company_id": 121,
+      "company_name": "Institute of Public Health",
+      "uuid": "",
+      "dimsid": 121
+    },
+    {
+      "company_id": 502,
+      "company_name": "Instituto Grifols S.A., Spain",
+      "uuid": "",
+      "dimsid": 502
+    },
+    {
+      "company_id": 503,
+      "company_name": "Instituto Sierovaccinogeno ItalianoSpa, Italy",
+      "uuid": "",
+      "dimsid": 503
+    },
+    {
+      "company_id": 505,
+      "company_name": "Intervet International B.V,Netherland",
+      "uuid": "",
+      "dimsid": 505
+    },
+    {
+      "company_id": 506,
+      "company_name": "Intervet International B.V., Holland",
+      "uuid": "",
+      "dimsid": 506
+    },
+    {
+      "company_id": 510,
+      "company_name": "Intervet International,Netherland",
+      "uuid": "",
+      "dimsid": 510
+    },
+    {
+      "company_id": 810,
+      "company_name": "IPH",
+      "uuid": "",
+      "dimsid": 810
+    },
+    {
+      "company_id": 122,
+      "company_name": "Islami Pharmaceutical Industries Ltd.",
+      "uuid": "",
+      "dimsid": 122
+    },
+    {
+      "company_id": 512,
+      "company_name": "IZO S.p.A Via Bianchi, Italy",
+      "uuid": "",
+      "dimsid": 512
+    },
+    {
+      "company_id": 123,
+      "company_name": "J C I Bangladesh Ltd",
+      "uuid": "",
+      "dimsid": 123
+    },
+    {
+      "company_id": 124,
+      "company_name": "Jalalabad Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 124
+    },
+    {
+      "company_id": 125,
+      "company_name": "Jalpha Laboratories Ltd.",
+      "uuid": "",
+      "dimsid": 125
+    },
+    {
+      "company_id": 126,
+      "company_name": "Jams Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 126
+    },
+    {
+      "company_id": 127,
+      "company_name": "Janasheba Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 127
+    },
+    {
+      "company_id": 788,
+      "company_name": "Janata Pharma",
+      "uuid": "",
+      "dimsid": 788
+    },
+    {
+      "company_id": 514,
+      "company_name": "Janseen Pharmaceutica, Belgium",
+      "uuid": "",
+      "dimsid": 514
+    },
+    {
+      "company_id": 128,
+      "company_name": "Jayson Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 128
+    },
+    {
+      "company_id": 207,
+      "company_name": "Jenphar Bangladesh Ltd.",
+      "uuid": "",
+      "dimsid": 207
+    },
+    {
+      "company_id": 517,
+      "company_name": "Jhon Wyeth & Brother Ltd. UK andMarketing Authorisation HolderWyeth Lederle Vaccine SABelgium",
+      "uuid": "",
+      "dimsid": 517
+    },
+    {
+      "company_id": 518,
+      "company_name": "JHP Pharmaceuticals, USA",
+      "uuid": "",
+      "dimsid": 518
+    },
+    {
+      "company_id": 519,
+      "company_name": "Jiaxing Tianhe Pharmaceutical Co.Ltd. China",
+      "uuid": "",
+      "dimsid": 519
+    },
+    {
+      "company_id": 809,
+      "company_name": "JMI Pharma",
+      "uuid": "",
+      "dimsid": 809
+    },
+    {
+      "company_id": 129,
+      "company_name": "JMI Syringes & Medical Devices Ltd.",
+      "uuid": "",
+      "dimsid": 129
+    },
+    {
+      "company_id": 522,
+      "company_name": "JMS Singapore Pte Ltd.,Singapore",
+      "uuid": "",
+      "dimsid": 522
+    },
+    {
+      "company_id": 130,
+      "company_name": "Kafma Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 130
+    },
+    {
+      "company_id": 525,
+      "company_name": "Kanters Middenakkerweg,Netherlands",
+      "uuid": "",
+      "dimsid": 525
+    },
+    {
+      "company_id": 131,
+      "company_name": "Kasiruddin Chemical Works (pvt) Ltd. (Suspended)",
+      "uuid": "",
+      "dimsid": 131
+    },
+    {
+      "company_id": 526,
+      "company_name": "Kawasumi Laboratories, Thailand",
+      "uuid": "",
+      "dimsid": 526
+    },
+    {
+      "company_id": 806,
+      "company_name": "Kawser Chemicals",
+      "uuid": "",
+      "dimsid": 806
+    },
+    {
+      "company_id": 808,
+      "company_name": "Kazi Chemicals",
+      "uuid": "",
+      "dimsid": 808
+    },
+    {
+      "company_id": 528,
+      "company_name": "KBNP Inc. Korea",
+      "uuid": "",
+      "dimsid": 528
+    },
+    {
+      "company_id": 132,
+      "company_name": "KDH Laboratories Ltd.",
+      "uuid": "",
+      "dimsid": 132
+    },
+    {
+      "company_id": 531,
+      "company_name": "Kedrion, Italy",
+      "uuid": "",
+      "dimsid": 531
+    },
+    {
+      "company_id": 532,
+      "company_name": "Kela Laboratoria, Belgium",
+      "uuid": "",
+      "dimsid": 532
+    },
+    {
+      "company_id": 533,
+      "company_name": "Kela N.V., Belgium",
+      "uuid": "",
+      "dimsid": 533
+    },
+    {
+      "company_id": 133,
+      "company_name": "Kemiko Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 133
+    },
+    {
+      "company_id": 534,
+      "company_name": "Kepro B.V Maagdenburgstarrt,Netherland",
+      "uuid": "",
+      "dimsid": 534
+    },
+    {
+      "company_id": 535,
+      "company_name": "Kepro BV Compagnieweg, TheNetherlands",
+      "uuid": "",
+      "dimsid": 535
+    },
+    {
+      "company_id": 538,
+      "company_name": "Komipharm International Co.Ltd. Korea",
+      "uuid": "",
+      "dimsid": 538
+    },
+    {
+      "company_id": 541,
+      "company_name": "Korea Thumb Vet Co. Ltd., Korea",
+      "uuid": "",
+      "dimsid": 541
+    },
+    {
+      "company_id": 543,
+      "company_name": "Koream Vetchem Co., Korea",
+      "uuid": "",
+      "dimsid": 543
+    },
+    {
+      "company_id": 134,
+      "company_name": "Kumudini Pharma Ltd.",
+      "uuid": "",
+      "dimsid": 134
+    },
+    {
+      "company_id": 544,
+      "company_name": "Kyowa Hakko KivinCo. Ltd., Japan",
+      "uuid": "",
+      "dimsid": 544
+    },
+    {
+      "company_id": 545,
+      "company_name": "Kyowa Hakko Kogyo Co., Ltd.,Japan",
+      "uuid": "",
+      "dimsid": 545
+    },
+    {
+      "company_id": 135,
+      "company_name": "Labaid Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 135
+    },
+    {
+      "company_id": 547,
+      "company_name": "Laboratories Crinex, France",
+      "uuid": "",
+      "dimsid": 547
+    },
+    {
+      "company_id": 548,
+      "company_name": "Laboratories Hipra S.A., Spain",
+      "uuid": "",
+      "dimsid": 548
+    },
+    {
+      "company_id": 550,
+      "company_name": "Laboratories Ovejero S.A Spain",
+      "uuid": "",
+      "dimsid": 550
+    },
+    {
+      "company_id": 553,
+      "company_name": "Laboratories Panpharma, France",
+      "uuid": "",
+      "dimsid": 553
+    },
+    {
+      "company_id": 554,
+      "company_name": "Laboratories Sogeval",
+      "uuid": "",
+      "dimsid": 554
+    },
+    {
+      "company_id": 555,
+      "company_name": "Laboratorio Aldo-Union, Spain",
+      "uuid": "",
+      "dimsid": 555
+    },
+    {
+      "company_id": 815,
+      "company_name": "Laboratorio Varifarma, Argentina",
+      "uuid": "",
+      "dimsid": 815
+    },
+    {
+      "company_id": 556,
+      "company_name": "Laboratorios Hipra SA, Spain",
+      "uuid": "",
+      "dimsid": 556
+    },
+    {
+      "company_id": 558,
+      "company_name": "Lavipharm S.A, Greece",
+      "uuid": "",
+      "dimsid": 558
+    },
+    {
+      "company_id": 559,
+      "company_name": "Leiras OY, Finland",
+      "uuid": "",
+      "dimsid": 559
+    },
+    {
+      "company_id": 560,
+      "company_name": "Lek dd Ljubljana Pharmaceutical &Chemical Co., Slovenia",
+      "uuid": "",
+      "dimsid": 560
+    },
+    {
+      "company_id": 561,
+      "company_name": "Leo Pharmaceutical Products,Denmark",
+      "uuid": "",
+      "dimsid": 561
+    },
+    {
+      "company_id": 136,
+      "company_name": "Leon Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 136
+    },
+    {
+      "company_id": 563,
+      "company_name": "Les Laboratories Servier Industrie,France",
+      "uuid": "",
+      "dimsid": 563
+    },
+    {
+      "company_id": 566,
+      "company_name": "LFB Biomedicaments, France",
+      "uuid": "",
+      "dimsid": 566
+    },
+    {
+      "company_id": 567,
+      "company_name": "LG Life Sciences Ltd.(LGLS),Korea",
+      "uuid": "",
+      "dimsid": 567
+    },
+    {
+      "company_id": 138,
+      "company_name": "Libra Pharmaceuticls Ltd.",
+      "uuid": "",
+      "dimsid": 138
+    },
+    {
+      "company_id": 568,
+      "company_name": "Lilly Deutsch Land GmbH,Germany",
+      "uuid": "",
+      "dimsid": 568
+    },
+    {
+      "company_id": 569,
+      "company_name": "Lilly Egypt, Egypt",
+      "uuid": "",
+      "dimsid": 569
+    },
+    {
+      "company_id": 571,
+      "company_name": "Lilly France SA, France",
+      "uuid": "",
+      "dimsid": 571
+    },
+    {
+      "company_id": 572,
+      "company_name": "Lilly, France",
+      "uuid": "",
+      "dimsid": 572
+    },
+    {
+      "company_id": 139,
+      "company_name": "Links Pharma",
+      "uuid": "",
+      "dimsid": 139
+    },
+    {
+      "company_id": 574,
+      "company_name": "Lohmann Animal Health GmbH &Co., Germany",
+      "uuid": "",
+      "dimsid": 574
+    },
+    {
+      "company_id": 573,
+      "company_name": "Lohmann Animal HealthInternational, USA",
+      "uuid": "",
+      "dimsid": 573
+    },
+    {
+      "company_id": 140,
+      "company_name": "Loly Pharma (Vet)",
+      "uuid": "",
+      "dimsid": 140
+    },
+    {
+      "company_id": 577,
+      "company_name": "LTS Lohmann Therapie-Systeme,Germany",
+      "uuid": "",
+      "dimsid": 577
+    },
+    {
+      "company_id": 790,
+      "company_name": "Lundbeck/Lilac",
+      "uuid": "",
+      "dimsid": 790
+    },
+    {
+      "company_id": 807,
+      "company_name": "M.R Chemicals",
+      "uuid": "",
+      "dimsid": 807
+    },
+    {
+      "company_id": 578,
+      "company_name": "M/S Meril select Inc,U.S.A",
+      "uuid": "",
+      "dimsid": 578
+    },
+    {
+      "company_id": 579,
+      "company_name": "M/s Organon,Holland",
+      "uuid": "",
+      "dimsid": 579
+    },
+    {
+      "company_id": 580,
+      "company_name": "M/S. LG Life Sciences Ltd., Korea",
+      "uuid": "",
+      "dimsid": 580
+    },
+    {
+      "company_id": 581,
+      "company_name": "Made for F. Hoffmann-La RocheLtd. Switzerland By RocheDiagnostic GmbH Germany",
+      "uuid": "",
+      "dimsid": 581
+    },
+    {
+      "company_id": 141,
+      "company_name": "Mafnaz Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 141
+    },
+    {
+      "company_id": 914,
+      "company_name": "Maks Drug Limited",
+      "uuid": "",
+      "dimsid": 849
+    },
+    {
+      "company_id": 142,
+      "company_name": "Maks Drugs Ltd.",
+      "uuid": "",
+      "dimsid": 142
+    },
+    {
+      "company_id": 582,
+      "company_name": "Mallinckrodt Inc., USA",
+      "uuid": "",
+      "dimsid": 582
+    },
+    {
+      "company_id": 836,
+      "company_name": "Marketed By Unimed & Unihealth Manufacturers Ltd (Abbott Pharma Product)",
+      "uuid": "",
+      "dimsid": 836
+    },
+    {
+      "company_id": 837,
+      "company_name": "Marketed By Unimed & Unihealth Manufacturers Ltd (Bioderma Products)",
+      "uuid": "",
+      "dimsid": 837
+    },
+    {
+      "company_id": 838,
+      "company_name": "Marketed By Unimed & Unihealth Manufacturers Ltd (Biotest Products)",
+      "uuid": "",
+      "dimsid": 838
+    },
+    {
+      "company_id": 834,
+      "company_name": "Marketed By Unimed & Unihealth Manufacturers Ltd (Janssen-Cilag Products)",
+      "uuid": "",
+      "dimsid": 834
+    },
+    {
+      "company_id": 835,
+      "company_name": "Marketed By Unimed & Unihealth Manufacturers Ltd (Vifor International Products)",
+      "uuid": "",
+      "dimsid": 835
+    },
+    {
+      "company_id": 143,
+      "company_name": "Marksman Pharmaceutical Ltd.",
+      "uuid": "",
+      "dimsid": 143
+    },
+    {
+      "company_id": 144,
+      "company_name": "Maxborn Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 144
+    },
+    {
+      "company_id": 583,
+      "company_name": "Mayne Pharma Pty Ltd., Australia",
+      "uuid": "",
+      "dimsid": 583
+    },
+    {
+      "company_id": 584,
+      "company_name": "Mayne Pharma Pty. Ltd., Germany",
+      "uuid": "",
+      "dimsid": 584
+    },
+    {
+      "company_id": 586,
+      "company_name": "Medac Gesellschaft fur Klinischespezialpraparate Germany",
+      "uuid": "",
+      "dimsid": 586
+    },
+    {
+      "company_id": 588,
+      "company_name": "Medica AG, Germany",
+      "uuid": "",
+      "dimsid": 588
+    },
+    {
+      "company_id": 145,
+      "company_name": "Medico Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 145
+    },
+    {
+      "company_id": 146,
+      "company_name": "Medicon Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 146
+    },
+    {
+      "company_id": 820,
+      "company_name": "Medihealth Pharmaceutical Limited",
+      "uuid": "",
+      "dimsid": 820
+    },
+    {
+      "company_id": 147,
+      "company_name": "Medimet Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 147
+    },
+    {
+      "company_id": 589,
+      "company_name": "Medipro Medikal Uruler San.,Turkey",
+      "uuid": "",
+      "dimsid": 589
+    },
+    {
+      "company_id": 827,
+      "company_name": "MedRx Life Science Ltd.",
+      "uuid": "",
+      "dimsid": 827
+    },
+    {
+      "company_id": 590,
+      "company_name": "Merck , Italy",
+      "uuid": "",
+      "dimsid": 590
+    },
+    {
+      "company_id": 591,
+      "company_name": "Merck KGaA, Germany",
+      "uuid": "",
+      "dimsid": 591
+    },
+    {
+      "company_id": 592,
+      "company_name": "Merck Serono S.A., Switzerland",
+      "uuid": "",
+      "dimsid": 592
+    },
+    {
+      "company_id": 593,
+      "company_name": "Merck Serono S.p.A, Italy",
+      "uuid": "",
+      "dimsid": 593
+    },
+    {
+      "company_id": 597,
+      "company_name": "Merial Biological Laboratory, UK",
+      "uuid": "",
+      "dimsid": 597
+    },
+    {
+      "company_id": 598,
+      "company_name": "Merial Italia S.p. A., Italy",
+      "uuid": "",
+      "dimsid": 598
+    },
+    {
+      "company_id": 600,
+      "company_name": "Merial Select, Inc., USA",
+      "uuid": "",
+      "dimsid": 600
+    },
+    {
+      "company_id": 603,
+      "company_name": "Merial, France",
+      "uuid": "",
+      "dimsid": 603
+    },
+    {
+      "company_id": 604,
+      "company_name": "Merial, U.K",
+      "uuid": "",
+      "dimsid": 604
+    },
+    {
+      "company_id": 605,
+      "company_name": "Merial,France",
+      "uuid": "",
+      "dimsid": 605
+    },
+    {
+      "company_id": 793,
+      "company_name": "Merz Pharmaceuticals",
+      "uuid": "",
+      "dimsid": 793
+    },
+    {
+      "company_id": 797,
+      "company_name": "Meyer organics ltd",
+      "uuid": "",
+      "dimsid": 797
+    },
+    {
+      "company_id": 148,
+      "company_name": "Microbe Laboratories Ltd.",
+      "uuid": "",
+      "dimsid": 148
+    },
+    {
+      "company_id": 149,
+      "company_name": "Mig Pharmaceutical Ltd.",
+      "uuid": "",
+      "dimsid": 149
+    },
+    {
+      "company_id": 606,
+      "company_name": "Mika Pharma GmbH, Germany",
+      "uuid": "",
+      "dimsid": 606
+    },
+    {
+      "company_id": 150,
+      "company_name": "Millat Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 150
+    },
+    {
+      "company_id": 151,
+      "company_name": "Modern Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 151
+    },
+    {
+      "company_id": 814,
+      "company_name": "Modi-mundipharma",
+      "uuid": "",
+      "dimsid": 814
+    },
+    {
+      "company_id": 152,
+      "company_name": "Momotaz Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 152
+    },
+    {
+      "company_id": 153,
+      "company_name": "Monicopharma Limited",
+      "uuid": "",
+      "dimsid": 153
+    },
+    {
+      "company_id": 154,
+      "company_name": "Monomedi Bangladesh Ltd.",
+      "uuid": "",
+      "dimsid": 154
+    },
+    {
+      "company_id": 826,
+      "company_name": "MST Pharma and Healthcare Ltd.",
+      "uuid": "",
+      "dimsid": 826
+    },
+    {
+      "company_id": 155,
+      "company_name": "Mundipharma (Bangladesh) Pvt. Ltd.",
+      "uuid": "",
+      "dimsid": 155
+    },
+    {
+      "company_id": 156,
+      "company_name": "Mystic Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 156
+    },
+    {
+      "company_id": 607,
+      "company_name": "N V Organon OSS, Holland",
+      "uuid": "",
+      "dimsid": 607
+    },
+    {
+      "company_id": 608,
+      "company_name": "N. V. Organon, Netherlands",
+      "uuid": "",
+      "dimsid": 608
+    },
+    {
+      "company_id": 609,
+      "company_name": "N.V. Organon, Holland",
+      "uuid": "",
+      "dimsid": 609
+    },
+    {
+      "company_id": 611,
+      "company_name": "N.V. Upjohn S.A., Belgium",
+      "uuid": "",
+      "dimsid": 611
+    },
+    {
+      "company_id": 157,
+      "company_name": "Naafco Pharma Ltd.",
+      "uuid": "",
+      "dimsid": 157
+    },
+    {
+      "company_id": 158,
+      "company_name": "Najat Pharma Co. (Suspended)",
+      "uuid": "",
+      "dimsid": 158
+    },
+    {
+      "company_id": 612,
+      "company_name": "Nantong Egens Biotechinology Co.Ltd., China",
+      "uuid": "",
+      "dimsid": 612
+    },
+    {
+      "company_id": 159,
+      "company_name": "Natal Chemical Ind.",
+      "uuid": "",
+      "dimsid": 159
+    },
+    {
+      "company_id": 160,
+      "company_name": "National Drug Company Ltd.",
+      "uuid": "",
+      "dimsid": 160
+    },
+    {
+      "company_id": 161,
+      "company_name": "National Laboratories Ltd.",
+      "uuid": "",
+      "dimsid": 161
+    },
+    {
+      "company_id": 163,
+      "company_name": "Navana Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 163
+    },
+    {
+      "company_id": 613,
+      "company_name": "Nephron Pharma, USA",
+      "uuid": "",
+      "dimsid": 613
+    },
+    {
+      "company_id": 804,
+      "company_name": "Nicholas",
+      "uuid": "",
+      "dimsid": 804
+    },
+    {
+      "company_id": 164,
+      "company_name": "Nip Chemicals And Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 164
+    },
+    {
+      "company_id": 165,
+      "company_name": "Nipa Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 165
+    },
+    {
+      "company_id": 614,
+      "company_name": "Nippon Kayaku Co Ltd,.Japan",
+      "uuid": "",
+      "dimsid": 614
+    },
+    {
+      "company_id": 167,
+      "company_name": "NIPRO JMI Pharma Limited",
+      "uuid": "",
+      "dimsid": 167
+    },
+    {
+      "company_id": 867,
+      "company_name": "no company",
+      "uuid": "",
+      "dimsid": null
+    },
+    {
+      "company_id": 616,
+      "company_name": "Norbrook Laboratories Ltd.,Ireland",
+      "uuid": "",
+      "dimsid": 616
+    },
+    {
+      "company_id": 805,
+      "company_name": "Norgine",
+      "uuid": "",
+      "dimsid": 805
+    },
+    {
+      "company_id": 168,
+      "company_name": "North Bengal Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 168
+    },
+    {
+      "company_id": 787,
+      "company_name": "not a pharma",
+      "uuid": "",
+      "dimsid": 787
+    },
+    {
+      "company_id": 169,
+      "company_name": "Novartis (Bangladesh) Ltd.",
+      "uuid": "",
+      "dimsid": 169
+    },
+    {
+      "company_id": 617,
+      "company_name": "Novartis Farma SpA, Italy",
+      "uuid": "",
+      "dimsid": 617
+    },
+    {
+      "company_id": 619,
+      "company_name": "Novartis Farmaceutica S.A., Spain",
+      "uuid": "",
+      "dimsid": 619
+    },
+    {
+      "company_id": 622,
+      "company_name": "Novartis Opthalmics, Switzerland",
+      "uuid": "",
+      "dimsid": 622
+    },
+    {
+      "company_id": 623,
+      "company_name": "Novartis Pharma AG, Switzerland",
+      "uuid": "",
+      "dimsid": 623
+    },
+    {
+      "company_id": 625,
+      "company_name": "Novartis Pharma Ag. Germany",
+      "uuid": "",
+      "dimsid": 625
+    },
+    {
+      "company_id": 626,
+      "company_name": "Novartis Pharma Ag. Switerland",
+      "uuid": "",
+      "dimsid": 626
+    },
+    {
+      "company_id": 627,
+      "company_name": "Novartis Pharma GmbH, Germany",
+      "uuid": "",
+      "dimsid": 627
+    },
+    {
+      "company_id": 628,
+      "company_name": "Novartis Pharma SA, China",
+      "uuid": "",
+      "dimsid": 628
+    },
+    {
+      "company_id": 629,
+      "company_name": "Novartis Pharma SA, France",
+      "uuid": "",
+      "dimsid": 629
+    },
+    {
+      "company_id": 630,
+      "company_name": "Novartis Pharma Switzerland",
+      "uuid": "",
+      "dimsid": 630
+    },
+    {
+      "company_id": 631,
+      "company_name": "Novartis Pharma, France",
+      "uuid": "",
+      "dimsid": 631
+    },
+    {
+      "company_id": 634,
+      "company_name": "Novartis Pharmaceuticals, UK",
+      "uuid": "",
+      "dimsid": 634
+    },
+    {
+      "company_id": 635,
+      "company_name": "Novartis Vaccine and DiagnosticsGermany",
+      "uuid": "",
+      "dimsid": 635
+    },
+    {
+      "company_id": 636,
+      "company_name": "Novartis Vaccines & DiagnosticsS.r.l Italy",
+      "uuid": "",
+      "dimsid": 636
+    },
+    {
+      "company_id": 180,
+      "company_name": "Novatek Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 180
+    },
+    {
+      "company_id": 170,
+      "company_name": "Novelta Bestway Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 170
+    },
+    {
+      "company_id": 171,
+      "company_name": "Novo Healthcare and Pharma Ltd.",
+      "uuid": "",
+      "dimsid": 171
+    },
+    {
+      "company_id": 638,
+      "company_name": "Novo Industri A/S, Denmark",
+      "uuid": "",
+      "dimsid": 638
+    },
+    {
+      "company_id": 802,
+      "company_name": "Novo Nordisk",
+      "uuid": "",
+      "dimsid": 802
+    },
+    {
+      "company_id": 639,
+      "company_name": "Novo Nordisk A/S Denmark",
+      "uuid": "",
+      "dimsid": 639
+    },
+    {
+      "company_id": 173,
+      "company_name": "Novus Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 173
+    },
+    {
+      "company_id": 174,
+      "company_name": "Nuvista Pharma Ltd",
+      "uuid": "",
+      "dimsid": 174
+    },
+    {
+      "company_id": 642,
+      "company_name": "Nycomed GmbH, USA",
+      "uuid": "",
+      "dimsid": 642
+    },
+    {
+      "company_id": 643,
+      "company_name": "Nycomed, Germany",
+      "uuid": "",
+      "dimsid": 643
+    },
+    {
+      "company_id": 175,
+      "company_name": "Oasis Laboratories Ltd.",
+      "uuid": "",
+      "dimsid": 175
+    },
+    {
+      "company_id": 644,
+      "company_name": "Octapharma Pharmazeutika mbH,Germany",
+      "uuid": "",
+      "dimsid": 644
+    },
+    {
+      "company_id": 645,
+      "company_name": "Oculus Innovative Sciences, USA",
+      "uuid": "",
+      "dimsid": 645
+    },
+    {
+      "company_id": 823,
+      "company_name": "One Pharma Ltd.",
+      "uuid": "",
+      "dimsid": 823
+    },
+    {
+      "company_id": 178,
+      "company_name": "Opsonin Pharma Limited",
+      "uuid": "",
+      "dimsid": 178
+    },
+    {
+      "company_id": 913,
+      "company_name": "Optimum Pharmaceuticals",
+      "uuid": "",
+      "dimsid": 848
+    },
+    {
+      "company_id": 179,
+      "company_name": "Orbit Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 179
+    },
+    {
+      "company_id": 646,
+      "company_name": "Organon (Ireland) Ltd., Ireland",
+      "uuid": "",
+      "dimsid": 646
+    },
+    {
+      "company_id": 649,
+      "company_name": "Organon Iteland Ltd., Organon",
+      "uuid": "",
+      "dimsid": 649
+    },
+    {
+      "company_id": 650,
+      "company_name": "Orion Corporation Finland",
+      "uuid": "",
+      "dimsid": 650
+    },
+    {
+      "company_id": 818,
+      "company_name": "Orion Infusion Ltd.",
+      "uuid": "",
+      "dimsid": 818
+    },
+    {
+      "company_id": 182,
+      "company_name": "Orion Pharma Ltd.",
+      "uuid": "",
+      "dimsid": 182
+    },
+    {
+      "company_id": 176,
+      "company_name": "OSL Pharma Limited.",
+      "uuid": "",
+      "dimsid": 176
+    },
+    {
+      "company_id": 183,
+      "company_name": "Oyster Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 183
+    },
+    {
+      "company_id": 652,
+      "company_name": "Pacific Hospital Supply Co., Ltd.,USA",
+      "uuid": "",
+      "dimsid": 652
+    },
+    {
+      "company_id": 184,
+      "company_name": "Pacific Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 184
+    },
+    {
+      "company_id": 654,
+      "company_name": "Pacsun Industrial Co. Ltd., Korea",
+      "uuid": "",
+      "dimsid": 654
+    },
+    {
+      "company_id": 185,
+      "company_name": "Paradise Chemical Industries",
+      "uuid": "",
+      "dimsid": 185
+    },
+    {
+      "company_id": 655,
+      "company_name": "Pasteur Merieux Serums andVaccines, France",
+      "uuid": "",
+      "dimsid": 655
+    },
+    {
+      "company_id": 656,
+      "company_name": "Patheon Inc., Canada",
+      "uuid": "",
+      "dimsid": 656
+    },
+    {
+      "company_id": 187,
+      "company_name": "Peoples Pharma Ltd.",
+      "uuid": "",
+      "dimsid": 187
+    },
+    {
+      "company_id": 658,
+      "company_name": "Pfizer (perth) Pty. Ltd. Australia",
+      "uuid": "",
+      "dimsid": 658
+    },
+    {
+      "company_id": 661,
+      "company_name": "Pfizer Animal Health, USA",
+      "uuid": "",
+      "dimsid": 661
+    },
+    {
+      "company_id": 663,
+      "company_name": "Pfizer Italia Srl, Italy",
+      "uuid": "",
+      "dimsid": 663
+    },
+    {
+      "company_id": 664,
+      "company_name": "Pfizer Manufacturing deutchslandGermany",
+      "uuid": "",
+      "dimsid": 664
+    },
+    {
+      "company_id": 665,
+      "company_name": "Pfizer Manufacturing, Belgium",
+      "uuid": "",
+      "dimsid": 665
+    },
+    {
+      "company_id": 667,
+      "company_name": "Pfizer PGM, France",
+      "uuid": "",
+      "dimsid": 667
+    },
+    {
+      "company_id": 668,
+      "company_name": "Pfizer Pharmaceuticals, Ireland",
+      "uuid": "",
+      "dimsid": 668
+    },
+    {
+      "company_id": 669,
+      "company_name": "Pfizer Puus SP.A, Italy",
+      "uuid": "",
+      "dimsid": 669
+    },
+    {
+      "company_id": 670,
+      "company_name": "Pfizer Puus SP.A,., Belgium",
+      "uuid": "",
+      "dimsid": 670
+    },
+    {
+      "company_id": 671,
+      "company_name": "Pfizer Spa, Italy",
+      "uuid": "",
+      "dimsid": 671
+    },
+    {
+      "company_id": 672,
+      "company_name": "Pfizer, Belgium",
+      "uuid": "",
+      "dimsid": 672
+    },
+    {
+      "company_id": 673,
+      "company_name": "Pfizer, Canada",
+      "uuid": "",
+      "dimsid": 673
+    },
+    {
+      "company_id": 675,
+      "company_name": "Pharmachemie B. V. Netherlands",
+      "uuid": "",
+      "dimsid": 675
+    },
+    {
+      "company_id": 677,
+      "company_name": "Pharmachemie B.V., Holland",
+      "uuid": "",
+      "dimsid": 677
+    },
+    {
+      "company_id": 679,
+      "company_name": "Pharmacia Spa, Italy",
+      "uuid": "",
+      "dimsid": 679
+    },
+    {
+      "company_id": 188,
+      "company_name": "Pharmacil Ltd.",
+      "uuid": "",
+      "dimsid": 188
+    },
+    {
+      "company_id": 189,
+      "company_name": "Pharmaco International Ltd.",
+      "uuid": "",
+      "dimsid": 189
+    },
+    {
+      "company_id": 680,
+      "company_name": "Pharmacosmos",
+      "uuid": "",
+      "dimsid": 680
+    },
+    {
+      "company_id": 190,
+      "company_name": "Pharmadesh Laboratories Ltd.",
+      "uuid": "",
+      "dimsid": 190
+    },
+    {
+      "company_id": 191,
+      "company_name": "Pharmasia Ltd.",
+      "uuid": "",
+      "dimsid": 191
+    },
+    {
+      "company_id": 192,
+      "company_name": "Pharmatek Chemicals Ltd.",
+      "uuid": "",
+      "dimsid": 192
+    },
+    {
+      "company_id": 681,
+      "company_name": "Pharmathen S.A Greece",
+      "uuid": "",
+      "dimsid": 681
+    },
+    {
+      "company_id": 193,
+      "company_name": "Pharmik Laboratories Ltd.",
+      "uuid": "",
+      "dimsid": 193
+    },
+    {
+      "company_id": 194,
+      "company_name": "Phoenix Chemicals Laboratories (BD) Ltd.",
+      "uuid": "",
+      "dimsid": 194
+    },
+    {
+      "company_id": 195,
+      "company_name": "Pioneer Pharmaceutical Ltd",
+      "uuid": "",
+      "dimsid": 195
+    },
+    {
+      "company_id": 196,
+      "company_name": "Pip Limited",
+      "uuid": "",
+      "dimsid": 196
+    },
+    {
+      "company_id": 682,
+      "company_name": "Plasmapharm Sera GmbH & Co.,Austria",
+      "uuid": "",
+      "dimsid": 682
+    },
+    {
+      "company_id": 683,
+      "company_name": "Polichem S.A., Spain",
+      "uuid": "",
+      "dimsid": 683
+    },
+    {
+      "company_id": 798,
+      "company_name": "POLIPHARM CO LTD",
+      "uuid": "",
+      "dimsid": 798
+    },
+    {
+      "company_id": 198,
+      "company_name": "Popular Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 198
+    },
+    {
+      "company_id": 684,
+      "company_name": "Premier Enterprises, India",
+      "uuid": "",
+      "dimsid": 684
+    },
+    {
+      "company_id": 199,
+      "company_name": "Premier Pharmaceuticals",
+      "uuid": "",
+      "dimsid": 199
+    },
+    {
+      "company_id": 200,
+      "company_name": "Prime Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 200
+    },
+    {
+      "company_id": 685,
+      "company_name": "Procter & Gumble, Germany",
+      "uuid": "",
+      "dimsid": 685
+    },
+    {
+      "company_id": 201,
+      "company_name": "Pubali Pharmaceutical",
+      "uuid": "",
+      "dimsid": 201
+    },
+    {
+      "company_id": 907,
+      "company_name": "Purnava Limited",
+      "uuid": "",
+      "dimsid": 842
+    },
+    {
+      "company_id": 203,
+      "company_name": "Quality Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 203
+    },
+    {
+      "company_id": 686,
+      "company_name": "Quatchem Limited, Uk",
+      "uuid": "",
+      "dimsid": 686
+    },
+    {
+      "company_id": 687,
+      "company_name": "R. P. Scherer GmbH, Germany",
+      "uuid": "",
+      "dimsid": 687
+    },
+    {
+      "company_id": 204,
+      "company_name": "R.D.C.C.S. Limited",
+      "uuid": "",
+      "dimsid": 204
+    },
+    {
+      "company_id": 205,
+      "company_name": "Radiant Pharmaceutical Ltd.",
+      "uuid": "",
+      "dimsid": 205
+    },
+    {
+      "company_id": 206,
+      "company_name": "Rahman Chemicals Ltd.",
+      "uuid": "",
+      "dimsid": 206
+    },
+    {
+      "company_id": 208,
+      "company_name": "Rampart-Power Bangladesh Ltd.",
+      "uuid": "",
+      "dimsid": 208
+    },
+    {
+      "company_id": 209,
+      "company_name": "Rangs Medicine",
+      "uuid": "",
+      "dimsid": 209
+    },
+    {
+      "company_id": 210,
+      "company_name": "Rangs Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 210
+    },
+    {
+      "company_id": 211,
+      "company_name": "Rasa Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 211
+    },
+    {
+      "company_id": 212,
+      "company_name": "Reckitt & Benckiser Bangladesh Ltd.",
+      "uuid": "",
+      "dimsid": 212
+    },
+    {
+      "company_id": 689,
+      "company_name": "Reckitt & Colman Products Ltd., UK",
+      "uuid": "",
+      "dimsid": 689
+    },
+    {
+      "company_id": 213,
+      "company_name": "Reliable Drugs & Chemicals",
+      "uuid": "",
+      "dimsid": 213
+    },
+    {
+      "company_id": 214,
+      "company_name": "Reliance Laboratories Ltd.",
+      "uuid": "",
+      "dimsid": 214
+    },
+    {
+      "company_id": 215,
+      "company_name": "Reliance Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 215
+    },
+    {
+      "company_id": 216,
+      "company_name": "Reman Drug Laboratories Ltd.",
+      "uuid": "",
+      "dimsid": 216
+    },
+    {
+      "company_id": 217,
+      "company_name": "Remex Pharmaceuticals",
+      "uuid": "",
+      "dimsid": 217
+    },
+    {
+      "company_id": 218,
+      "company_name": "Remo Chemical Ltd.",
+      "uuid": "",
+      "dimsid": 218
+    },
+    {
+      "company_id": 219,
+      "company_name": "Renata Limited",
+      "uuid": "",
+      "dimsid": 219
+    },
+    {
+      "company_id": 221,
+      "company_name": "Rephco Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 221
+    },
+    {
+      "company_id": 222,
+      "company_name": "Rex Pharma",
+      "uuid": "",
+      "dimsid": 222
+    },
+    {
+      "company_id": 223,
+      "company_name": "Rid Pharma Ltd.",
+      "uuid": "",
+      "dimsid": 223
+    },
+    {
+      "company_id": 690,
+      "company_name": "Riemser Arzneimittel AG,Germany",
+      "uuid": "",
+      "dimsid": 690
+    },
+    {
+      "company_id": 224,
+      "company_name": "RN Pharmaceuticals",
+      "uuid": "",
+      "dimsid": 224
+    },
+    {
+      "company_id": 225,
+      "company_name": "Roche Bangladesh Pharmaceutical",
+      "uuid": "",
+      "dimsid": 225
+    },
+    {
+      "company_id": 691,
+      "company_name": "Roche Diagnostic, GermanyUnder Licence Roche, Swiss",
+      "uuid": "",
+      "dimsid": 691
+    },
+    {
+      "company_id": 692,
+      "company_name": "Roche Diagnostics GmbH,Germany",
+      "uuid": "",
+      "dimsid": 692
+    },
+    {
+      "company_id": 693,
+      "company_name": "Roche Fontenay, France",
+      "uuid": "",
+      "dimsid": 693
+    },
+    {
+      "company_id": 695,
+      "company_name": "Roche SpA, Italy",
+      "uuid": "",
+      "dimsid": 695
+    },
+    {
+      "company_id": 694,
+      "company_name": "Roche Spa, ItalyF. Hoffmann La Roche,Switzerland",
+      "uuid": "",
+      "dimsid": 694
+    },
+    {
+      "company_id": 696,
+      "company_name": "Rotexmedica GmbH, Germany",
+      "uuid": "",
+      "dimsid": 696
+    },
+    {
+      "company_id": 226,
+      "company_name": "Royal Pharmaceutical",
+      "uuid": "",
+      "dimsid": 226
+    },
+    {
+      "company_id": 699,
+      "company_name": "S. A. Alcon Couvereur NV,Belgium",
+      "uuid": "",
+      "dimsid": 699
+    },
+    {
+      "company_id": 700,
+      "company_name": "S. A. Alcon Couvreur N.V.,Belgium",
+      "uuid": "",
+      "dimsid": 700
+    },
+    {
+      "company_id": 227,
+      "company_name": "S. N. Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 227
+    },
+    {
+      "company_id": 816,
+      "company_name": "S.A. Alcon Couvreur.,N.V., Belgium",
+      "uuid": "",
+      "dimsid": 816
+    },
+    {
+      "company_id": 706,
+      "company_name": "S.C Sindan Pharma S.R.l,Romania",
+      "uuid": "",
+      "dimsid": 706
+    },
+    {
+      "company_id": 707,
+      "company_name": "S.C Sindan Pharma S.R.LkRomania",
+      "uuid": "",
+      "dimsid": 707
+    },
+    {
+      "company_id": 708,
+      "company_name": "S.P Veterinaria, s.a, Spain",
+      "uuid": "",
+      "dimsid": 708
+    },
+    {
+      "company_id": 228,
+      "company_name": "Salton Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 228
+    },
+    {
+      "company_id": 709,
+      "company_name": "Samyang Anipharm Co. Ltd. Korea",
+      "uuid": "",
+      "dimsid": 709
+    },
+    {
+      "company_id": 710,
+      "company_name": "Samyang Pharma ChemicalsCo.Ltd,, Korea",
+      "uuid": "",
+      "dimsid": 710
+    },
+    {
+      "company_id": 711,
+      "company_name": "Sandoz GmbH, Austria",
+      "uuid": "",
+      "dimsid": 711
+    },
+    {
+      "company_id": 712,
+      "company_name": "Sandoz Private Ltd. India",
+      "uuid": "",
+      "dimsid": 712
+    },
+    {
+      "company_id": 714,
+      "company_name": "Sanofi Aventis Pasteur SA, France",
+      "uuid": "",
+      "dimsid": 714
+    },
+    {
+      "company_id": 715,
+      "company_name": "Sanofi Aventis, Germany",
+      "uuid": "",
+      "dimsid": 715
+    },
+    {
+      "company_id": 717,
+      "company_name": "Sanofi Pasteur Lyon, France",
+      "uuid": "",
+      "dimsid": 717
+    },
+    {
+      "company_id": 718,
+      "company_name": "Sanofi Pasteur S A ,France",
+      "uuid": "",
+      "dimsid": 718
+    },
+    {
+      "company_id": 725,
+      "company_name": "Sanofi Winthrop Industries,France",
+      "uuid": "",
+      "dimsid": 725
+    },
+    {
+      "company_id": 727,
+      "company_name": "Sanofi-aventis DeutschlandGmbH, Germany",
+      "uuid": "",
+      "dimsid": 727
+    },
+    {
+      "company_id": 230,
+      "company_name": "Sarma Chemical Works Ltd.",
+      "uuid": "",
+      "dimsid": 230
+    },
+    {
+      "company_id": 231,
+      "company_name": "Save Pharmaceutical",
+      "uuid": "",
+      "dimsid": 231
+    },
+    {
+      "company_id": 729,
+      "company_name": "SBL Vaccin AB, Sweden",
+      "uuid": "",
+      "dimsid": 729
+    },
+    {
+      "company_id": 730,
+      "company_name": "Schering A.G, Germany",
+      "uuid": "",
+      "dimsid": 730
+    },
+    {
+      "company_id": 731,
+      "company_name": "Schering Plough, Ireland",
+      "uuid": "",
+      "dimsid": 731
+    },
+    {
+      "company_id": 732,
+      "company_name": "Schering- Plough Animal HealthCorp., USA",
+      "uuid": "",
+      "dimsid": 732
+    },
+    {
+      "company_id": 733,
+      "company_name": "ScheringOy,Pansiontie,47,20210Turku, Finland",
+      "uuid": "",
+      "dimsid": 733
+    },
+    {
+      "company_id": 735,
+      "company_name": "Schwarz Pharma, USA",
+      "uuid": "",
+      "dimsid": 735
+    },
+    {
+      "company_id": 232,
+      "company_name": "Seba Laboratories Ltd.",
+      "uuid": "",
+      "dimsid": 232
+    },
+    {
+      "company_id": 233,
+      "company_name": "Seema Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 233
+    },
+    {
+      "company_id": 234,
+      "company_name": "Seftchem Ltd.",
+      "uuid": "",
+      "dimsid": 234
+    },
+    {
+      "company_id": 736,
+      "company_name": "Senexi Sas Fontenay-Sous-Bois,France",
+      "uuid": "",
+      "dimsid": 736
+    },
+    {
+      "company_id": 737,
+      "company_name": "Senixi SAS, France",
+      "uuid": "",
+      "dimsid": 737
+    },
+    {
+      "company_id": 738,
+      "company_name": "Serono Pharma Ltd., UK",
+      "uuid": "",
+      "dimsid": 738
+    },
+    {
+      "company_id": 739,
+      "company_name": "Serono Pharma Spa, Italy",
+      "uuid": "",
+      "dimsid": 739
+    },
+    {
+      "company_id": 740,
+      "company_name": "Serumwerk Burnburg AG,Germany",
+      "uuid": "",
+      "dimsid": 740
+    },
+    {
+      "company_id": 741,
+      "company_name": "SF Co. Ltd., Korea",
+      "uuid": "",
+      "dimsid": 741
+    },
+    {
+      "company_id": 235,
+      "company_name": "Shamsul Al-Amin Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 235
+    },
+    {
+      "company_id": 742,
+      "company_name": "Shandong weigao Group MedicalPolymer Co. Ltd., China",
+      "uuid": "",
+      "dimsid": 742
+    },
+    {
+      "company_id": 236,
+      "company_name": "Sharif Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 236
+    },
+    {
+      "company_id": 237,
+      "company_name": "Sheba Chemicals Industries Ltd.",
+      "uuid": "",
+      "dimsid": 237
+    },
+    {
+      "company_id": 746,
+      "company_name": "Shinil Biogen & Co. Ltd., Korea",
+      "uuid": "",
+      "dimsid": 746
+    },
+    {
+      "company_id": 821,
+      "company_name": "Shire Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 821
+    },
+    {
+      "company_id": 238,
+      "company_name": "Silco Pharmaceuticlas Ltd.",
+      "uuid": "",
+      "dimsid": 238
+    },
+    {
+      "company_id": 239,
+      "company_name": "Silva Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 239
+    },
+    {
+      "company_id": 749,
+      "company_name": "Sino Swed PharmaceuticalCorporation Ltd., China",
+      "uuid": "",
+      "dimsid": 749
+    },
+    {
+      "company_id": 240,
+      "company_name": "Skylab Ltd.",
+      "uuid": "",
+      "dimsid": 240
+    },
+    {
+      "company_id": 829,
+      "company_name": "SMC Enterprise Limited Bangladesh",
+      "uuid": "",
+      "dimsid": 829
+    },
+    {
+      "company_id": 750,
+      "company_name": "Smith & Nephew Medical Ltd., UK",
+      "uuid": "",
+      "dimsid": 750
+    },
+    {
+      "company_id": 241,
+      "company_name": "Social Marketing Company",
+      "uuid": "",
+      "dimsid": 241
+    },
+    {
+      "company_id": 751,
+      "company_name": "Socorex Isba S .A. CH.ChampColomb 7,Switzerland",
+      "uuid": "",
+      "dimsid": 751
+    },
+    {
+      "company_id": 752,
+      "company_name": "Solvay Pharmaceuticals,Netherlands",
+      "uuid": "",
+      "dimsid": 752
+    },
+    {
+      "company_id": 243,
+      "company_name": "Somatec Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 243
+    },
+    {
+      "company_id": 244,
+      "company_name": "Sonear Laboratories Ltd.",
+      "uuid": "",
+      "dimsid": 244
+    },
+    {
+      "company_id": 245,
+      "company_name": "Sonergaon Chemical Complex (pvt) Ltd.",
+      "uuid": "",
+      "dimsid": 245
+    },
+    {
+      "company_id": 246,
+      "company_name": "Sony Pharmaceutical Ltd.",
+      "uuid": "",
+      "dimsid": 246
+    },
+    {
+      "company_id": 247,
+      "company_name": "Spark Pharmaceutical Ltd.",
+      "uuid": "",
+      "dimsid": 247
+    },
+    {
+      "company_id": 753,
+      "company_name": "Special T Products Ltd., UK",
+      "uuid": "",
+      "dimsid": 753
+    },
+    {
+      "company_id": 248,
+      "company_name": "Spectra Oxygen Limited",
+      "uuid": "",
+      "dimsid": 248
+    },
+    {
+      "company_id": 249,
+      "company_name": "Square Cephalosporins Ltd.",
+      "uuid": "",
+      "dimsid": 249
+    },
+    {
+      "company_id": 250,
+      "company_name": "Square Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 250
+    },
+    {
+      "company_id": 253,
+      "company_name": "Standard Laboratories Ltd.",
+      "uuid": "",
+      "dimsid": 253
+    },
+    {
+      "company_id": 254,
+      "company_name": "Stars Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 254
+    },
+    {
+      "company_id": 754,
+      "company_name": "Stiefel Laboratories Ptd Ltd.,Ireland",
+      "uuid": "",
+      "dimsid": 754
+    },
+    {
+      "company_id": 755,
+      "company_name": "Stiefel Laboratories Ptd Ltd.,Singapore",
+      "uuid": "",
+      "dimsid": 755
+    },
+    {
+      "company_id": 758,
+      "company_name": "Sumitomo Pharmaceuticals Co.,Ltd., Japan",
+      "uuid": "",
+      "dimsid": 758
+    },
+    {
+      "company_id": 255,
+      "company_name": "Sun Pharmaceutical (Bangladesh) Ltd.",
+      "uuid": "",
+      "dimsid": 255
+    },
+    {
+      "company_id": 831,
+      "company_name": "SUNMAN-BIRDEM Pharma Ltd",
+      "uuid": "",
+      "dimsid": 831
+    },
+    {
+      "company_id": 256,
+      "company_name": "Sunypun Pharmaceutical Ltd.",
+      "uuid": "",
+      "dimsid": 256
+    },
+    {
+      "company_id": 759,
+      "company_name": "Super",
+      "uuid": "",
+      "dimsid": 759
+    },
+    {
+      "company_id": 257,
+      "company_name": "Super Power Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 257
+    },
+    {
+      "company_id": 258,
+      "company_name": "Supreme Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 258
+    },
+    {
+      "company_id": 760,
+      "company_name": "Swensweg 5 Haarlem, Holland",
+      "uuid": "",
+      "dimsid": 760
+    },
+    {
+      "company_id": 229,
+      "company_name": "Synovia Pharma PLC.",
+      "uuid": "",
+      "dimsid": 229
+    },
+    {
+      "company_id": 259,
+      "company_name": "Syntho Laboratories Ltd.",
+      "uuid": "",
+      "dimsid": 259
+    },
+    {
+      "company_id": 761,
+      "company_name": "Takeda Pharmaceutical Companyltd., Japan",
+      "uuid": "",
+      "dimsid": 761
+    },
+    {
+      "company_id": 762,
+      "company_name": "Talecris Biotherapeutics Inc. USA",
+      "uuid": "",
+      "dimsid": 762
+    },
+    {
+      "company_id": 828,
+      "company_name": "Team Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 828
+    },
+    {
+      "company_id": 260,
+      "company_name": "Techno Drugs Ltd.",
+      "uuid": "",
+      "dimsid": 260
+    },
+    {
+      "company_id": 763,
+      "company_name": "Terumo Corporation, Japan",
+      "uuid": "",
+      "dimsid": 763
+    },
+    {
+      "company_id": 764,
+      "company_name": "Teva Pharmaceutical Private Ltd.,Hungary",
+      "uuid": "",
+      "dimsid": 764
+    },
+    {
+      "company_id": 765,
+      "company_name": "Thai Nokorn Patana Co. Ltd.Thailand",
+      "uuid": "",
+      "dimsid": 765
+    },
+    {
+      "company_id": 766,
+      "company_name": "The Dow Chemical Company,USA",
+      "uuid": "",
+      "dimsid": 766
+    },
+    {
+      "company_id": 767,
+      "company_name": "The Research Foundation forMicrobial Disease of OsakaUniversity, Japan",
+      "uuid": "",
+      "dimsid": 767
+    },
+    {
+      "company_id": 262,
+      "company_name": "Theraputics (BD) Ltd.",
+      "uuid": "",
+      "dimsid": 262
+    },
+    {
+      "company_id": 768,
+      "company_name": "TRB Chemedica International Sa,Switzerland",
+      "uuid": "",
+      "dimsid": 768
+    },
+    {
+      "company_id": 263,
+      "company_name": "Tropical Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 263
+    },
+    {
+      "company_id": 769,
+      "company_name": "Tyco Healthcare, Canada",
+      "uuid": "",
+      "dimsid": 769
+    },
+    {
+      "company_id": 770,
+      "company_name": "UCB India Ltd., India",
+      "uuid": "",
+      "dimsid": 770
+    },
+    {
+      "company_id": 771,
+      "company_name": "UG Medical Disposable DNMalaysia",
+      "uuid": "",
+      "dimsid": 771
+    },
+    {
+      "company_id": 264,
+      "company_name": "Ultra Pharma Ltd.",
+      "uuid": "",
+      "dimsid": 264
+    },
+    {
+      "company_id": 803,
+      "company_name": "UniDerma",
+      "uuid": "",
+      "dimsid": 803
+    },
+    {
+      "company_id": 265,
+      "company_name": "UniMed UniHealth Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 265
+    },
+    {
+      "company_id": 266,
+      "company_name": "Union Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 266
+    },
+    {
+      "company_id": 267,
+      "company_name": "Unique Pharmaceutical Ltd.",
+      "uuid": "",
+      "dimsid": 267
+    },
+    {
+      "company_id": 268,
+      "company_name": "United Chemicals & Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 268
+    },
+    {
+      "company_id": 772,
+      "company_name": "United Propotions Inc., USA",
+      "uuid": "",
+      "dimsid": 772
+    },
+    {
+      "company_id": 271,
+      "company_name": "Universal Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 271
+    },
+    {
+      "company_id": 773,
+      "company_name": "Varun Medimpex,India",
+      "uuid": "",
+      "dimsid": 773
+    },
+    {
+      "company_id": 272,
+      "company_name": "Veritas Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 272
+    },
+    {
+      "company_id": 775,
+      "company_name": "Vetech Labortories Inc., Canada",
+      "uuid": "",
+      "dimsid": 775
+    },
+    {
+      "company_id": 776,
+      "company_name": "Vetoquinol SA, France",
+      "uuid": "",
+      "dimsid": 776
+    },
+    {
+      "company_id": 777,
+      "company_name": "Vifor (International) Inc.,Switzerland",
+      "uuid": "",
+      "dimsid": 777
+    },
+    {
+      "company_id": 273,
+      "company_name": "Virgo Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 273
+    },
+    {
+      "company_id": 778,
+      "company_name": "Walter Ritter GmbH, Germany",
+      "uuid": "",
+      "dimsid": 778
+    },
+    {
+      "company_id": 779,
+      "company_name": "Walter Ritter Kg, Germany",
+      "uuid": "",
+      "dimsid": 779
+    },
+    {
+      "company_id": 274,
+      "company_name": "Weinberg Pharmaceuticals",
+      "uuid": "",
+      "dimsid": 274
+    },
+    {
+      "company_id": 275,
+      "company_name": "Wellcome Chemical",
+      "uuid": "",
+      "dimsid": 275
+    },
+    {
+      "company_id": 276,
+      "company_name": "White Horse Pharma",
+      "uuid": "",
+      "dimsid": 276
+    },
+    {
+      "company_id": 780,
+      "company_name": "Wyeth Canada, Canada",
+      "uuid": "",
+      "dimsid": 780
+    },
+    {
+      "company_id": 781,
+      "company_name": "Wyeth Pharma GmbH, Germany",
+      "uuid": "",
+      "dimsid": 781
+    },
+    {
+      "company_id": 783,
+      "company_name": "Y. Snore LLC 460, USA",
+      "uuid": "",
+      "dimsid": 783
+    },
+    {
+      "company_id": 784,
+      "company_name": "Zagro Singapore Pte. Ltd.,Singapore",
+      "uuid": "",
+      "dimsid": 784
+    },
+    {
+      "company_id": 277,
+      "company_name": "Zaman Pharmaceutical Ltd,",
+      "uuid": "",
+      "dimsid": 277
+    },
+    {
+      "company_id": 909,
+      "company_name": "ZAS Corporation",
+      "uuid": "",
+      "dimsid": 844
+    },
+    {
+      "company_id": 278,
+      "company_name": "Zenith Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 278
+    },
+    {
+      "company_id": 785,
+      "company_name": "Zentaris GmbH, Germany",
+      "uuid": "",
+      "dimsid": 785
+    },
+    {
+      "company_id": 786,
+      "company_name": "Zhejiang Anji Sunlight MedicinalProducts Co., Ltd., China",
+      "uuid": "",
+      "dimsid": 786
+    },
+    {
+      "company_id": 279,
+      "company_name": "Ziska Pharmaceuticals Ltd.",
+      "uuid": "",
+      "dimsid": 279
+    }
+  ]
+}

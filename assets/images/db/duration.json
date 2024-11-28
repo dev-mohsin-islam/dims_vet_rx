@@ -1,0 +1,422 @@
+{
+  "success": true,
+  "dataLength": 55,
+  "message": "data found.",
+  "data": {
+    "current_page": 1,
+    "data": [
+      {
+        "id": 119,
+        "name": "চলবে",
+        "number": 0,
+        "type": "",
+        "uuid": ""
+      },
+      {
+        "id": 1,
+        "name": "১ দিন",
+        "number": 1,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 68,
+        "name": "১ মাস",
+        "number": 1,
+        "type": "মাস",
+        "uuid": ""
+      },
+      {
+        "id": 32,
+        "name": "১ সপ্তাহ",
+        "number": 1,
+        "type": "সপ্তাহ",
+        "uuid": ""
+      },
+      {
+        "id": 10,
+        "name": "১০ দিন",
+        "number": 10,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 41,
+        "name": "১০ সপ্তাহ",
+        "number": 10,
+        "type": "সপ্তাহ",
+        "uuid": ""
+      },
+      {
+        "id": 11,
+        "name": "১১ দিন",
+        "number": 11,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 42,
+        "name": "১১ সপ্তাহ",
+        "number": 11,
+        "type": "সপ্তাহ",
+        "uuid": ""
+      },
+      {
+        "id": 12,
+        "name": "১২ দিন",
+        "number": 12,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 43,
+        "name": "১২ সপ্তাহ",
+        "number": 12,
+        "type": "সপ্তাহ",
+        "uuid": ""
+      },
+      {
+        "id": 13,
+        "name": "১৩ দিন",
+        "number": 13,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 44,
+        "name": "১৩ সপ্তাহ",
+        "number": 13,
+        "type": "সপ্তাহ",
+        "uuid": ""
+      },
+      {
+        "id": 14,
+        "name": "১৪ দিন",
+        "number": 14,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 45,
+        "name": "১৪ সপ্তাহ",
+        "number": 14,
+        "type": "সপ্তাহ",
+        "uuid": ""
+      },
+      {
+        "id": 15,
+        "name": "১৫ দিন",
+        "number": 15,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 46,
+        "name": "১৫ সপ্তাহ",
+        "number": 15,
+        "type": "সপ্তাহ",
+        "uuid": ""
+      },
+      {
+        "id": 16,
+        "name": "১৬ দিন",
+        "number": 16,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 17,
+        "name": "১৭ দিন",
+        "number": 17,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 18,
+        "name": "১৮ দিন",
+        "number": 18,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 19,
+        "name": "১৯ দিন",
+        "number": 19,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 2,
+        "name": "২ দিন",
+        "number": 2,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 69,
+        "name": "২ মাস",
+        "number": 2,
+        "type": "মাস",
+        "uuid": ""
+      },
+      {
+        "id": 33,
+        "name": "২ সপ্তাহ",
+        "number": 2,
+        "type": "সপ্তাহ",
+        "uuid": ""
+      },
+      {
+        "id": 20,
+        "name": "২০ দিন",
+        "number": 20,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 21,
+        "name": "২১ দিন",
+        "number": 21,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 22,
+        "name": "২২ দিন",
+        "number": 22,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 23,
+        "name": "২৩ দিন",
+        "number": 23,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 24,
+        "name": "২৪ দিন",
+        "number": 24,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 25,
+        "name": "২৫ দিন",
+        "number": 25,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 26,
+        "name": "২৬ দিন",
+        "number": 26,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 27,
+        "name": "২৭ দিন",
+        "number": 27,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 28,
+        "name": "২৮ দিন",
+        "number": 28,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 29,
+        "name": "২৯ দিন",
+        "number": 29,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 3,
+        "name": "৩ দিন",
+        "number": 3,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 70,
+        "name": "৩ মাস",
+        "number": 3,
+        "type": "মাস",
+        "uuid": ""
+      },
+      {
+        "id": 34,
+        "name": "৩ সপ্তাহ",
+        "number": 3,
+        "type": "সপ্তাহ",
+        "uuid": ""
+      },
+      {
+        "id": 30,
+        "name": "৩০ দিন",
+        "number": 30,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 4,
+        "name": "৪ দিন",
+        "number": 4,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 71,
+        "name": "৪ মাস",
+        "number": 4,
+        "type": "মাস",
+        "uuid": ""
+      },
+      {
+        "id": 35,
+        "name": "৪ সপ্তাহ",
+        "number": 4,
+        "type": "সপ্তাহ",
+        "uuid": ""
+      },
+      {
+        "id": 5,
+        "name": "৫ দিন",
+        "number": 5,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 72,
+        "name": "৫ মাস",
+        "number": 5,
+        "type": "মাস",
+        "uuid": ""
+      },
+      {
+        "id": 36,
+        "name": "৫ সপ্তাহ",
+        "number": 5,
+        "type": "সপ্তাহ",
+        "uuid": ""
+      },
+      {
+        "id": 7,
+        "name": "৬ দিন",
+        "number": 6,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 73,
+        "name": "৬ মাস",
+        "number": 6,
+        "type": "মাস",
+        "uuid": ""
+      },
+      {
+        "id": 37,
+        "name": "৬ সপ্তাহ",
+        "number": 6,
+        "type": "সপ্তাহ",
+        "uuid": ""
+      },
+      {
+        "id": 8,
+        "name": "৭ দিন",
+        "number": 7,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 74,
+        "name": "৭ মাস",
+        "number": 7,
+        "type": "মাস",
+        "uuid": ""
+      },
+      {
+        "id": 38,
+        "name": "৭ সপ্তাহ",
+        "number": 7,
+        "type": "সপ্তাহ",
+        "uuid": ""
+      },
+      {
+        "id": 9,
+        "name": "৮ দিন",
+        "number": 8,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 75,
+        "name": "৮ মাস",
+        "number": 8,
+        "type": "মাস",
+        "uuid": ""
+      },
+      {
+        "id": 39,
+        "name": "৮ সপ্তাহ",
+        "number": 8,
+        "type": "সপ্তাহ",
+        "uuid": ""
+      },
+      {
+        "id": 31,
+        "name": "৯ দিন",
+        "number": 9,
+        "type": "দিন",
+        "uuid": ""
+      },
+      {
+        "id": 76,
+        "name": "৯ মাস",
+        "number": 9,
+        "type": "মাস",
+        "uuid": ""
+      },
+      {
+        "id": 40,
+        "name": "৯ সপ্তাহ",
+        "number": 9,
+        "type": "সপ্তাহ",
+        "uuid": ""
+      }
+    ],
+    "first_page_url": "https://rxapi.navanapharma.com/api/allDuration?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "https://rxapi.navanapharma.com/api/allDuration?page=1",
+    "links": [
+      {
+        "url": null,
+        "label": "&laquo; Previous",
+        "active": false
+      },
+      {
+        "url": "https://rxapi.navanapharma.com/api/allDuration?page=1",
+        "label": "1",
+        "active": true
+      },
+      {
+        "url": null,
+        "label": "Next &raquo;",
+        "active": false
+      }
+    ],
+    "next_page_url": null,
+    "path": "https://rxapi.navanapharma.com/api/allDuration",
+    "per_page": "100",
+    "prev_page_url": null,
+    "to": 55,
+    "total": 55
+  }
+}

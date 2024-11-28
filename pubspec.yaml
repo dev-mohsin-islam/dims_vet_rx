@@ -1,0 +1,199 @@
+name: dims_vet_rx
+description: "Digital Prescription Writing Software for Medical Practitioners"
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+# In Windows, build-name is used as the major, minor, and patch parts
+# of the product and file versions while build-number is used as the build suffix.
+
+version: 1.0.0+1
+
+
+environment:
+  sdk: '>=3.2.2 <4.0.0'
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^2.1.3
+  hive_generator: ^2.0.1
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  get: ^4.6.6
+  autocomplete_textfield: ^2.0.1
+  dropdown_search: ^5.0.6
+  dropdown_button2: ^2.3.9
+  file_picker: ^5.3.1
+  flutter_quill: ^9.1.0
+  logger: ^2.0.2+1
+  printing: ^5.11.1
+  pdf: ^3.10.7
+  bijoy_helper: ^0.0.4
+  flutter_cache_manager: ^3.3.1
+  connectivity_plus: ^6.0.3
+  desktop_window: ^0.4.0
+  http_parser: ^4.0.0
+  #this package use for file unzip
+  archive: ^3.4.10
+
+  #for get file folder permission
+  permission_handler: ^11.2.0
+
+  #this package use for exe file generate
+  msix: ^3.16.7
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.2
+  provider: ^6.1.2
+  shared_preferences: ^2.2.2
+  percent_indicator: ^4.2.3
+  flutter_window_close: ^1.2.0
+  flutter_svg: ^2.0.10+1
+  flutter_phoenix: ^1.1.1
+  win32: ^4.1.4
+  qr_flutter: ^4.1.0
+  package_info_plus: ^8.0.0
+  html_editor_enhanced: ^2.5.1
+  dio: ^5.7.0
+  searchfield: ^1.0.9
+  firebase_core: ^3.4.0
+  firebase_analytics: ^11.3.0
+  firebase_performance: ^0.10.0+5
+  cloud_firestore: ^5.4.0
+
+
+dev_dependencies:
+  integration_test:
+    sdk: flutter
+  flutter_test:
+    sdk: flutter
+  build_runner: ^2.4.7
+  inno_bundle: ^0.5.0
+  innosetup: ^0.1.3
+  flutter_launcher_icons: ^0.13.1
+  change_app_package_name: ^1.4.0
+
+inno_bundle:
+  id: 2fad5f80-7543-1ff9-a5d3-4deb04410d66 # <-- Put your own generated id here
+  publisher: Navana Rx Digital # Optional, but recommended.
+
+flutter_launcher_icons:
+  android: "ic_launcher"
+  ios: true
+  remove_alpha_ios: true
+  image_path: "assets/images/navana_icon.png"
+  min_sdk_android: 23
+
+msix_config:
+  display_name: DIMS Vet Rx
+  publisher_display_name: ITmedicus
+  identity_name: ITmedicus.DIMSVetRx
+  msix_version: 1.0.0.0
+  logo_path: ./assets/images/navana_icon.png
+  certificate_path: ./assets/selfCertificate\CERTIFICATE.pfx
+  publisher: "CN=DE46CFD4-5F86-484A-A4D4-0A7C261D1501"
+#  publisher_url: "https://itmedicus.com/navana/downloads/1.1/navana_rx_desktop_final_version.msix"
+  certificate_password: itmedicus
+  store: true
+  publisher_id: 98af85af-9dd3-44fd-9e69-dd28a4aeefb3
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^2.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/images/rx_icon.png
+    - assets/images/radio_icon_2.png
+    - assets/images/CreateRx.png
+    - assets/images/img.png
+    - assets/images/navana_icon.svg
+    - assets/images/navana_logo.jpg
+    - assets/images/loading.gif
+    - assets/db/advice.json
+    - assets/db/brand.json
+    - assets/db/cc.json
+    - assets/db/company.json
+    - assets/db/diagnosis.json
+    - assets/db/dose.json
+    - assets/db/duration.json
+    - assets/db/generic.json
+    - assets/db/handout.json
+    - assets/db/history.json
+    - assets/db/instruction.json
+    - assets/db/investigationAdvice.json
+    - assets/db/investigationReport.json
+    - assets/db/onExamination.json
+    - assets/db/onExaminationCategory.json
+    - assets/db/procedure.json
+    - assets/db/history_category.json
+    - assets/db/history_new.json
+    - assets/images/clinical_data_list_icon.json
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/assets-and-images/#resolution-aware
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/assets-and-images/#from-packages
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  fonts:
+    - family: NotoSansBengali
+      fonts:
+        - asset: fonts/NotoSansBengali-VariableFont_wdth_wght.ttf
+    #       - asset: fonts/Schyler-Italic.ttf
+    #         style: italic
+    - family: Bangla_Kolom_Regular
+      fonts:
+        - asset: fonts/Bangla_Kolom_Regular-04-09-2012.ttf
+
+    - family: SutonnyMJRegular
+      fonts:
+        - asset: fonts/SutonnyMJRegular.ttf
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
+
+#  logo_path: C:\path\to\logo.png
+#  capabilities: internetClient, location, microphone, webcam

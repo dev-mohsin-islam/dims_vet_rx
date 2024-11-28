@@ -1,0 +1,2828 @@
+
+{
+  "success": true,
+  "dataLength": 558,
+  "message": "data found.",
+  "data": {
+    "current_page": 1,
+    "data": [
+      {
+        "id": 2161,
+        "name": "Abcess",
+        "uuid": ""
+      },
+      {
+        "id": 2663,
+        "name": "Abdominal discomfort",
+        "uuid": ""
+      },
+      {
+        "id": 2584,
+        "name": "Abnormal Menstrual Bleeding",
+        "uuid": ""
+      },
+      {
+        "id": 2585,
+        "name": "Abnormal Menstrual Cycle",
+        "uuid": ""
+      },
+      {
+        "id": 2586,
+        "name": "Abnormal Menstruation",
+        "uuid": ""
+      },
+      {
+        "id": 2583,
+        "name": "Abnormal uterine bleeding",
+        "uuid": ""
+      },
+      {
+        "id": 2238,
+        "name": "Abortion",
+        "uuid": ""
+      },
+      {
+        "id": 2587,
+        "name": "Absence of Libido",
+        "uuid": ""
+      },
+      {
+        "id": 2588,
+        "name": "Absence of Menstruation",
+        "uuid": ""
+      },
+      {
+        "id": 2147,
+        "name": "Ache",
+        "uuid": ""
+      },
+      {
+        "id": 2819,
+        "name": "After Delivery ",
+        "uuid": ""
+      },
+      {
+        "id": 2820,
+        "name": "After Delivery Of A Baby",
+        "uuid": ""
+      },
+      {
+        "id": 2201,
+        "name": "Agitation",
+        "uuid": ""
+      },
+      {
+        "id": 2228,
+        "name": "Allergy",
+        "uuid": ""
+      },
+      {
+        "id": 2589,
+        "name": "Amenorrhoea",
+        "uuid": ""
+      },
+      {
+        "id": 2178,
+        "name": "Anorexia",
+        "uuid": ""
+      },
+      {
+        "id": 2750,
+        "name": "anorexia and vertigo",
+        "uuid": ""
+      },
+      {
+        "id": 2184,
+        "name": "Anxiety",
+        "uuid": ""
+      },
+      {
+        "id": 2181,
+        "name": "Apathy",
+        "uuid": ""
+      },
+      {
+        "id": 2182,
+        "name": "Aphasia",
+        "uuid": ""
+      },
+      {
+        "id": 2324,
+        "name": "Asymptomatic",
+        "uuid": ""
+      },
+      {
+        "id": 2303,
+        "name": "Atrophy ",
+        "uuid": ""
+      },
+      {
+        "id": 2304,
+        "name": "Atrophy Muscle",
+        "uuid": ""
+      },
+      {
+        "id": 2723,
+        "name": "back pain",
+        "uuid": ""
+      },
+      {
+        "id": 11451,
+        "name": "BD 44",
+        "uuid": "7fbeaa3c-23bd-5d3e-9573-b67bbcf88a93"
+      },
+      {
+        "id": 2220,
+        "name": "Belching",
+        "uuid": ""
+      },
+      {
+        "id": 2158,
+        "name": "Bleeding",
+        "uuid": ""
+      },
+      {
+        "id": 2540,
+        "name": "Bleeding During Pregnancy",
+        "uuid": ""
+      },
+      {
+        "id": 2738,
+        "name": "blister",
+        "uuid": ""
+      },
+      {
+        "id": 2221,
+        "name": "Bloating",
+        "uuid": ""
+      },
+      {
+        "id": 2165,
+        "name": "Blood",
+        "uuid": ""
+      },
+      {
+        "id": 2465,
+        "name": "Blood In Cough",
+        "uuid": ""
+      },
+      {
+        "id": 2468,
+        "name": "Blood In Discharge",
+        "uuid": ""
+      },
+      {
+        "id": 2467,
+        "name": "Blood In Saliva",
+        "uuid": ""
+      },
+      {
+        "id": 2463,
+        "name": "Blood In Semen",
+        "uuid": ""
+      },
+      {
+        "id": 2464,
+        "name": "Blood In Sputum",
+        "uuid": ""
+      },
+      {
+        "id": 2462,
+        "name": "Blood In Stool",
+        "uuid": ""
+      },
+      {
+        "id": 2461,
+        "name": "Blood In Urine",
+        "uuid": ""
+      },
+      {
+        "id": 2466,
+        "name": "Blood In Vomit",
+        "uuid": ""
+      },
+      {
+        "id": 2632,
+        "name": "bluish coloration of lip",
+        "uuid": ""
+      },
+      {
+        "id": 2473,
+        "name": "Blurring Vision",
+        "uuid": ""
+      },
+      {
+        "id": 2455,
+        "name": "Breakthrough Menstrual Bleeding",
+        "uuid": ""
+      },
+      {
+        "id": 2541,
+        "name": "Breast Lump",
+        "uuid": ""
+      },
+      {
+        "id": 2531,
+        "name": "Breast Pain",
+        "uuid": ""
+      },
+      {
+        "id": 2633,
+        "name": "breathing difficulty",
+        "uuid": ""
+      },
+      {
+        "id": 2805,
+        "name": "Breathlessness",
+        "uuid": ""
+      },
+      {
+        "id": 2295,
+        "name": "Brittle Nails",
+        "uuid": ""
+      },
+      {
+        "id": 2150,
+        "name": "Burning ",
+        "uuid": ""
+      },
+      {
+        "id": 2732,
+        "name": "burning epigastric pain",
+        "uuid": ""
+      },
+      {
+        "id": 2755,
+        "name": "burning Sensation ",
+        "uuid": ""
+      },
+      {
+        "id": 2831,
+        "name": "Burning Sensation in abdomen",
+        "uuid": ""
+      },
+      {
+        "id": 2770,
+        "name": "burning sensation on the epigastric region",
+        "uuid": ""
+      },
+      {
+        "id": 2538,
+        "name": "Burning Urine",
+        "uuid": ""
+      },
+      {
+        "id": 2746,
+        "name": "central chest pain",
+        "uuid": ""
+      },
+      {
+        "id": 2595,
+        "name": "Cessation of Ejaculation",
+        "uuid": ""
+      },
+      {
+        "id": 2496,
+        "name": "Cessation of Menstruation",
+        "uuid": ""
+      },
+      {
+        "id": 2497,
+        "name": "Cessation of Urine",
+        "uuid": ""
+      },
+      {
+        "id": 2829,
+        "name": "Chest Pain ",
+        "uuid": ""
+      },
+      {
+        "id": 2210,
+        "name": "Chills",
+        "uuid": ""
+      },
+      {
+        "id": 2485,
+        "name": "Clear Colour sputum",
+        "uuid": ""
+      },
+      {
+        "id": 2311,
+        "name": "Coarse Hair",
+        "uuid": ""
+      },
+      {
+        "id": 2312,
+        "name": "Coarse Skin",
+        "uuid": ""
+      },
+      {
+        "id": 2612,
+        "name": "Coital Bleeding",
+        "uuid": ""
+      },
+      {
+        "id": 2243,
+        "name": "Cold Intolerance",
+        "uuid": ""
+      },
+      {
+        "id": 2233,
+        "name": "Coma",
+        "uuid": ""
+      },
+      {
+        "id": 2175,
+        "name": "Confusion",
+        "uuid": ""
+      },
+      {
+        "id": 2642,
+        "name": "Congenital anomely of hands",
+        "uuid": ""
+      },
+      {
+        "id": 2212,
+        "name": "Congestion",
+        "uuid": ""
+      },
+      {
+        "id": 2176,
+        "name": "Constipation",
+        "uuid": ""
+      },
+      {
+        "id": 2592,
+        "name": "Continuous Leakage of Fluid",
+        "uuid": ""
+      },
+      {
+        "id": 2591,
+        "name": "Continuous Leakage of Urine",
+        "uuid": ""
+      },
+      {
+        "id": 2593,
+        "name": "Continuous Secretion of Milk",
+        "uuid": ""
+      },
+      {
+        "id": 2234,
+        "name": "Convulsion",
+        "uuid": ""
+      },
+      {
+        "id": 2314,
+        "name": "Cool Extremities",
+        "uuid": ""
+      },
+      {
+        "id": 2170,
+        "name": "Cough",
+        "uuid": ""
+      },
+      {
+        "id": 2169,
+        "name": "Cough & Cold",
+        "uuid": ""
+      },
+      {
+        "id": 2706,
+        "name": "crack",
+        "uuid": ""
+      },
+      {
+        "id": 2146,
+        "name": "Cramp",
+        "uuid": ""
+      },
+      {
+        "id": 2710,
+        "name": "cramping pain",
+        "uuid": ""
+      },
+      {
+        "id": 2174,
+        "name": "Crepitations",
+        "uuid": ""
+      },
+      {
+        "id": 2490,
+        "name": "Dark",
+        "uuid": ""
+      },
+      {
+        "id": 2476,
+        "name": "Dark Stool",
+        "uuid": ""
+      },
+      {
+        "id": 2475,
+        "name": "Dark Urine",
+        "uuid": ""
+      },
+      {
+        "id": 2415,
+        "name": "Decrease Appetite",
+        "uuid": ""
+      },
+      {
+        "id": 2421,
+        "name": "Decrease Blood Glucose",
+        "uuid": ""
+      },
+      {
+        "id": 2420,
+        "name": "Decrease Blood Pressure",
+        "uuid": ""
+      },
+      {
+        "id": 2427,
+        "name": "Decrease Chest Wall Expansion",
+        "uuid": ""
+      },
+      {
+        "id": 2422,
+        "name": "Decrease Foetal Growth",
+        "uuid": ""
+      },
+      {
+        "id": 2419,
+        "name": "Decrease Hair Growth",
+        "uuid": ""
+      },
+      {
+        "id": 2425,
+        "name": "Decrease Head Circumference",
+        "uuid": ""
+      },
+      {
+        "id": 2413,
+        "name": "Decrease Libido",
+        "uuid": ""
+      },
+      {
+        "id": 2416,
+        "name": "Decrease Salivation",
+        "uuid": ""
+      },
+      {
+        "id": 2424,
+        "name": "Decrease School Performance",
+        "uuid": ""
+      },
+      {
+        "id": 2296,
+        "name": "Decrease Size of ",
+        "uuid": ""
+      },
+      {
+        "id": 2297,
+        "name": "Decrease Size of Breast",
+        "uuid": ""
+      },
+      {
+        "id": 2298,
+        "name": "Decrease Size of Testis",
+        "uuid": ""
+      },
+      {
+        "id": 2646,
+        "name": "decrease sleep",
+        "uuid": ""
+      },
+      {
+        "id": 2418,
+        "name": "Decrease Tears",
+        "uuid": ""
+      },
+      {
+        "id": 2414,
+        "name": "Decrease Thirst",
+        "uuid": ""
+      },
+      {
+        "id": 2428,
+        "name": "Decrease Tone of Muscle",
+        "uuid": ""
+      },
+      {
+        "id": 2426,
+        "name": "Decrease Urine Output",
+        "uuid": ""
+      },
+      {
+        "id": 2423,
+        "name": "Decrease Vaginal Lubrication",
+        "uuid": ""
+      },
+      {
+        "id": 2417,
+        "name": "Decrease Vision",
+        "uuid": ""
+      },
+      {
+        "id": 2789,
+        "name": "Decreased sensation on the left thigh",
+        "uuid": ""
+      },
+      {
+        "id": 2558,
+        "name": "Deep Breathing",
+        "uuid": ""
+      },
+      {
+        "id": 2561,
+        "name": "Deep Heart Rate",
+        "uuid": ""
+      },
+      {
+        "id": 2705,
+        "name": "deformity ",
+        "uuid": ""
+      },
+      {
+        "id": 2572,
+        "name": "Delayed Development",
+        "uuid": ""
+      },
+      {
+        "id": 2568,
+        "name": "Delayed Ejaculation",
+        "uuid": ""
+      },
+      {
+        "id": 2569,
+        "name": "Delayed Erection",
+        "uuid": ""
+      },
+      {
+        "id": 2565,
+        "name": "Delayed Growth",
+        "uuid": ""
+      },
+      {
+        "id": 2564,
+        "name": "Delayed Healing",
+        "uuid": ""
+      },
+      {
+        "id": 2573,
+        "name": "Delayed Language Skill",
+        "uuid": ""
+      },
+      {
+        "id": 2571,
+        "name": "Delayed Menstrual Cycle",
+        "uuid": ""
+      },
+      {
+        "id": 2567,
+        "name": "Delayed Micturition",
+        "uuid": ""
+      },
+      {
+        "id": 2570,
+        "name": "Delayed Period",
+        "uuid": ""
+      },
+      {
+        "id": 2566,
+        "name": "Delayed Puberty",
+        "uuid": ""
+      },
+      {
+        "id": 2683,
+        "name": "delayed talking",
+        "uuid": ""
+      },
+      {
+        "id": 2563,
+        "name": "Delayed Wound ",
+        "uuid": ""
+      },
+      {
+        "id": 2619,
+        "name": "Depressed",
+        "uuid": ""
+      },
+      {
+        "id": 2200,
+        "name": "Depression",
+        "uuid": ""
+      },
+      {
+        "id": 2405,
+        "name": "Desire For Sex",
+        "uuid": ""
+      },
+      {
+        "id": 2177,
+        "name": "Diarrhoea",
+        "uuid": ""
+      },
+      {
+        "id": 2369,
+        "name": "Difficulties In Breathing",
+        "uuid": ""
+      },
+      {
+        "id": 2371,
+        "name": "Difficulties In Chewing",
+        "uuid": ""
+      },
+      {
+        "id": 2377,
+        "name": "Difficulties In Concentrating",
+        "uuid": ""
+      },
+      {
+        "id": 2354,
+        "name": "Difficulties In Defecation",
+        "uuid": ""
+      },
+      {
+        "id": 2370,
+        "name": "Difficulties In Drinking",
+        "uuid": ""
+      },
+      {
+        "id": 2374,
+        "name": "Difficulties In Eating",
+        "uuid": ""
+      },
+      {
+        "id": 2356,
+        "name": "Difficulties In Ejaculation",
+        "uuid": ""
+      },
+      {
+        "id": 2357,
+        "name": "Difficulties In Erection",
+        "uuid": ""
+      },
+      {
+        "id": 2378,
+        "name": "Difficulties In Falling Asleep",
+        "uuid": ""
+      },
+      {
+        "id": 2372,
+        "name": "Difficulties In Feeding",
+        "uuid": ""
+      },
+      {
+        "id": 2366,
+        "name": "Difficulties In Hearing",
+        "uuid": ""
+      },
+      {
+        "id": 2364,
+        "name": "Difficulties In Lying",
+        "uuid": ""
+      },
+      {
+        "id": 2353,
+        "name": "Difficulties In Micturition",
+        "uuid": ""
+      },
+      {
+        "id": 2373,
+        "name": "Difficulties In Movements of Jaws",
+        "uuid": ""
+      },
+      {
+        "id": 2375,
+        "name": "Difficulties In Moving",
+        "uuid": ""
+      },
+      {
+        "id": 2358,
+        "name": "Difficulties In Orgasm",
+        "uuid": ""
+      },
+      {
+        "id": 2362,
+        "name": "Difficulties In Running",
+        "uuid": ""
+      },
+      {
+        "id": 2367,
+        "name": "Difficulties In Seeing",
+        "uuid": ""
+      },
+      {
+        "id": 2363,
+        "name": "Difficulties In Sitting",
+        "uuid": ""
+      },
+      {
+        "id": 2376,
+        "name": "Difficulties In Sleeping",
+        "uuid": ""
+      },
+      {
+        "id": 2368,
+        "name": "Difficulties In Smelling",
+        "uuid": ""
+      },
+      {
+        "id": 2355,
+        "name": "Difficulties In Speech",
+        "uuid": ""
+      },
+      {
+        "id": 2360,
+        "name": "Difficulties In Swallowing",
+        "uuid": ""
+      },
+      {
+        "id": 2365,
+        "name": "Difficulties In Talking",
+        "uuid": ""
+      },
+      {
+        "id": 2349,
+        "name": "Difficulties In Urination",
+        "uuid": ""
+      },
+      {
+        "id": 2350,
+        "name": "Difficulties In Voiding",
+        "uuid": ""
+      },
+      {
+        "id": 2361,
+        "name": "Difficulties In Walking",
+        "uuid": ""
+      },
+      {
+        "id": 2722,
+        "name": "difficulty in talking",
+        "uuid": ""
+      },
+      {
+        "id": 2821,
+        "name": "Diminished Vision of both Eye ",
+        "uuid": ""
+      },
+      {
+        "id": 2156,
+        "name": "Discharge",
+        "uuid": ""
+      },
+      {
+        "id": 2657,
+        "name": "Discharge In The Ears For 25",
+        "uuid": ""
+      },
+      {
+        "id": 2286,
+        "name": "Discolouration",
+        "uuid": ""
+      },
+      {
+        "id": 2287,
+        "name": "Discolouration Skin",
+        "uuid": ""
+      },
+      {
+        "id": 2352,
+        "name": "Discomfort In Micturition",
+        "uuid": ""
+      },
+      {
+        "id": 2359,
+        "name": "Discomfort In Orgasm",
+        "uuid": ""
+      },
+      {
+        "id": 2351,
+        "name": "Discomfort In Voiding",
+        "uuid": ""
+      },
+      {
+        "id": 2269,
+        "name": "Distention",
+        "uuid": ""
+      },
+      {
+        "id": 2270,
+        "name": "Distention Abdomen",
+        "uuid": ""
+      },
+      {
+        "id": 2171,
+        "name": "Dizziness",
+        "uuid": ""
+      },
+      {
+        "id": 2474,
+        "name": "Double Vision",
+        "uuid": ""
+      },
+      {
+        "id": 2203,
+        "name": "Drowsiness",
+        "uuid": ""
+      },
+      {
+        "id": 2769,
+        "name": "Dry Cough",
+        "uuid": ""
+      },
+      {
+        "id": 2621,
+        "name": "Dry Insemination",
+        "uuid": ""
+      },
+      {
+        "id": 2543,
+        "name": "Dry Orgasm",
+        "uuid": ""
+      },
+      {
+        "id": 2693,
+        "name": "dry skin",
+        "uuid": ""
+      },
+      {
+        "id": 2248,
+        "name": "Dryness",
+        "uuid": ""
+      },
+      {
+        "id": 2249,
+        "name": "Dryness Mouth",
+        "uuid": ""
+      },
+      {
+        "id": 2250,
+        "name": "Dryness Vagina",
+        "uuid": ""
+      },
+      {
+        "id": 2648,
+        "name": "dummy",
+        "uuid": ""
+      },
+      {
+        "id": 2525,
+        "name": "During Birth",
+        "uuid": ""
+      },
+      {
+        "id": 2515,
+        "name": "During Breathing",
+        "uuid": ""
+      },
+      {
+        "id": 2512,
+        "name": "During Chewing",
+        "uuid": ""
+      },
+      {
+        "id": 2526,
+        "name": "During Child Birth",
+        "uuid": ""
+      },
+      {
+        "id": 2507,
+        "name": "During Coitus",
+        "uuid": ""
+      },
+      {
+        "id": 2521,
+        "name": "During Coughing",
+        "uuid": ""
+      },
+      {
+        "id": 2505,
+        "name": "During Defacation",
+        "uuid": ""
+      },
+      {
+        "id": 2517,
+        "name": "During Drinking",
+        "uuid": ""
+      },
+      {
+        "id": 2513,
+        "name": "During Eating",
+        "uuid": ""
+      },
+      {
+        "id": 2524,
+        "name": "During Ejaculation",
+        "uuid": ""
+      },
+      {
+        "id": 2519,
+        "name": "During Exercise",
+        "uuid": ""
+      },
+      {
+        "id": 2523,
+        "name": "During Feeding",
+        "uuid": ""
+      },
+      {
+        "id": 2522,
+        "name": "During Menstruation",
+        "uuid": ""
+      },
+      {
+        "id": 2503,
+        "name": "During Micturition",
+        "uuid": ""
+      },
+      {
+        "id": 2518,
+        "name": "During Moving",
+        "uuid": ""
+      },
+      {
+        "id": 2520,
+        "name": "During Physical Activity",
+        "uuid": ""
+      },
+      {
+        "id": 2506,
+        "name": "During Sex",
+        "uuid": ""
+      },
+      {
+        "id": 2508,
+        "name": "During Sexual Intercourse",
+        "uuid": ""
+      },
+      {
+        "id": 2514,
+        "name": "During Sleeping",
+        "uuid": ""
+      },
+      {
+        "id": 2516,
+        "name": "During Standing",
+        "uuid": ""
+      },
+      {
+        "id": 2509,
+        "name": "During Swallowing",
+        "uuid": ""
+      },
+      {
+        "id": 2510,
+        "name": "During Talking",
+        "uuid": ""
+      },
+      {
+        "id": 2504,
+        "name": "During Urination",
+        "uuid": ""
+      },
+      {
+        "id": 2511,
+        "name": "During Walking",
+        "uuid": ""
+      },
+      {
+        "id": 2545,
+        "name": "Dysuria",
+        "uuid": ""
+      },
+      {
+        "id": 2574,
+        "name": "Easy Bruising",
+        "uuid": ""
+      },
+      {
+        "id": 2575,
+        "name": "Easy Disclouration",
+        "uuid": ""
+      },
+      {
+        "id": 2307,
+        "name": "Engorgement of ",
+        "uuid": ""
+      },
+      {
+        "id": 2308,
+        "name": "Engorgement of Breast",
+        "uuid": ""
+      },
+      {
+        "id": 2309,
+        "name": "Engorgement of Veins",
+        "uuid": ""
+      },
+      {
+        "id": 2157,
+        "name": "Enlarge",
+        "uuid": ""
+      },
+      {
+        "id": 2833,
+        "name": "Epigastric pain ",
+        "uuid": ""
+      },
+      {
+        "id": 2772,
+        "name": "Erectile dysfunction",
+        "uuid": ""
+      },
+      {
+        "id": 2299,
+        "name": "Eversion of ",
+        "uuid": ""
+      },
+      {
+        "id": 2300,
+        "name": "Eversion of Umbilicus",
+        "uuid": ""
+      },
+      {
+        "id": 2396,
+        "name": "Excessive Acid Secretion",
+        "uuid": ""
+      },
+      {
+        "id": 2383,
+        "name": "Excessive Appetite",
+        "uuid": ""
+      },
+      {
+        "id": 2392,
+        "name": "Excessive Bleeding",
+        "uuid": ""
+      },
+      {
+        "id": 2390,
+        "name": "Excessive Breathing",
+        "uuid": ""
+      },
+      {
+        "id": 2398,
+        "name": "Excessive Crying",
+        "uuid": ""
+      },
+      {
+        "id": 2393,
+        "name": "Excessive Discharge",
+        "uuid": ""
+      },
+      {
+        "id": 2394,
+        "name": "Excessive Gas",
+        "uuid": ""
+      },
+      {
+        "id": 2389,
+        "name": "Excessive Growth of Hair",
+        "uuid": ""
+      },
+      {
+        "id": 2385,
+        "name": "Excessive Hunger",
+        "uuid": ""
+      },
+      {
+        "id": 2400,
+        "name": "Excessive Menstrual Bleeding",
+        "uuid": ""
+      },
+      {
+        "id": 2387,
+        "name": "Excessive Micturition",
+        "uuid": ""
+      },
+      {
+        "id": 2382,
+        "name": "Excessive Salivation",
+        "uuid": ""
+      },
+      {
+        "id": 2395,
+        "name": "Excessive Sleep",
+        "uuid": ""
+      },
+      {
+        "id": 2381,
+        "name": "Excessive Sweating",
+        "uuid": ""
+      },
+      {
+        "id": 2397,
+        "name": "Excessive Tears",
+        "uuid": ""
+      },
+      {
+        "id": 2379,
+        "name": "Excessive Thirst",
+        "uuid": ""
+      },
+      {
+        "id": 2386,
+        "name": "Excessive Urination",
+        "uuid": ""
+      },
+      {
+        "id": 2399,
+        "name": "Excessive Vomiting",
+        "uuid": ""
+      },
+      {
+        "id": 2391,
+        "name": "Excessive Weight",
+        "uuid": ""
+      },
+      {
+        "id": 2546,
+        "name": "Exhaustion",
+        "uuid": ""
+      },
+      {
+        "id": 2577,
+        "name": "Failure of Conceive",
+        "uuid": ""
+      },
+      {
+        "id": 2580,
+        "name": "Failure of Respiration",
+        "uuid": ""
+      },
+      {
+        "id": 2578,
+        "name": "Failure To Achieve Orgasm",
+        "uuid": ""
+      },
+      {
+        "id": 2576,
+        "name": "Failure To Conceive",
+        "uuid": ""
+      },
+      {
+        "id": 2582,
+        "name": "Failure To The Cervix To Dilate",
+        "uuid": ""
+      },
+      {
+        "id": 2581,
+        "name": "Failure To Thrive",
+        "uuid": ""
+      },
+      {
+        "id": 2214,
+        "name": "Fatigue",
+        "uuid": ""
+      },
+      {
+        "id": 2840,
+        "name": "fever ",
+        "uuid": ""
+      },
+      {
+        "id": 2216,
+        "name": "Feverish",
+        "uuid": ""
+      },
+      {
+        "id": 2224,
+        "name": "Flatulence(Gas)",
+        "uuid": ""
+      },
+      {
+        "id": 2793,
+        "name": "Foreign Body Sensation In Eye",
+        "uuid": ""
+      },
+      {
+        "id": 2495,
+        "name": "Foul Smelling In Breath",
+        "uuid": ""
+      },
+      {
+        "id": 2494,
+        "name": "Foul Smelling In Discharge",
+        "uuid": ""
+      },
+      {
+        "id": 2493,
+        "name": "Foul Smelling In Stool",
+        "uuid": ""
+      },
+      {
+        "id": 2492,
+        "name": "Foul Smelling In Urine",
+        "uuid": ""
+      },
+      {
+        "id": 2450,
+        "name": "Frequency of Bowel Movement",
+        "uuid": ""
+      },
+      {
+        "id": 2448,
+        "name": "Frequency of Urine",
+        "uuid": ""
+      },
+      {
+        "id": 2627,
+        "name": "Frequent menstruation",
+        "uuid": ""
+      },
+      {
+        "id": 2754,
+        "name": "Frequent micturation ",
+        "uuid": ""
+      },
+      {
+        "id": 2594,
+        "name": "Galactorrhoea",
+        "uuid": ""
+      },
+      {
+        "id": 2549,
+        "name": "Gas",
+        "uuid": ""
+      },
+      {
+        "id": 2713,
+        "name": "gastritis",
+        "uuid": ""
+      },
+      {
+        "id": 2809,
+        "name": "Generalised weakness ",
+        "uuid": ""
+      },
+      {
+        "id": 2325,
+        "name": "Generalized",
+        "uuid": ""
+      },
+      {
+        "id": 2487,
+        "name": "Greenish",
+        "uuid": ""
+      },
+      {
+        "id": 2551,
+        "name": "Hair Loss",
+        "uuid": ""
+      },
+      {
+        "id": 2190,
+        "name": "Hallucination",
+        "uuid": ""
+      },
+      {
+        "id": 2218,
+        "name": "Headache",
+        "uuid": ""
+      },
+      {
+        "id": 2672,
+        "name": "Headache with neckpain",
+        "uuid": ""
+      },
+      {
+        "id": 2718,
+        "name": "Headache With Sinusitis",
+        "uuid": ""
+      },
+      {
+        "id": 2550,
+        "name": "Heart Burn",
+        "uuid": ""
+      },
+      {
+        "id": 2244,
+        "name": "Heat Intolerance",
+        "uuid": ""
+      },
+      {
+        "id": 2628,
+        "name": "Heavy flow",
+        "uuid": ""
+      },
+      {
+        "id": 2320,
+        "name": "Heavyness of ",
+        "uuid": ""
+      },
+      {
+        "id": 2323,
+        "name": "Heavyness of Chest",
+        "uuid": ""
+      },
+      {
+        "id": 2322,
+        "name": "Heavyness of Head",
+        "uuid": ""
+      },
+      {
+        "id": 2321,
+        "name": "Heavyness of Limbs",
+        "uuid": ""
+      },
+      {
+        "id": 2552,
+        "name": "Heel Pain",
+        "uuid": ""
+      },
+      {
+        "id": 2219,
+        "name": "Hiccup",
+        "uuid": ""
+      },
+      {
+        "id": 2725,
+        "name": "high color urine",
+        "uuid": ""
+      },
+      {
+        "id": 2641,
+        "name": "High rise of BP ",
+        "uuid": ""
+      },
+      {
+        "id": 2498,
+        "name": "Hoarseness of Voice",
+        "uuid": ""
+      },
+      {
+        "id": 2207,
+        "name": "Hot Flash",
+        "uuid": ""
+      },
+      {
+        "id": 2239,
+        "name": "Hyperglycemia",
+        "uuid": ""
+      },
+      {
+        "id": 2241,
+        "name": "Hypertension",
+        "uuid": ""
+      },
+      {
+        "id": 2305,
+        "name": "Hypertrophy ",
+        "uuid": ""
+      },
+      {
+        "id": 2306,
+        "name": "Hypertrophy Skin",
+        "uuid": ""
+      },
+      {
+        "id": 2240,
+        "name": "Hypoglycemia",
+        "uuid": ""
+      },
+      {
+        "id": 2708,
+        "name": "hypopigmentation",
+        "uuid": ""
+      },
+      {
+        "id": 2242,
+        "name": "Hypotension",
+        "uuid": ""
+      },
+      {
+        "id": 2500,
+        "name": "Impaired Colour Vision",
+        "uuid": ""
+      },
+      {
+        "id": 2606,
+        "name": "Impaired Hearing",
+        "uuid": ""
+      },
+      {
+        "id": 2608,
+        "name": "Impaired Movement",
+        "uuid": ""
+      },
+      {
+        "id": 2501,
+        "name": "Impaired Night Vision",
+        "uuid": ""
+      },
+      {
+        "id": 2502,
+        "name": "Impaired Skills",
+        "uuid": ""
+      },
+      {
+        "id": 2607,
+        "name": "Impaired Speech",
+        "uuid": ""
+      },
+      {
+        "id": 2499,
+        "name": "Impaired Vision",
+        "uuid": ""
+      },
+      {
+        "id": 2231,
+        "name": "Impotency",
+        "uuid": ""
+      },
+      {
+        "id": 2441,
+        "name": "Inability To Achieve Pregnancy",
+        "uuid": ""
+      },
+      {
+        "id": 2439,
+        "name": "Inability To Control Faeces",
+        "uuid": ""
+      },
+      {
+        "id": 2437,
+        "name": "Inability To Drink",
+        "uuid": ""
+      },
+      {
+        "id": 2436,
+        "name": "Inability To Eat",
+        "uuid": ""
+      },
+      {
+        "id": 2440,
+        "name": "Inability To Flatus",
+        "uuid": ""
+      },
+      {
+        "id": 2432,
+        "name": "Inability To Hear",
+        "uuid": ""
+      },
+      {
+        "id": 2701,
+        "name": "Inability To Initiate Erection",
+        "uuid": ""
+      },
+      {
+        "id": 2429,
+        "name": "Inability To Move",
+        "uuid": ""
+      },
+      {
+        "id": 2433,
+        "name": "Inability To See",
+        "uuid": ""
+      },
+      {
+        "id": 2435,
+        "name": "Inability To Sleep",
+        "uuid": ""
+      },
+      {
+        "id": 2431,
+        "name": "Inability To Talk",
+        "uuid": ""
+      },
+      {
+        "id": 2438,
+        "name": "Inability To Think Properly",
+        "uuid": ""
+      },
+      {
+        "id": 2434,
+        "name": "Inability To Urinate",
+        "uuid": ""
+      },
+      {
+        "id": 2430,
+        "name": "Inability To Walk",
+        "uuid": ""
+      },
+      {
+        "id": 2610,
+        "name": "Incomplete Bladder Emptying",
+        "uuid": ""
+      },
+      {
+        "id": 2446,
+        "name": "Incontinence of Feces",
+        "uuid": ""
+      },
+      {
+        "id": 2445,
+        "name": "Incontinence of Stress",
+        "uuid": ""
+      },
+      {
+        "id": 2443,
+        "name": "Incontinence of Urine",
+        "uuid": ""
+      },
+      {
+        "id": 2402,
+        "name": "Increase Appetite",
+        "uuid": ""
+      },
+      {
+        "id": 2412,
+        "name": "Increase Head Circumference",
+        "uuid": ""
+      },
+      {
+        "id": 2403,
+        "name": "Increase Libido",
+        "uuid": ""
+      },
+      {
+        "id": 2401,
+        "name": "Increase Thirst",
+        "uuid": ""
+      },
+      {
+        "id": 2411,
+        "name": "Increase Tone of Muscle",
+        "uuid": ""
+      },
+      {
+        "id": 2404,
+        "name": "Increase Weight",
+        "uuid": ""
+      },
+      {
+        "id": 2410,
+        "name": "Increased Blood Glucose",
+        "uuid": ""
+      },
+      {
+        "id": 2409,
+        "name": "Increased Blood Pressure",
+        "uuid": ""
+      },
+      {
+        "id": 2408,
+        "name": "Increased Hair Growth",
+        "uuid": ""
+      },
+      {
+        "id": 2280,
+        "name": "Infection",
+        "uuid": ""
+      },
+      {
+        "id": 2282,
+        "name": "Infection Eye",
+        "uuid": ""
+      },
+      {
+        "id": 2281,
+        "name": "Infection Finger",
+        "uuid": ""
+      },
+      {
+        "id": 2232,
+        "name": "Infertility",
+        "uuid": ""
+      },
+      {
+        "id": 2284,
+        "name": "Inflamation Ear",
+        "uuid": ""
+      },
+      {
+        "id": 2285,
+        "name": "Inflamation Skin",
+        "uuid": ""
+      },
+      {
+        "id": 2283,
+        "name": "Inflammation",
+        "uuid": ""
+      },
+      {
+        "id": 2460,
+        "name": "Infrequent Menstrual Bleeding",
+        "uuid": ""
+      },
+      {
+        "id": 2459,
+        "name": "Infrequent Menstrual Cycle",
+        "uuid": ""
+      },
+      {
+        "id": 2458,
+        "name": "Infrequent Menstrual Period",
+        "uuid": ""
+      },
+      {
+        "id": 2274,
+        "name": "Injury",
+        "uuid": ""
+      },
+      {
+        "id": 2276,
+        "name": "Injury Hand",
+        "uuid": ""
+      },
+      {
+        "id": 2275,
+        "name": "Injury Head",
+        "uuid": ""
+      },
+      {
+        "id": 2527,
+        "name": "Insomnia",
+        "uuid": ""
+      },
+      {
+        "id": 2605,
+        "name": "Intolerance of Food",
+        "uuid": ""
+      },
+      {
+        "id": 2603,
+        "name": "Intolerance of Glucose",
+        "uuid": ""
+      },
+      {
+        "id": 2604,
+        "name": "Intolerance of Lactose",
+        "uuid": ""
+      },
+      {
+        "id": 2456,
+        "name": "Irregular Heart Rate",
+        "uuid": ""
+      },
+      {
+        "id": 2452,
+        "name": "Irregular Menstrual Bleeding",
+        "uuid": ""
+      },
+      {
+        "id": 2151,
+        "name": "Itching",
+        "uuid": ""
+      },
+      {
+        "id": 2692,
+        "name": "Itching in urethra ",
+        "uuid": ""
+      },
+      {
+        "id": 2806,
+        "name": "Joint Pain ",
+        "uuid": ""
+      },
+      {
+        "id": 2787,
+        "name": "knee joint pain",
+        "uuid": ""
+      },
+      {
+        "id": 2767,
+        "name": "left side chest pain",
+        "uuid": ""
+      },
+      {
+        "id": 2814,
+        "name": "left side headache",
+        "uuid": ""
+      },
+      {
+        "id": 2739,
+        "name": "left sided hemiparesis",
+        "uuid": ""
+      },
+      {
+        "id": 2763,
+        "name": "leg ache",
+        "uuid": ""
+      },
+      {
+        "id": 2768,
+        "name": "leg oedema",
+        "uuid": ""
+      },
+      {
+        "id": 2536,
+        "name": "Leg Pain",
+        "uuid": ""
+      },
+      {
+        "id": 2537,
+        "name": "Leg Swelling",
+        "uuid": ""
+      },
+      {
+        "id": 2160,
+        "name": "Lesion",
+        "uuid": ""
+      },
+      {
+        "id": 2554,
+        "name": "Lethergy",
+        "uuid": ""
+      },
+      {
+        "id": 2700,
+        "name": "Libido loss",
+        "uuid": ""
+      },
+      {
+        "id": 2491,
+        "name": "Light",
+        "uuid": ""
+      },
+      {
+        "id": 2845,
+        "name": "Loose motion",
+        "uuid": ""
+      },
+      {
+        "id": 2837,
+        "name": "lose motion",
+        "uuid": ""
+      },
+      {
+        "id": 2245,
+        "name": "Loss of ",
+        "uuid": ""
+      },
+      {
+        "id": 2327,
+        "name": "Loss of Appetite",
+        "uuid": ""
+      },
+      {
+        "id": 2334,
+        "name": "Loss of Balance",
+        "uuid": ""
+      },
+      {
+        "id": 2342,
+        "name": "Loss of Consciousness",
+        "uuid": ""
+      },
+      {
+        "id": 2345,
+        "name": "Loss of Coordinattion",
+        "uuid": ""
+      },
+      {
+        "id": 2347,
+        "name": "Loss of Elasticity",
+        "uuid": ""
+      },
+      {
+        "id": 2344,
+        "name": "Loss of Fetal Heart Sound",
+        "uuid": ""
+      },
+      {
+        "id": 2343,
+        "name": "Loss of Fetal Movement",
+        "uuid": ""
+      },
+      {
+        "id": 2246,
+        "name": "Loss of Hair",
+        "uuid": ""
+      },
+      {
+        "id": 2331,
+        "name": "Loss of Hearing",
+        "uuid": ""
+      },
+      {
+        "id": 2333,
+        "name": "Loss of Hope",
+        "uuid": ""
+      },
+      {
+        "id": 2329,
+        "name": "Loss of Interest",
+        "uuid": ""
+      },
+      {
+        "id": 2338,
+        "name": "Loss of Libido",
+        "uuid": ""
+      },
+      {
+        "id": 2328,
+        "name": "Loss of Memory",
+        "uuid": ""
+      },
+      {
+        "id": 2247,
+        "name": "Loss of Nails",
+        "uuid": ""
+      },
+      {
+        "id": 2340,
+        "name": "Loss of Pigment",
+        "uuid": ""
+      },
+      {
+        "id": 2341,
+        "name": "Loss of Pregnancy",
+        "uuid": ""
+      },
+      {
+        "id": 2335,
+        "name": "Loss of Sensation",
+        "uuid": ""
+      },
+      {
+        "id": 2339,
+        "name": "Loss of Skin",
+        "uuid": ""
+      },
+      {
+        "id": 2337,
+        "name": "Loss of Temperature Sensation",
+        "uuid": ""
+      },
+      {
+        "id": 2326,
+        "name": "Loss of Test",
+        "uuid": ""
+      },
+      {
+        "id": 2336,
+        "name": "Loss of Touch Sensation",
+        "uuid": ""
+      },
+      {
+        "id": 2330,
+        "name": "Loss of Vision",
+        "uuid": ""
+      },
+      {
+        "id": 2332,
+        "name": "Loss of Weight",
+        "uuid": ""
+      },
+      {
+        "id": 2803,
+        "name": "Low Back Pain",
+        "uuid": ""
+      },
+      {
+        "id": 2730,
+        "name": "low grade fever",
+        "uuid": ""
+      },
+      {
+        "id": 2601,
+        "name": "Low IQ",
+        "uuid": ""
+      },
+      {
+        "id": 2602,
+        "name": "Low Self-Esteem",
+        "uuid": ""
+      },
+      {
+        "id": 2828,
+        "name": "Lower Abdominal Pain ",
+        "uuid": ""
+      },
+      {
+        "id": 2155,
+        "name": "Lump",
+        "uuid": ""
+      },
+      {
+        "id": 2183,
+        "name": "Malaise",
+        "uuid": ""
+      },
+      {
+        "id": 2154,
+        "name": "Mass",
+        "uuid": ""
+      },
+      {
+        "id": 2197,
+        "name": "Menarche",
+        "uuid": ""
+      },
+      {
+        "id": 2613,
+        "name": "Menopausal Bleeding",
+        "uuid": ""
+      },
+      {
+        "id": 2596,
+        "name": "Menopause",
+        "uuid": ""
+      },
+      {
+        "id": 2185,
+        "name": "Migraine",
+        "uuid": ""
+      },
+      {
+        "id": 2194,
+        "name": "Miscarriage",
+        "uuid": ""
+      },
+      {
+        "id": 2251,
+        "name": "Moist ",
+        "uuid": ""
+      },
+      {
+        "id": 2252,
+        "name": "Moist Palm",
+        "uuid": ""
+      },
+      {
+        "id": 2253,
+        "name": "Moist Sole",
+        "uuid": ""
+      },
+      {
+        "id": 2236,
+        "name": "Morning Sickness",
+        "uuid": ""
+      },
+      {
+        "id": 2193,
+        "name": "Morning Stiffness",
+        "uuid": ""
+      },
+      {
+        "id": 2237,
+        "name": "Motion Sickness",
+        "uuid": ""
+      },
+      {
+        "id": 2555,
+        "name": "Mouth Cramp",
+        "uuid": ""
+      },
+      {
+        "id": 2677,
+        "name": "mouth ulcer",
+        "uuid": ""
+      },
+      {
+        "id": 2480,
+        "name": "Muco-Purulent",
+        "uuid": ""
+      },
+      {
+        "id": 2479,
+        "name": "Mucoid",
+        "uuid": ""
+      },
+      {
+        "id": 2719,
+        "name": "Mucoid Material P/V",
+        "uuid": ""
+      },
+      {
+        "id": 2556,
+        "name": "Muscle Cramp",
+        "uuid": ""
+      },
+      {
+        "id": 2752,
+        "name": "muscle pain",
+        "uuid": ""
+      },
+      {
+        "id": 2192,
+        "name": "Myoclonus",
+        "uuid": ""
+      },
+      {
+        "id": 2665,
+        "name": "nasal discharge",
+        "uuid": ""
+      },
+      {
+        "id": 2179,
+        "name": "Nausea",
+        "uuid": ""
+      },
+      {
+        "id": 2775,
+        "name": "Neck pain ",
+        "uuid": ""
+      },
+      {
+        "id": 2204,
+        "name": "Nervousness",
+        "uuid": ""
+      },
+      {
+        "id": 11100,
+        "name": "new cc4",
+        "uuid": "f1fa6970-8ce8-11ee-a4ce-5385c6ab0b37"
+      },
+      {
+        "id": 2187,
+        "name": "Night Sweat",
+        "uuid": ""
+      },
+      {
+        "id": 2557,
+        "name": "Nipple Discharge",
+        "uuid": ""
+      },
+      {
+        "id": 2186,
+        "name": "Nocturia",
+        "uuid": ""
+      },
+      {
+        "id": 2162,
+        "name": "Numbness",
+        "uuid": ""
+      },
+      {
+        "id": 2191,
+        "name": "Nystagmus",
+        "uuid": ""
+      },
+      {
+        "id": 2797,
+        "name": "Odema",
+        "uuid": ""
+      },
+      {
+        "id": 2223,
+        "name": "Oral Thrush",
+        "uuid": ""
+      },
+      {
+        "id": 2626,
+        "name": "P/V spoting",
+        "uuid": ""
+      },
+      {
+        "id": 2674,
+        "name": "Pain And Swelling Of Both Kne",
+        "uuid": ""
+      },
+      {
+        "id": 2764,
+        "name": "pain and swelling over the tonsillar area",
+        "uuid": ""
+      },
+      {
+        "id": 2827,
+        "name": "Pain in lower Abdomen",
+        "uuid": ""
+      },
+      {
+        "id": 2808,
+        "name": "Pain in the epigastric region and palpition",
+        "uuid": ""
+      },
+      {
+        "id": 2736,
+        "name": "pain in the knee joint",
+        "uuid": ""
+      },
+      {
+        "id": 2815,
+        "name": "Pain in the left side of abdomen",
+        "uuid": ""
+      },
+      {
+        "id": 2781,
+        "name": "pain in the right heel",
+        "uuid": ""
+      },
+      {
+        "id": 2834,
+        "name": "pain on rt hand",
+        "uuid": ""
+      },
+      {
+        "id": 2796,
+        "name": "pain on shoulder ",
+        "uuid": ""
+      },
+      {
+        "id": 2528,
+        "name": "Pain Over Previous C/S Scar",
+        "uuid": ""
+      },
+      {
+        "id": 2196,
+        "name": "Palor",
+        "uuid": ""
+      },
+      {
+        "id": 2172,
+        "name": "Palpitation",
+        "uuid": ""
+      },
+      {
+        "id": 2315,
+        "name": "Paralysis of ",
+        "uuid": ""
+      },
+      {
+        "id": 2316,
+        "name": "Paralysis of Limbs",
+        "uuid": ""
+      },
+      {
+        "id": 2841,
+        "name": "partial erection",
+        "uuid": ""
+      },
+      {
+        "id": 2695,
+        "name": "Per Vaginal Bleeding",
+        "uuid": ""
+      },
+      {
+        "id": 2720,
+        "name": "Per-umbilical irritation/ pruritus",
+        "uuid": ""
+      },
+      {
+        "id": 2721,
+        "name": "Peri-umbilical irritation/ pruritus",
+        "uuid": ""
+      },
+      {
+        "id": 2235,
+        "name": "Photophobia",
+        "uuid": ""
+      },
+      {
+        "id": 2635,
+        "name": "Pigmented Spot",
+        "uuid": ""
+      },
+      {
+        "id": 2380,
+        "name": "Polydipsia",
+        "uuid": ""
+      },
+      {
+        "id": 2384,
+        "name": "Polyphagia",
+        "uuid": ""
+      },
+      {
+        "id": 2388,
+        "name": "Polyuria",
+        "uuid": ""
+      },
+      {
+        "id": 2598,
+        "name": "Poor Muscle Development",
+        "uuid": ""
+      },
+      {
+        "id": 2533,
+        "name": "Post Bleeding After Vaginal Delivery",
+        "uuid": ""
+      },
+      {
+        "id": 2611,
+        "name": "Post-Partum Bleeding",
+        "uuid": ""
+      },
+      {
+        "id": 2597,
+        "name": "Post-Secondary Sexual development",
+        "uuid": ""
+      },
+      {
+        "id": 2532,
+        "name": "Postmenopausal Bleeding",
+        "uuid": ""
+      },
+      {
+        "id": 2623,
+        "name": "Pregnant",
+        "uuid": ""
+      },
+      {
+        "id": 2842,
+        "name": "premature ejaculation",
+        "uuid": ""
+      },
+      {
+        "id": 2622,
+        "name": "Premature Uterine Contraction",
+        "uuid": ""
+      },
+      {
+        "id": 2771,
+        "name": "previous H/O PUD",
+        "uuid": ""
+      },
+      {
+        "id": 2472,
+        "name": "Problem During Ejaculation",
+        "uuid": ""
+      },
+      {
+        "id": 2471,
+        "name": "Problem During Erection",
+        "uuid": ""
+      },
+      {
+        "id": 2470,
+        "name": "Problem During Menstruation",
+        "uuid": ""
+      },
+      {
+        "id": 2469,
+        "name": "Problem During Sex",
+        "uuid": ""
+      },
+      {
+        "id": 2288,
+        "name": "Prolapse of ",
+        "uuid": ""
+      },
+      {
+        "id": 2289,
+        "name": "Prolapse of Rectum",
+        "uuid": ""
+      },
+      {
+        "id": 2290,
+        "name": "Prolapse of Uterus",
+        "uuid": ""
+      },
+      {
+        "id": 2614,
+        "name": "Pruritus",
+        "uuid": ""
+      },
+      {
+        "id": 2716,
+        "name": "psychiatric illness",
+        "uuid": ""
+      },
+      {
+        "id": 2776,
+        "name": "PUD",
+        "uuid": ""
+      },
+      {
+        "id": 2263,
+        "name": "Puffiness ",
+        "uuid": ""
+      },
+      {
+        "id": 2265,
+        "name": "Puffiness Eyelid",
+        "uuid": ""
+      },
+      {
+        "id": 2264,
+        "name": "Puffiness Face",
+        "uuid": ""
+      },
+      {
+        "id": 2481,
+        "name": "Purulent ",
+        "uuid": ""
+      },
+      {
+        "id": 2168,
+        "name": "Pus",
+        "uuid": ""
+      },
+      {
+        "id": 2559,
+        "name": "Rapid Breathing",
+        "uuid": ""
+      },
+      {
+        "id": 2560,
+        "name": "Rapid Heart Rate",
+        "uuid": ""
+      },
+      {
+        "id": 2166,
+        "name": "Rash",
+        "uuid": ""
+      },
+      {
+        "id": 2489,
+        "name": "Reddish",
+        "uuid": ""
+      },
+      {
+        "id": 2257,
+        "name": "Redness",
+        "uuid": ""
+      },
+      {
+        "id": 2258,
+        "name": "Redness Eye",
+        "uuid": ""
+      },
+      {
+        "id": 2259,
+        "name": "Redness Skin",
+        "uuid": ""
+      },
+      {
+        "id": 2794,
+        "name": "Reduced Eye Sight At Night",
+        "uuid": ""
+      },
+      {
+        "id": 2457,
+        "name": "Regular Heart Rate",
+        "uuid": ""
+      },
+      {
+        "id": 2453,
+        "name": "Regular Menstrual Bleeding",
+        "uuid": ""
+      },
+      {
+        "id": 2741,
+        "name": "respiratory distress",
+        "uuid": ""
+      },
+      {
+        "id": 2202,
+        "name": "Restless",
+        "uuid": ""
+      },
+      {
+        "id": 2447,
+        "name": "Retention of Feces",
+        "uuid": ""
+      },
+      {
+        "id": 2444,
+        "name": "Retention of Urine",
+        "uuid": ""
+      },
+      {
+        "id": 2301,
+        "name": "Retracted ",
+        "uuid": ""
+      },
+      {
+        "id": 2302,
+        "name": "Retracted Nipple",
+        "uuid": ""
+      },
+      {
+        "id": 2266,
+        "name": "Rigidity",
+        "uuid": ""
+      },
+      {
+        "id": 2267,
+        "name": "Rigidity Abdomen",
+        "uuid": ""
+      },
+      {
+        "id": 2268,
+        "name": "Rigidity Muscle",
+        "uuid": ""
+      },
+      {
+        "id": 2211,
+        "name": "Rigor",
+        "uuid": ""
+      },
+      {
+        "id": 2644,
+        "name": "Running Nose",
+        "uuid": ""
+      },
+      {
+        "id": 2740,
+        "name": "runny nose",
+        "uuid": ""
+      },
+      {
+        "id": 2478,
+        "name": "Scanty Menstruation",
+        "uuid": ""
+      },
+      {
+        "id": 2477,
+        "name": "Scanty Urine",
+        "uuid": ""
+      },
+      {
+        "id": 2277,
+        "name": "Scar ",
+        "uuid": ""
+      },
+      {
+        "id": 2279,
+        "name": "Scar Abdomen",
+        "uuid": ""
+      },
+      {
+        "id": 2278,
+        "name": "Scar Face",
+        "uuid": ""
+      },
+      {
+        "id": 2188,
+        "name": "Seizures",
+        "uuid": ""
+      },
+      {
+        "id": 2406,
+        "name": "Sensitivity To Cold",
+        "uuid": ""
+      },
+      {
+        "id": 2407,
+        "name": "Sensitivity To Hot",
+        "uuid": ""
+      },
+      {
+        "id": 2836,
+        "name": "Short penis",
+        "uuid": ""
+      },
+      {
+        "id": 2703,
+        "name": "sinusitis",
+        "uuid": ""
+      },
+      {
+        "id": 2213,
+        "name": "Sneezing",
+        "uuid": ""
+      },
+      {
+        "id": 2148,
+        "name": "Sore",
+        "uuid": ""
+      },
+      {
+        "id": 2149,
+        "name": "Spasm",
+        "uuid": ""
+      },
+      {
+        "id": 2702,
+        "name": "speech difficulty",
+        "uuid": ""
+      },
+      {
+        "id": 2599,
+        "name": "Stature Short",
+        "uuid": ""
+      },
+      {
+        "id": 2600,
+        "name": "Stature Tall",
+        "uuid": ""
+      },
+      {
+        "id": 2442,
+        "name": "Sterility",
+        "uuid": ""
+      },
+      {
+        "id": 2260,
+        "name": "Stiffness",
+        "uuid": ""
+      },
+      {
+        "id": 2261,
+        "name": "Stiffness Muscle",
+        "uuid": ""
+      },
+      {
+        "id": 2262,
+        "name": "Stiffness Neck",
+        "uuid": ""
+      },
+      {
+        "id": 2195,
+        "name": "Stillbirth",
+        "uuid": ""
+      },
+      {
+        "id": 2198,
+        "name": "Stress",
+        "uuid": ""
+      },
+      {
+        "id": 2620,
+        "name": "Stress Incontinence",
+        "uuid": ""
+      },
+      {
+        "id": 2553,
+        "name": "Stretch Marks Striae Gravidarum",
+        "uuid": ""
+      },
+      {
+        "id": 2230,
+        "name": "Stuffy Nose",
+        "uuid": ""
+      },
+      {
+        "id": 2562,
+        "name": "Suppression of Milk Production",
+        "uuid": ""
+      },
+      {
+        "id": 2209,
+        "name": "Sweating",
+        "uuid": ""
+      },
+      {
+        "id": 2152,
+        "name": "Swelling",
+        "uuid": ""
+      },
+      {
+        "id": 2153,
+        "name": "Swollen",
+        "uuid": ""
+      },
+      {
+        "id": 2189,
+        "name": "Syncope",
+        "uuid": ""
+      },
+      {
+        "id": 2618,
+        "name": "tearful",
+        "uuid": ""
+      },
+      {
+        "id": 2199,
+        "name": "Tension",
+        "uuid": ""
+      },
+      {
+        "id": 2291,
+        "name": "Thinning of ",
+        "uuid": ""
+      },
+      {
+        "id": 2292,
+        "name": "Thinning of Hair",
+        "uuid": ""
+      },
+      {
+        "id": 2293,
+        "name": "Thinning of Nails",
+        "uuid": ""
+      },
+      {
+        "id": 2317,
+        "name": "Tightness of ",
+        "uuid": ""
+      },
+      {
+        "id": 2318,
+        "name": "Tightness of Chest",
+        "uuid": ""
+      },
+      {
+        "id": 2319,
+        "name": "Tightness of Skin",
+        "uuid": ""
+      },
+      {
+        "id": 2163,
+        "name": "Tingling",
+        "uuid": ""
+      },
+      {
+        "id": 2639,
+        "name": "Tingling Sensation In Teeth",
+        "uuid": ""
+      },
+      {
+        "id": 2227,
+        "name": "Tinnitus",
+        "uuid": ""
+      },
+      {
+        "id": 2215,
+        "name": "Tiredness",
+        "uuid": ""
+      },
+      {
+        "id": 2824,
+        "name": "Tooth Ache",
+        "uuid": ""
+      },
+      {
+        "id": 2208,
+        "name": "Tremor",
+        "uuid": ""
+      },
+      {
+        "id": 2630,
+        "name": "trying pregnancy ",
+        "uuid": ""
+      },
+      {
+        "id": 2159,
+        "name": "Ulcer",
+        "uuid": ""
+      },
+      {
+        "id": 2653,
+        "name": "unilateral headache",
+        "uuid": ""
+      },
+      {
+        "id": 2451,
+        "name": "Urgency of Bowel Movement",
+        "uuid": ""
+      },
+      {
+        "id": 2449,
+        "name": "Urgency of Urine",
+        "uuid": ""
+      },
+      {
+        "id": 2483,
+        "name": "Urine",
+        "uuid": ""
+      },
+      {
+        "id": 2222,
+        "name": "Vaginal Thrush",
+        "uuid": ""
+      },
+      {
+        "id": 2205,
+        "name": "Vertigo",
+        "uuid": ""
+      },
+      {
+        "id": 2180,
+        "name": "Vomiting",
+        "uuid": ""
+      },
+      {
+        "id": 2731,
+        "name": "vomitting tendency",
+        "uuid": ""
+      },
+      {
+        "id": 2254,
+        "name": "Warm ",
+        "uuid": ""
+      },
+      {
+        "id": 2255,
+        "name": "Warm Palm",
+        "uuid": ""
+      },
+      {
+        "id": 2256,
+        "name": "Warm Sole",
+        "uuid": ""
+      },
+      {
+        "id": 2535,
+        "name": "Water Break",
+        "uuid": ""
+      },
+      {
+        "id": 2792,
+        "name": "watering from eye",
+        "uuid": ""
+      },
+      {
+        "id": 2484,
+        "name": "Watery",
+        "uuid": ""
+      },
+      {
+        "id": 2673,
+        "name": "Watery discharge from eye",
+        "uuid": ""
+      },
+      {
+        "id": 2689,
+        "name": "watery dishcharge from skin",
+        "uuid": ""
+      },
+      {
+        "id": 2843,
+        "name": "Watery semen",
+        "uuid": ""
+      },
+      {
+        "id": 2167,
+        "name": "Weakness",
+        "uuid": ""
+      },
+      {
+        "id": 2774,
+        "name": "weakness and Joint pain",
+        "uuid": ""
+      },
+      {
+        "id": 2226,
+        "name": "Weight Gain",
+        "uuid": ""
+      },
+      {
+        "id": 2225,
+        "name": "Weight Loss",
+        "uuid": ""
+      },
+      {
+        "id": 2173,
+        "name": "Wheezing",
+        "uuid": ""
+      },
+      {
+        "id": 2486,
+        "name": "Whitish",
+        "uuid": ""
+      },
+      {
+        "id": 2835,
+        "name": "Whitish Material With Urine",
+        "uuid": ""
+      },
+      {
+        "id": 2694,
+        "name": "Whitish spot of skin",
+        "uuid": ""
+      },
+      {
+        "id": 2454,
+        "name": "Withdrawal Menstrual Bleeding",
+        "uuid": ""
+      },
+      {
+        "id": 2734,
+        "name": "yellow coloration of urine",
+        "uuid": ""
+      },
+      {
+        "id": 2488,
+        "name": "Yellowish",
+        "uuid": ""
+      },
+      {
+        "id": 2271,
+        "name": "Yellowish Colouration ",
+        "uuid": ""
+      },
+      {
+        "id": 2273,
+        "name": "Yellowish Colouration Sclera",
+        "uuid": ""
+      },
+      {
+        "id": 2272,
+        "name": "Yellowish Colouration Skin",
+        "uuid": ""
+      }
+    ],
+    "first_page_url": "https://rxapi.navanapharma.com/api/allCC?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "https://rxapi.navanapharma.com/api/allCC?page=1",
+    "links": [
+      {
+        "url": null,
+        "label": "&laquo; Previous",
+        "active": false
+      },
+      {
+        "url": "https://rxapi.navanapharma.com/api/allCC?page=1",
+        "label": "1",
+        "active": true
+      },
+      {
+        "url": null,
+        "label": "Next &raquo;",
+        "active": false
+      }
+    ],
+    "next_page_url": null,
+    "path": "https://rxapi.navanapharma.com/api/allCC",
+    "per_page": "5000",
+    "prev_page_url": null,
+    "to": 558,
+    "total": 558
+  }
+}

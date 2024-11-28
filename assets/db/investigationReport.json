@@ -1,0 +1,2397 @@
+{
+  "success": true,
+  "dataLength": 472,
+  "message": "data found.",
+  "data": {
+    "current_page": 1,
+    "data": [
+      {
+        "id": 503,
+        "name": "1 hours after 50 gm glucose",
+        "uuid": ""
+      },
+      {
+        "id": 504,
+        "name": "2 hours after 100 gm glucose",
+        "uuid": ""
+      },
+      {
+        "id": 34,
+        "name": "2 hours after 75 gm glucose",
+        "uuid": ""
+      },
+      {
+        "id": 31,
+        "name": "2 hr. after breakfast",
+        "uuid": ""
+      },
+      {
+        "id": 32,
+        "name": "2 hr. after lunch",
+        "uuid": ""
+      },
+      {
+        "id": 69,
+        "name": "24 hr. Urine For Albumin",
+        "uuid": ""
+      },
+      {
+        "id": 67,
+        "name": "24 hr. Urine For Amylase",
+        "uuid": ""
+      },
+      {
+        "id": 68,
+        "name": "24 hr. Urine For Calcium",
+        "uuid": ""
+      },
+      {
+        "id": 66,
+        "name": "24 hr. Urine For CCR",
+        "uuid": ""
+      },
+      {
+        "id": 65,
+        "name": "24 hr. Urine For Creatinine",
+        "uuid": ""
+      },
+      {
+        "id": 73,
+        "name": "24 hr. Urine For Micro albumin",
+        "uuid": ""
+      },
+      {
+        "id": 71,
+        "name": "24 hr. Urine For Na+, K+, Cl-",
+        "uuid": ""
+      },
+      {
+        "id": 72,
+        "name": "24 hr. Urine For PO uric acid",
+        "uuid": ""
+      },
+      {
+        "id": 63,
+        "name": "24 hr. Urine For Total Protein",
+        "uuid": ""
+      },
+      {
+        "id": 70,
+        "name": "24 hr. Urine For VMA",
+        "uuid": ""
+      },
+      {
+        "id": 33,
+        "name": "2hr. After dinner",
+        "uuid": ""
+      },
+      {
+        "id": 285,
+        "name": "ABG",
+        "uuid": ""
+      },
+      {
+        "id": 203,
+        "name": "ACTH",
+        "uuid": ""
+      },
+      {
+        "id": 80,
+        "name": "ADA",
+        "uuid": ""
+      },
+      {
+        "id": 182,
+        "name": "AFB stain",
+        "uuid": ""
+      },
+      {
+        "id": 152,
+        "name": "Alkaline phosphatase",
+        "uuid": ""
+      },
+      {
+        "id": 58,
+        "name": "Ammonia",
+        "uuid": ""
+      },
+      {
+        "id": 105,
+        "name": "ANA",
+        "uuid": ""
+      },
+      {
+        "id": 135,
+        "name": "ANF",
+        "uuid": ""
+      },
+      {
+        "id": 134,
+        "name": "Ant-Chlamydia IgG",
+        "uuid": ""
+      },
+      {
+        "id": 117,
+        "name": "Anti ADA",
+        "uuid": ""
+      },
+      {
+        "id": 107,
+        "name": "Anti CCP Antibody",
+        "uuid": ""
+      },
+      {
+        "id": 123,
+        "name": "Anti DS DNA",
+        "uuid": ""
+      },
+      {
+        "id": 149,
+        "name": "Anti H.Pylori lgG",
+        "uuid": ""
+      },
+      {
+        "id": 161,
+        "name": "Anti HBe (HBeAb)",
+        "uuid": ""
+      },
+      {
+        "id": 162,
+        "name": "Anti HCV",
+        "uuid": ""
+      },
+      {
+        "id": 81,
+        "name": "Anti LMP",
+        "uuid": ""
+      },
+      {
+        "id": 79,
+        "name": "Anti Micodot lgG",
+        "uuid": ""
+      },
+      {
+        "id": 106,
+        "name": "Anti RNP",
+        "uuid": ""
+      },
+      {
+        "id": 76,
+        "name": "Anti TB IgA",
+        "uuid": ""
+      },
+      {
+        "id": 78,
+        "name": "Anti TB IgG",
+        "uuid": ""
+      },
+      {
+        "id": 77,
+        "name": "Anti TB IgM",
+        "uuid": ""
+      },
+      {
+        "id": 138,
+        "name": "Anti-CMV IgG",
+        "uuid": ""
+      },
+      {
+        "id": 137,
+        "name": "Anti-CMV IgM",
+        "uuid": ""
+      },
+      {
+        "id": 131,
+        "name": "Anti-Dengue lgG",
+        "uuid": ""
+      },
+      {
+        "id": 130,
+        "name": "Anti-Dengue lgM",
+        "uuid": ""
+      },
+      {
+        "id": 143,
+        "name": "Anti-DNA",
+        "uuid": ""
+      },
+      {
+        "id": 173,
+        "name": "Anti-HAV IgM",
+        "uuid": ""
+      },
+      {
+        "id": 164,
+        "name": "Anti-HBc (total)",
+        "uuid": ""
+      },
+      {
+        "id": 165,
+        "name": "Anti-HBc IgM",
+        "uuid": ""
+      },
+      {
+        "id": 172,
+        "name": "Anti-HBs (HBsAB)",
+        "uuid": ""
+      },
+      {
+        "id": 166,
+        "name": "Anti-HEV IgM",
+        "uuid": ""
+      },
+      {
+        "id": 139,
+        "name": "Anti-HIV(1)- ELISA",
+        "uuid": ""
+      },
+      {
+        "id": 140,
+        "name": "Anti-HIV(2)- ELISA",
+        "uuid": ""
+      },
+      {
+        "id": 146,
+        "name": "Anti-Measles IgG",
+        "uuid": ""
+      },
+      {
+        "id": 133,
+        "name": "Anti-Rubela lgG",
+        "uuid": ""
+      },
+      {
+        "id": 132,
+        "name": "Anti-Rubela lgM",
+        "uuid": ""
+      },
+      {
+        "id": 142,
+        "name": "Anti-Toxoplsma lgG",
+        "uuid": ""
+      },
+      {
+        "id": 141,
+        "name": "Anti-Toxoplsma lgM",
+        "uuid": ""
+      },
+      {
+        "id": 16,
+        "name": "APTT",
+        "uuid": ""
+      },
+      {
+        "id": 284,
+        "name": "Ascorbic acid assay",
+        "uuid": ""
+      },
+      {
+        "id": 103,
+        "name": "ASO Titre",
+        "uuid": ""
+      },
+      {
+        "id": 502,
+        "name": "B cell cross match",
+        "uuid": ""
+      },
+      {
+        "id": 209,
+        "name": "B hCG",
+        "uuid": ""
+      },
+      {
+        "id": 223,
+        "name": "Bence-Jone's protien",
+        "uuid": ""
+      },
+      {
+        "id": 154,
+        "name": "Bilirubin - direct",
+        "uuid": ""
+      },
+      {
+        "id": 155,
+        "name": "Bilirubin - indirect",
+        "uuid": ""
+      },
+      {
+        "id": 153,
+        "name": "Bilirubin - total",
+        "uuid": ""
+      },
+      {
+        "id": 186,
+        "name": "Biochemical: Chloride",
+        "uuid": ""
+      },
+      {
+        "id": 184,
+        "name": "Biochemical: Protein",
+        "uuid": ""
+      },
+      {
+        "id": 185,
+        "name": "Biochemical: Sugar",
+        "uuid": ""
+      },
+      {
+        "id": 227,
+        "name": "Blood C/S",
+        "uuid": ""
+      },
+      {
+        "id": 27,
+        "name": "Blood Group & Rh Factor",
+        "uuid": ""
+      },
+      {
+        "id": 41,
+        "name": "Blood Urea",
+        "uuid": ""
+      },
+      {
+        "id": 477,
+        "name": "BMD of Both Femur",
+        "uuid": ""
+      },
+      {
+        "id": 475,
+        "name": "BMD of Left Femur",
+        "uuid": ""
+      },
+      {
+        "id": 474,
+        "name": "BMD of Lumber Spine A/P",
+        "uuid": ""
+      },
+      {
+        "id": 476,
+        "name": "BMD of Right Femur",
+        "uuid": ""
+      },
+      {
+        "id": 62,
+        "name": "BNP",
+        "uuid": ""
+      },
+      {
+        "id": 26,
+        "name": "Bone marrow Study",
+        "uuid": ""
+      },
+      {
+        "id": 387,
+        "name": "Broncoscopy",
+        "uuid": ""
+      },
+      {
+        "id": 14,
+        "name": "BT, CT",
+        "uuid": ""
+      },
+      {
+        "id": 43,
+        "name": "BUN",
+        "uuid": ""
+      },
+      {
+        "id": 115,
+        "name": "C-ANCA",
+        "uuid": ""
+      },
+      {
+        "id": 205,
+        "name": "C-peptide",
+        "uuid": ""
+      },
+      {
+        "id": 188,
+        "name": "C/S",
+        "uuid": ""
+      },
+      {
+        "id": 74,
+        "name": "C3",
+        "uuid": ""
+      },
+      {
+        "id": 75,
+        "name": "C4",
+        "uuid": ""
+      },
+      {
+        "id": 489,
+        "name": "Captopril renogram",
+        "uuid": ""
+      },
+      {
+        "id": 1,
+        "name": "CBC",
+        "uuid": ""
+      },
+      {
+        "id": 3,
+        "name": "CBC with ESR",
+        "uuid": ""
+      },
+      {
+        "id": 2,
+        "name": "CBC-CP",
+        "uuid": ""
+      },
+      {
+        "id": 44,
+        "name": "CCR",
+        "uuid": ""
+      },
+      {
+        "id": 12,
+        "name": "CE-Count",
+        "uuid": ""
+      },
+      {
+        "id": 240,
+        "name": "Cervical Swab for C/S",
+        "uuid": ""
+      },
+      {
+        "id": 239,
+        "name": "Cervical Swab for gram stain",
+        "uuid": ""
+      },
+      {
+        "id": 83,
+        "name": "CK",
+        "uuid": ""
+      },
+      {
+        "id": 84,
+        "name": "CK-MB",
+        "uuid": ""
+      },
+      {
+        "id": 386,
+        "name": "Clonoscopy",
+        "uuid": ""
+      },
+      {
+        "id": 421,
+        "name": "Color Doppler USG",
+        "uuid": ""
+      },
+      {
+        "id": 388,
+        "name": "Colposcopy",
+        "uuid": ""
+      },
+      {
+        "id": 244,
+        "name": "Conjunctival swab C/S",
+        "uuid": ""
+      },
+      {
+        "id": 348,
+        "name": "Contrast X-ray of Ba-Enema Contrast",
+        "uuid": ""
+      },
+      {
+        "id": 346,
+        "name": "Contrast X-ray of Ba-Follow Through",
+        "uuid": ""
+      },
+      {
+        "id": 345,
+        "name": "Contrast X-ray of Ba-Meal",
+        "uuid": ""
+      },
+      {
+        "id": 347,
+        "name": "Contrast X-ray of Ba-Swallow of Pesophague",
+        "uuid": ""
+      },
+      {
+        "id": 341,
+        "name": "Contrast X-ray of IVP",
+        "uuid": ""
+      },
+      {
+        "id": 342,
+        "name": "Contrast X-ray of IVU",
+        "uuid": ""
+      },
+      {
+        "id": 343,
+        "name": "Contrast X-ray of MCU",
+        "uuid": ""
+      },
+      {
+        "id": 344,
+        "name": "Contrast X-ray of S/D",
+        "uuid": ""
+      },
+      {
+        "id": 118,
+        "name": "Coombs test",
+        "uuid": ""
+      },
+      {
+        "id": 202,
+        "name": "Cortisol (5pm)",
+        "uuid": ""
+      },
+      {
+        "id": 201,
+        "name": "Cortisol (9pm)",
+        "uuid": ""
+      },
+      {
+        "id": 90,
+        "name": "CPK",
+        "uuid": ""
+      },
+      {
+        "id": 28,
+        "name": "Cross Matching",
+        "uuid": ""
+      },
+      {
+        "id": 104,
+        "name": "CRP",
+        "uuid": ""
+      },
+      {
+        "id": 364,
+        "name": "CT Scan of Abdomen pelvic organ",
+        "uuid": ""
+      },
+      {
+        "id": 349,
+        "name": "CT Scan of Brain",
+        "uuid": ""
+      },
+      {
+        "id": 361,
+        "name": "CT Scan of Chest-Mediastinum",
+        "uuid": ""
+      },
+      {
+        "id": 366,
+        "name": "CT Scan of CT Guided FNAC",
+        "uuid": ""
+      },
+      {
+        "id": 362,
+        "name": "CT Scan of HBS-Upper abdomen",
+        "uuid": ""
+      },
+      {
+        "id": 350,
+        "name": "CT Scan of Head",
+        "uuid": ""
+      },
+      {
+        "id": 365,
+        "name": "CT Scan of K.U.B region",
+        "uuid": ""
+      },
+      {
+        "id": 354,
+        "name": "CT Scan of Nasopharynx",
+        "uuid": ""
+      },
+      {
+        "id": 356,
+        "name": "CT Scan of Neck",
+        "uuid": ""
+      },
+      {
+        "id": 355,
+        "name": "CT Scan of Orbit",
+        "uuid": ""
+      },
+      {
+        "id": 352,
+        "name": "CT Scan of Pituitary fossa",
+        "uuid": ""
+      },
+      {
+        "id": 353,
+        "name": "CT Scan of PNS",
+        "uuid": ""
+      },
+      {
+        "id": 351,
+        "name": "CT Scan of Skull",
+        "uuid": ""
+      },
+      {
+        "id": 359,
+        "name": "CT Scan of Spine: Cervical",
+        "uuid": ""
+      },
+      {
+        "id": 358,
+        "name": "CT Scan of Spine: Dorsal",
+        "uuid": ""
+      },
+      {
+        "id": 357,
+        "name": "CT Scan of Spine: Lumber",
+        "uuid": ""
+      },
+      {
+        "id": 360,
+        "name": "CT Scan of Spine: Sacral",
+        "uuid": ""
+      },
+      {
+        "id": 363,
+        "name": "CT Scan of Whole abdomen",
+        "uuid": ""
+      },
+      {
+        "id": 389,
+        "name": "Cystoscopy",
+        "uuid": ""
+      },
+      {
+        "id": 176,
+        "name": "Cytology of CSF",
+        "uuid": ""
+      },
+      {
+        "id": 174,
+        "name": "Cytology of malignant cell",
+        "uuid": ""
+      },
+      {
+        "id": 175,
+        "name": "Cytology of paps smear",
+        "uuid": ""
+      },
+      {
+        "id": 180,
+        "name": "Cytology of Pericardial fluid",
+        "uuid": ""
+      },
+      {
+        "id": 178,
+        "name": "Cytology of Peritoneal fluid",
+        "uuid": ""
+      },
+      {
+        "id": 177,
+        "name": "Cytology of Pleural fluid",
+        "uuid": ""
+      },
+      {
+        "id": 179,
+        "name": "Cytology of Sinovial fluid",
+        "uuid": ""
+      },
+      {
+        "id": 207,
+        "name": "DHEAS",
+        "uuid": ""
+      },
+      {
+        "id": 488,
+        "name": "DNSA renal scan",
+        "uuid": ""
+      },
+      {
+        "id": 276,
+        "name": "Drug Abuse-toxicity of Alcohol",
+        "uuid": ""
+      },
+      {
+        "id": 269,
+        "name": "Drug Abuse-toxicity of Benzodiazepine",
+        "uuid": ""
+      },
+      {
+        "id": 274,
+        "name": "Drug Abuse-toxicity of Cannabinoids",
+        "uuid": ""
+      },
+      {
+        "id": 270,
+        "name": "Drug Abuse-toxicity of Carbamazepine",
+        "uuid": ""
+      },
+      {
+        "id": 275,
+        "name": "Drug Abuse-toxicity of Cocaine",
+        "uuid": ""
+      },
+      {
+        "id": 267,
+        "name": "Drug Abuse-toxicity of Copper",
+        "uuid": ""
+      },
+      {
+        "id": 279,
+        "name": "Drug Abuse-toxicity of Digoxin",
+        "uuid": ""
+      },
+      {
+        "id": 278,
+        "name": "Drug Abuse-toxicity of Gentamycin",
+        "uuid": ""
+      },
+      {
+        "id": 271,
+        "name": "Drug Abuse-toxicity of Lithium",
+        "uuid": ""
+      },
+      {
+        "id": 273,
+        "name": "Drug Abuse-toxicity of Opiates",
+        "uuid": ""
+      },
+      {
+        "id": 268,
+        "name": "Drug Abuse-toxicity of Phenobarbital",
+        "uuid": ""
+      },
+      {
+        "id": 280,
+        "name": "Drug Abuse-toxicity of Phenytoin",
+        "uuid": ""
+      },
+      {
+        "id": 272,
+        "name": "Drug Abuse-toxicity of Salicylate",
+        "uuid": ""
+      },
+      {
+        "id": 277,
+        "name": "Drug Abuse-toxicity of Theophylline",
+        "uuid": ""
+      },
+      {
+        "id": 281,
+        "name": "Drug Abuse-toxicity of Valproic acid",
+        "uuid": ""
+      },
+      {
+        "id": 484,
+        "name": "DTPA scan",
+        "uuid": ""
+      },
+      {
+        "id": 47,
+        "name": "e-GFR",
+        "uuid": ""
+      },
+      {
+        "id": 338,
+        "name": "E.E.G",
+        "uuid": ""
+      },
+      {
+        "id": 339,
+        "name": "E.M.G",
+        "uuid": ""
+      },
+      {
+        "id": 247,
+        "name": "Ear Swab C/S",
+        "uuid": ""
+      },
+      {
+        "id": 422,
+        "name": "ECG",
+        "uuid": ""
+      },
+      {
+        "id": 426,
+        "name": "Echo Cardiogram - 2D",
+        "uuid": ""
+      },
+      {
+        "id": 427,
+        "name": "Echo Cardiogram-4D",
+        "uuid": ""
+      },
+      {
+        "id": 425,
+        "name": "Echo-Color Doppler Wade",
+        "uuid": ""
+      },
+      {
+        "id": 390,
+        "name": "ERCP",
+        "uuid": ""
+      },
+      {
+        "id": 7,
+        "name": "ESR",
+        "uuid": ""
+      },
+      {
+        "id": 423,
+        "name": "ETT",
+        "uuid": ""
+      },
+      {
+        "id": 30,
+        "name": "Fasting blood sugar(FBS)",
+        "uuid": ""
+      },
+      {
+        "id": 49,
+        "name": "Fasting Lipid Profile",
+        "uuid": ""
+      },
+      {
+        "id": 17,
+        "name": "FDP",
+        "uuid": ""
+      },
+      {
+        "id": 113,
+        "name": "Febrile antigen",
+        "uuid": ""
+      },
+      {
+        "id": 214,
+        "name": "Floatational method",
+        "uuid": ""
+      },
+      {
+        "id": 282,
+        "name": "Folic acid assay",
+        "uuid": ""
+      },
+      {
+        "id": 39,
+        "name": "Fructosamine",
+        "uuid": ""
+      },
+      {
+        "id": 196,
+        "name": "FSH",
+        "uuid": ""
+      },
+      {
+        "id": 190,
+        "name": "FT 3",
+        "uuid": ""
+      },
+      {
+        "id": 191,
+        "name": "FT4",
+        "uuid": ""
+      },
+      {
+        "id": 37,
+        "name": "G.T.T",
+        "uuid": ""
+      },
+      {
+        "id": 492,
+        "name": "GFR study",
+        "uuid": ""
+      },
+      {
+        "id": 187,
+        "name": "Gram stain",
+        "uuid": ""
+      },
+      {
+        "id": 204,
+        "name": "Growth Hormone",
+        "uuid": ""
+      },
+      {
+        "id": 24,
+        "name": "Hb Electrophoresis",
+        "uuid": ""
+      },
+      {
+        "id": 6,
+        "name": "Hb%",
+        "uuid": ""
+      },
+      {
+        "id": 38,
+        "name": "HbA1C",
+        "uuid": ""
+      },
+      {
+        "id": 163,
+        "name": "HBeAg",
+        "uuid": ""
+      },
+      {
+        "id": 169,
+        "name": "HBsAg (confirm)",
+        "uuid": ""
+      },
+      {
+        "id": 167,
+        "name": "HBsAg (ELISA)",
+        "uuid": ""
+      },
+      {
+        "id": 168,
+        "name": "HBsAg (screening)",
+        "uuid": ""
+      },
+      {
+        "id": 170,
+        "name": "HBV DNA",
+        "uuid": ""
+      },
+      {
+        "id": 20,
+        "name": "HCT",
+        "uuid": ""
+      },
+      {
+        "id": 171,
+        "name": "HCV RNA",
+        "uuid": ""
+      },
+      {
+        "id": 52,
+        "name": "HDL",
+        "uuid": ""
+      },
+      {
+        "id": 495,
+        "name": "HLA A",
+        "uuid": ""
+      },
+      {
+        "id": 496,
+        "name": "HLA B",
+        "uuid": ""
+      },
+      {
+        "id": 500,
+        "name": "HLA B27 DNA",
+        "uuid": ""
+      },
+      {
+        "id": 498,
+        "name": "HLA C",
+        "uuid": ""
+      },
+      {
+        "id": 499,
+        "name": "HLA DQ",
+        "uuid": ""
+      },
+      {
+        "id": 497,
+        "name": "HLA DR",
+        "uuid": ""
+      },
+      {
+        "id": 424,
+        "name": "Holter Monitor (24 Hr. Ambulatory ECG)",
+        "uuid": ""
+      },
+      {
+        "id": 91,
+        "name": "Homocystine",
+        "uuid": ""
+      },
+      {
+        "id": 369,
+        "name": "HR CT Scan of Abdomen Lumps",
+        "uuid": ""
+      },
+      {
+        "id": 368,
+        "name": "HR CT Scan of Abdomen Mass",
+        "uuid": ""
+      },
+      {
+        "id": 374,
+        "name": "HR CT Scan of Bones",
+        "uuid": ""
+      },
+      {
+        "id": 371,
+        "name": "HR CT Scan of Chest",
+        "uuid": ""
+      },
+      {
+        "id": 372,
+        "name": "HR CT Scan of Joints",
+        "uuid": ""
+      },
+      {
+        "id": 370,
+        "name": "HR CT Scan of Lower abdomen-Pelvic organs",
+        "uuid": ""
+      },
+      {
+        "id": 375,
+        "name": "HR CT Scan of Lungs",
+        "uuid": ""
+      },
+      {
+        "id": 373,
+        "name": "HR CT Scan of Spine-Plain",
+        "uuid": ""
+      },
+      {
+        "id": 367,
+        "name": "HR CT Scan of Supra-Renal Gland",
+        "uuid": ""
+      },
+      {
+        "id": 145,
+        "name": "HSV-1 IgG",
+        "uuid": ""
+      },
+      {
+        "id": 144,
+        "name": "HSV-1 lgM",
+        "uuid": ""
+      },
+      {
+        "id": 148,
+        "name": "HSV-2 lgG",
+        "uuid": ""
+      },
+      {
+        "id": 147,
+        "name": "HSV-2 lgM",
+        "uuid": ""
+      },
+      {
+        "id": 256,
+        "name": "HVS for C/S",
+        "uuid": ""
+      },
+      {
+        "id": 255,
+        "name": "HVS for Gram Stain",
+        "uuid": ""
+      },
+      {
+        "id": 254,
+        "name": "HVS for R/M/E",
+        "uuid": ""
+      },
+      {
+        "id": 108,
+        "name": "ICT for Filaria",
+        "uuid": ""
+      },
+      {
+        "id": 110,
+        "name": "ICT for Kala-Azar",
+        "uuid": ""
+      },
+      {
+        "id": 109,
+        "name": "ICT for Malaria",
+        "uuid": ""
+      },
+      {
+        "id": 82,
+        "name": "ICT TB",
+        "uuid": ""
+      },
+      {
+        "id": 126,
+        "name": "IgA",
+        "uuid": ""
+      },
+      {
+        "id": 129,
+        "name": "IgE",
+        "uuid": ""
+      },
+      {
+        "id": 128,
+        "name": "IgG",
+        "uuid": ""
+      },
+      {
+        "id": 206,
+        "name": "Insulin",
+        "uuid": ""
+      },
+      {
+        "id": 88,
+        "name": "LDH",
+        "uuid": ""
+      },
+      {
+        "id": 53,
+        "name": "LDL",
+        "uuid": ""
+      },
+      {
+        "id": 19,
+        "name": "LE Cell",
+        "uuid": ""
+      },
+      {
+        "id": 127,
+        "name": "lgM",
+        "uuid": ""
+      },
+      {
+        "id": 195,
+        "name": "LH",
+        "uuid": ""
+      },
+      {
+        "id": 246,
+        "name": "LVS for C/S",
+        "uuid": ""
+      },
+      {
+        "id": 245,
+        "name": "LVS for gram stain",
+        "uuid": ""
+      },
+      {
+        "id": 56,
+        "name": "Magnesium",
+        "uuid": ""
+      },
+      {
+        "id": 478,
+        "name": "Mammography of Both Breast",
+        "uuid": ""
+      },
+      {
+        "id": 480,
+        "name": "Mammography of Left Breast",
+        "uuid": ""
+      },
+      {
+        "id": 479,
+        "name": "Mammography of Right Breast",
+        "uuid": ""
+      },
+      {
+        "id": 22,
+        "name": "MCH",
+        "uuid": ""
+      },
+      {
+        "id": 23,
+        "name": "MCHC",
+        "uuid": ""
+      },
+      {
+        "id": 21,
+        "name": "MCV",
+        "uuid": ""
+      },
+      {
+        "id": 46,
+        "name": "Micro albumin",
+        "uuid": ""
+      },
+      {
+        "id": 64,
+        "name": "MP",
+        "uuid": ""
+      },
+      {
+        "id": 447,
+        "name": "MRA of Abdominal Aorta",
+        "uuid": ""
+      },
+      {
+        "id": 429,
+        "name": "MRA of Brain",
+        "uuid": ""
+      },
+      {
+        "id": 436,
+        "name": "MRA of Neck Vessels",
+        "uuid": ""
+      },
+      {
+        "id": 445,
+        "name": "MRCP",
+        "uuid": ""
+      },
+      {
+        "id": 473,
+        "name": "MRI Angiogram of Upper Limbs",
+        "uuid": ""
+      },
+      {
+        "id": 463,
+        "name": "MRI of Ankle Joint Lt",
+        "uuid": ""
+      },
+      {
+        "id": 464,
+        "name": "MRI of Ankle Joint Rt",
+        "uuid": ""
+      },
+      {
+        "id": 470,
+        "name": "MRI of Any Single Organ",
+        "uuid": ""
+      },
+      {
+        "id": 469,
+        "name": "MRI of Any Single Part",
+        "uuid": ""
+      },
+      {
+        "id": 434,
+        "name": "MRI of Base of the Skull",
+        "uuid": ""
+      },
+      {
+        "id": 428,
+        "name": "MRI of Brain",
+        "uuid": ""
+      },
+      {
+        "id": 437,
+        "name": "MRI of Cervical Vessels",
+        "uuid": ""
+      },
+      {
+        "id": 472,
+        "name": "MRI of Chest",
+        "uuid": ""
+      },
+      {
+        "id": 439,
+        "name": "MRI of Dorsal Spine",
+        "uuid": ""
+      },
+      {
+        "id": 450,
+        "name": "MRI of Elbow Joint Lt",
+        "uuid": ""
+      },
+      {
+        "id": 451,
+        "name": "MRI of Elbow Joint Rt",
+        "uuid": ""
+      },
+      {
+        "id": 467,
+        "name": "MRI of Foot Lt",
+        "uuid": ""
+      },
+      {
+        "id": 468,
+        "name": "MRI of Foot Rt",
+        "uuid": ""
+      },
+      {
+        "id": 454,
+        "name": "MRI of Fore Arm Lt",
+        "uuid": ""
+      },
+      {
+        "id": 455,
+        "name": "MRI of Fore Arm Rt",
+        "uuid": ""
+      },
+      {
+        "id": 457,
+        "name": "MRI of Hip Joint AP",
+        "uuid": ""
+      },
+      {
+        "id": 458,
+        "name": "MRI of Hip Joint Both",
+        "uuid": ""
+      },
+      {
+        "id": 456,
+        "name": "MRI of Hip Joint Lat",
+        "uuid": ""
+      },
+      {
+        "id": 459,
+        "name": "MRI of Hip Joint Lt",
+        "uuid": ""
+      },
+      {
+        "id": 460,
+        "name": "MRI of Hip Joint Rt",
+        "uuid": ""
+      },
+      {
+        "id": 461,
+        "name": "MRI of Knee Joint Lt",
+        "uuid": ""
+      },
+      {
+        "id": 462,
+        "name": "MRI of Knee Joint Rt",
+        "uuid": ""
+      },
+      {
+        "id": 465,
+        "name": "MRI of Leg Lt",
+        "uuid": ""
+      },
+      {
+        "id": 466,
+        "name": "MRI of Leg Rt",
+        "uuid": ""
+      },
+      {
+        "id": 444,
+        "name": "MRI of Lower Abdomen",
+        "uuid": ""
+      },
+      {
+        "id": 443,
+        "name": "MRI of Lower Pelvis",
+        "uuid": ""
+      },
+      {
+        "id": 440,
+        "name": "MRI of Lumbo-Secral Spine",
+        "uuid": ""
+      },
+      {
+        "id": 471,
+        "name": "MRI of Lungs",
+        "uuid": ""
+      },
+      {
+        "id": 433,
+        "name": "MRI of Nasopharynx",
+        "uuid": ""
+      },
+      {
+        "id": 435,
+        "name": "MRI of Neck",
+        "uuid": ""
+      },
+      {
+        "id": 431,
+        "name": "MRI of Orbits",
+        "uuid": ""
+      },
+      {
+        "id": 430,
+        "name": "MRI of Pituitary Gland",
+        "uuid": ""
+      },
+      {
+        "id": 432,
+        "name": "MRI of PNS",
+        "uuid": ""
+      },
+      {
+        "id": 448,
+        "name": "MRI of Shoulder Joint Lt",
+        "uuid": ""
+      },
+      {
+        "id": 449,
+        "name": "MRI of Shoulder Joint Rt",
+        "uuid": ""
+      },
+      {
+        "id": 438,
+        "name": "MRI of Thoracic Spine",
+        "uuid": ""
+      },
+      {
+        "id": 442,
+        "name": "MRI of Upper Abdomen",
+        "uuid": ""
+      },
+      {
+        "id": 441,
+        "name": "MRI of Upper HBS",
+        "uuid": ""
+      },
+      {
+        "id": 446,
+        "name": "MRI of Whole Abdomen",
+        "uuid": ""
+      },
+      {
+        "id": 452,
+        "name": "MRI of Wrist Joint Lt",
+        "uuid": ""
+      },
+      {
+        "id": 453,
+        "name": "MRI of Wrist Joint Rt",
+        "uuid": ""
+      },
+      {
+        "id": 85,
+        "name": "Myoglobin",
+        "uuid": ""
+      },
+      {
+        "id": 340,
+        "name": "N.C.V",
+        "uuid": ""
+      },
+      {
+        "id": 248,
+        "name": "Nasal swab C/S",
+        "uuid": ""
+      },
+      {
+        "id": 490,
+        "name": "Neuclear Liver scan",
+        "uuid": ""
+      },
+      {
+        "id": 483,
+        "name": "Neuclear Parathyroid scan",
+        "uuid": ""
+      },
+      {
+        "id": 491,
+        "name": "Neuclear Spleen scan",
+        "uuid": ""
+      },
+      {
+        "id": 493,
+        "name": "Neuclear Testicular scan",
+        "uuid": ""
+      },
+      {
+        "id": 481,
+        "name": "Neuclear Thyroid scan",
+        "uuid": ""
+      },
+      {
+        "id": 36,
+        "name": "O.G.T.T",
+        "uuid": ""
+      },
+      {
+        "id": 197,
+        "name": "Oestrogen",
+        "uuid": ""
+      },
+      {
+        "id": 116,
+        "name": "P-ANCA",
+        "uuid": ""
+      },
+      {
+        "id": 13,
+        "name": "Peripheral Blood Film(PBF)",
+        "uuid": ""
+      },
+      {
+        "id": 18,
+        "name": "Plasma Fibrinogen",
+        "uuid": ""
+      },
+      {
+        "id": 10,
+        "name": "Platelet count",
+        "uuid": ""
+      },
+      {
+        "id": 57,
+        "name": "PO4",
+        "uuid": ""
+      },
+      {
+        "id": 35,
+        "name": "Pre dinner",
+        "uuid": ""
+      },
+      {
+        "id": 122,
+        "name": "Pre-albumin",
+        "uuid": ""
+      },
+      {
+        "id": 224,
+        "name": "Pregnancy test",
+        "uuid": ""
+      },
+      {
+        "id": 89,
+        "name": "Pro-ANP",
+        "uuid": ""
+      },
+      {
+        "id": 86,
+        "name": "Pro-BNP",
+        "uuid": ""
+      },
+      {
+        "id": 198,
+        "name": "Progesteron",
+        "uuid": ""
+      },
+      {
+        "id": 199,
+        "name": "Prolactin",
+        "uuid": ""
+      },
+      {
+        "id": 250,
+        "name": "Prostatic smear C/S & gram stain",
+        "uuid": ""
+      },
+      {
+        "id": 157,
+        "name": "Protein - A/G ratio",
+        "uuid": ""
+      },
+      {
+        "id": 156,
+        "name": "Protein - total",
+        "uuid": ""
+      },
+      {
+        "id": 25,
+        "name": "Protein Electrophoresis",
+        "uuid": ""
+      },
+      {
+        "id": 158,
+        "name": "Prothrombin Time",
+        "uuid": ""
+      },
+      {
+        "id": 15,
+        "name": "Prothrombin Time (PT)",
+        "uuid": ""
+      },
+      {
+        "id": 233,
+        "name": "Pus AFB",
+        "uuid": ""
+      },
+      {
+        "id": 232,
+        "name": "Pus C/S",
+        "uuid": ""
+      },
+      {
+        "id": 231,
+        "name": "Pus gram stain",
+        "uuid": ""
+      },
+      {
+        "id": 183,
+        "name": "Q & Q",
+        "uuid": ""
+      },
+      {
+        "id": 181,
+        "name": "R/M/E",
+        "uuid": ""
+      },
+      {
+        "id": 120,
+        "name": "RA test",
+        "uuid": ""
+      },
+      {
+        "id": 29,
+        "name": "Random blood sugar(RBS)",
+        "uuid": ""
+      },
+      {
+        "id": 9,
+        "name": "RBC count",
+        "uuid": ""
+      },
+      {
+        "id": 487,
+        "name": "Renal transplant evaluation",
+        "uuid": ""
+      },
+      {
+        "id": 11,
+        "name": "Reticulocyte count",
+        "uuid": ""
+      },
+      {
+        "id": 121,
+        "name": "RF test",
+        "uuid": ""
+      },
+      {
+        "id": 124,
+        "name": "Rh-antibody titre",
+        "uuid": ""
+      },
+      {
+        "id": 125,
+        "name": "Rose-Waaler test",
+        "uuid": ""
+      },
+      {
+        "id": 59,
+        "name": "Se.  Iron",
+        "uuid": ""
+      },
+      {
+        "id": 93,
+        "name": "Se. Acid Phosphatase",
+        "uuid": ""
+      },
+      {
+        "id": 160,
+        "name": "Se. Albumin",
+        "uuid": ""
+      },
+      {
+        "id": 99,
+        "name": "Se. Aldedhyde test",
+        "uuid": ""
+      },
+      {
+        "id": 95,
+        "name": "Se. Aldolase",
+        "uuid": ""
+      },
+      {
+        "id": 94,
+        "name": "Se. Alkaline phosphatase",
+        "uuid": ""
+      },
+      {
+        "id": 92,
+        "name": "Se. Amylase",
+        "uuid": ""
+      },
+      {
+        "id": 55,
+        "name": "Se. Calcium",
+        "uuid": ""
+      },
+      {
+        "id": 98,
+        "name": "Se. Cholinesterase",
+        "uuid": ""
+      },
+      {
+        "id": 42,
+        "name": "Se. Creatinine",
+        "uuid": ""
+      },
+      {
+        "id": 54,
+        "name": "Se. Electrolytes",
+        "uuid": ""
+      },
+      {
+        "id": 61,
+        "name": "Se. Ferritin",
+        "uuid": ""
+      },
+      {
+        "id": 96,
+        "name": "Se. G6PDH",
+        "uuid": ""
+      },
+      {
+        "id": 159,
+        "name": "Se. Globulin",
+        "uuid": ""
+      },
+      {
+        "id": 101,
+        "name": "Se. Gmama-GT",
+        "uuid": ""
+      },
+      {
+        "id": 102,
+        "name": "Se. Lactate",
+        "uuid": ""
+      },
+      {
+        "id": 100,
+        "name": "Se. Lipase",
+        "uuid": ""
+      },
+      {
+        "id": 97,
+        "name": "Se. Pancreatic Amylase",
+        "uuid": ""
+      },
+      {
+        "id": 189,
+        "name": "Semen analysis",
+        "uuid": ""
+      },
+      {
+        "id": 151,
+        "name": "SGOT(AST)",
+        "uuid": ""
+      },
+      {
+        "id": 150,
+        "name": "SGPT(ALT)",
+        "uuid": ""
+      },
+      {
+        "id": 253,
+        "name": "Skin scraping for C/S",
+        "uuid": ""
+      },
+      {
+        "id": 251,
+        "name": "Skin scraping for fungus",
+        "uuid": ""
+      },
+      {
+        "id": 252,
+        "name": "Skin scraping for M/E",
+        "uuid": ""
+      },
+      {
+        "id": 230,
+        "name": "Sputum  AFB",
+        "uuid": ""
+      },
+      {
+        "id": 228,
+        "name": "Sputum  gram stain",
+        "uuid": ""
+      },
+      {
+        "id": 229,
+        "name": "Sputum C/S",
+        "uuid": ""
+      },
+      {
+        "id": 212,
+        "name": "Stool C/S",
+        "uuid": ""
+      },
+      {
+        "id": 211,
+        "name": "Stool OBT",
+        "uuid": ""
+      },
+      {
+        "id": 210,
+        "name": "Stool R/E",
+        "uuid": ""
+      },
+      {
+        "id": 213,
+        "name": "Stool R/S",
+        "uuid": ""
+      },
+      {
+        "id": 501,
+        "name": "T cell cross match",
+        "uuid": ""
+      },
+      {
+        "id": 192,
+        "name": "T3",
+        "uuid": ""
+      },
+      {
+        "id": 193,
+        "name": "T4",
+        "uuid": ""
+      },
+      {
+        "id": 5,
+        "name": "TC, DC",
+        "uuid": ""
+      },
+      {
+        "id": 4,
+        "name": "TC, DC, Hb%, ESR",
+        "uuid": ""
+      },
+      {
+        "id": 200,
+        "name": "Testosteron",
+        "uuid": ""
+      },
+      {
+        "id": 51,
+        "name": "TG",
+        "uuid": ""
+      },
+      {
+        "id": 237,
+        "name": "Throat swab C/S",
+        "uuid": ""
+      },
+      {
+        "id": 236,
+        "name": "Throat swab gram stain",
+        "uuid": ""
+      },
+      {
+        "id": 238,
+        "name": "Throat swab KLB",
+        "uuid": ""
+      },
+      {
+        "id": 208,
+        "name": "Thyroglobulin",
+        "uuid": ""
+      },
+      {
+        "id": 482,
+        "name": "Thyroid uptake",
+        "uuid": ""
+      },
+      {
+        "id": 60,
+        "name": "TIBC",
+        "uuid": ""
+      },
+      {
+        "id": 494,
+        "name": "Tissue typing",
+        "uuid": ""
+      },
+      {
+        "id": 136,
+        "name": "TORCH pannel",
+        "uuid": ""
+      },
+      {
+        "id": 50,
+        "name": "Total Cholesterol",
+        "uuid": ""
+      },
+      {
+        "id": 114,
+        "name": "TPHA",
+        "uuid": ""
+      },
+      {
+        "id": 112,
+        "name": "Triple antigen",
+        "uuid": ""
+      },
+      {
+        "id": 87,
+        "name": "Troponin I",
+        "uuid": ""
+      },
+      {
+        "id": 194,
+        "name": "TSH",
+        "uuid": ""
+      },
+      {
+        "id": 257,
+        "name": "Tumor marker of AFP",
+        "uuid": ""
+      },
+      {
+        "id": 260,
+        "name": "Tumor marker of Beta - hCG",
+        "uuid": ""
+      },
+      {
+        "id": 262,
+        "name": "Tumor marker of CA - 125",
+        "uuid": ""
+      },
+      {
+        "id": 264,
+        "name": "Tumor marker of CA 19.9",
+        "uuid": ""
+      },
+      {
+        "id": 266,
+        "name": "Tumor marker of CA 242",
+        "uuid": ""
+      },
+      {
+        "id": 263,
+        "name": "Tumor marker of CA15.3",
+        "uuid": ""
+      },
+      {
+        "id": 259,
+        "name": "Tumor marker of CEA",
+        "uuid": ""
+      },
+      {
+        "id": 265,
+        "name": "Tumor marker of Ferritin level",
+        "uuid": ""
+      },
+      {
+        "id": 258,
+        "name": "Tumor marker of PSA",
+        "uuid": ""
+      },
+      {
+        "id": 261,
+        "name": "Tumor marker of Total hCG",
+        "uuid": ""
+      },
+      {
+        "id": 243,
+        "name": "Umbilical Swab for C/S",
+        "uuid": ""
+      },
+      {
+        "id": 242,
+        "name": "Umbilical Swab for gram stain",
+        "uuid": ""
+      },
+      {
+        "id": 249,
+        "name": "Urethral smear C/S & gram stain",
+        "uuid": ""
+      },
+      {
+        "id": 45,
+        "name": "Uric acid",
+        "uuid": ""
+      },
+      {
+        "id": 40,
+        "name": "Urinary Albumin Creatinine Ratio",
+        "uuid": ""
+      },
+      {
+        "id": 48,
+        "name": "Urinary PCR",
+        "uuid": ""
+      },
+      {
+        "id": 216,
+        "name": "Urine C/S",
+        "uuid": ""
+      },
+      {
+        "id": 505,
+        "name": "Urine for ACR",
+        "uuid": ""
+      },
+      {
+        "id": 226,
+        "name": "Urine for Bile pigment",
+        "uuid": ""
+      },
+      {
+        "id": 222,
+        "name": "Urine for Bile salt",
+        "uuid": ""
+      },
+      {
+        "id": 220,
+        "name": "Urine for Keton bodies",
+        "uuid": ""
+      },
+      {
+        "id": 218,
+        "name": "Urine for Osmolality",
+        "uuid": ""
+      },
+      {
+        "id": 225,
+        "name": "Urine for Reducing substance",
+        "uuid": ""
+      },
+      {
+        "id": 217,
+        "name": "Urine for Specific gravity",
+        "uuid": ""
+      },
+      {
+        "id": 219,
+        "name": "Urine for Sugar",
+        "uuid": ""
+      },
+      {
+        "id": 221,
+        "name": "Urine for Urobilinogen",
+        "uuid": ""
+      },
+      {
+        "id": 215,
+        "name": "Urine R/E",
+        "uuid": ""
+      },
+      {
+        "id": 286,
+        "name": "Uroflowmetry",
+        "uuid": ""
+      },
+      {
+        "id": 400,
+        "name": "USG of Brain",
+        "uuid": ""
+      },
+      {
+        "id": 406,
+        "name": "USG of Breast",
+        "uuid": ""
+      },
+      {
+        "id": 402,
+        "name": "USG of Eyeballs Both",
+        "uuid": ""
+      },
+      {
+        "id": 404,
+        "name": "USG of Eyeballs Lt.",
+        "uuid": ""
+      },
+      {
+        "id": 403,
+        "name": "USG of Eyeballs Rt.",
+        "uuid": ""
+      },
+      {
+        "id": 413,
+        "name": "USG of Foetal maturity",
+        "uuid": ""
+      },
+      {
+        "id": 416,
+        "name": "USG of Foetal position",
+        "uuid": ""
+      },
+      {
+        "id": 415,
+        "name": "USG of Foetal presentation",
+        "uuid": ""
+      },
+      {
+        "id": 414,
+        "name": "USG of Foetal well being",
+        "uuid": ""
+      },
+      {
+        "id": 396,
+        "name": "USG of GB",
+        "uuid": ""
+      },
+      {
+        "id": 394,
+        "name": "USG of HBS",
+        "uuid": ""
+      },
+      {
+        "id": 398,
+        "name": "USG of HBS & Pancreas",
+        "uuid": ""
+      },
+      {
+        "id": 407,
+        "name": "USG of KUB",
+        "uuid": ""
+      },
+      {
+        "id": 408,
+        "name": "USG of KUB with PVR",
+        "uuid": ""
+      },
+      {
+        "id": 395,
+        "name": "USG of Liver",
+        "uuid": ""
+      },
+      {
+        "id": 393,
+        "name": "USG of Lower Abdomen",
+        "uuid": ""
+      },
+      {
+        "id": 399,
+        "name": "USG of Parotid Gland",
+        "uuid": ""
+      },
+      {
+        "id": 401,
+        "name": "USG of Pelvic organs",
+        "uuid": ""
+      },
+      {
+        "id": 412,
+        "name": "USG of Pregnancy determination",
+        "uuid": ""
+      },
+      {
+        "id": 417,
+        "name": "USG of Pregnancy profile",
+        "uuid": ""
+      },
+      {
+        "id": 409,
+        "name": "USG of Scrotum, Testies & Soft tissue",
+        "uuid": ""
+      },
+      {
+        "id": 405,
+        "name": "USG of Thyroid Gland",
+        "uuid": ""
+      },
+      {
+        "id": 410,
+        "name": "USG of Trans rectal",
+        "uuid": ""
+      },
+      {
+        "id": 411,
+        "name": "USG of Trans Vaginal (TVS)",
+        "uuid": ""
+      },
+      {
+        "id": 392,
+        "name": "USG of Upper Abdomen",
+        "uuid": ""
+      },
+      {
+        "id": 420,
+        "name": "USG of USG guided aspiration of liver absces",
+        "uuid": ""
+      },
+      {
+        "id": 419,
+        "name": "USG of USG guided FNAC",
+        "uuid": ""
+      },
+      {
+        "id": 418,
+        "name": "USG of USG guided Liver biopsy",
+        "uuid": ""
+      },
+      {
+        "id": 397,
+        "name": "USG of Uterus & Adnexae",
+        "uuid": ""
+      },
+      {
+        "id": 391,
+        "name": "USG of Whole abdomen",
+        "uuid": ""
+      },
+      {
+        "id": 241,
+        "name": "Vaginal swab for gram stain",
+        "uuid": ""
+      },
+      {
+        "id": 111,
+        "name": "VDRL",
+        "uuid": ""
+      },
+      {
+        "id": 486,
+        "name": "Vesico ureteric reflux",
+        "uuid": ""
+      },
+      {
+        "id": 379,
+        "name": "Video Endoscopy of CLO test (To detect the urease enzyme of Helicobacter Pylori)",
+        "uuid": ""
+      },
+      {
+        "id": 377,
+        "name": "Video Endoscopy of Endoscopic Biopsy body Extraction",
+        "uuid": ""
+      },
+      {
+        "id": 378,
+        "name": "Video Endoscopy of Endoscopic Foreign body Extraction",
+        "uuid": ""
+      },
+      {
+        "id": 383,
+        "name": "Video Endoscopy of Hemostasis",
+        "uuid": ""
+      },
+      {
+        "id": 385,
+        "name": "Video Endoscopy of polypectomy",
+        "uuid": ""
+      },
+      {
+        "id": 384,
+        "name": "Video Endoscopy of sclerotherapy",
+        "uuid": ""
+      },
+      {
+        "id": 376,
+        "name": "Video Endoscopy of Upper GIT",
+        "uuid": ""
+      },
+      {
+        "id": 381,
+        "name": "Video Endoscopy of upper GIT under sedation",
+        "uuid": ""
+      },
+      {
+        "id": 380,
+        "name": "Video Endoscopy of upper GIT with CLO test",
+        "uuid": ""
+      },
+      {
+        "id": 382,
+        "name": "Video Endoscopy of variceal band ligation",
+        "uuid": ""
+      },
+      {
+        "id": 283,
+        "name": "Vit B12 assay",
+        "uuid": ""
+      },
+      {
+        "id": 8,
+        "name": "WBC count",
+        "uuid": ""
+      },
+      {
+        "id": 485,
+        "name": "Whole body bone scan",
+        "uuid": ""
+      },
+      {
+        "id": 119,
+        "name": "Widal test",
+        "uuid": ""
+      },
+      {
+        "id": 235,
+        "name": "wound swab for C/S",
+        "uuid": ""
+      },
+      {
+        "id": 234,
+        "name": "wound swab for gram stain",
+        "uuid": ""
+      },
+      {
+        "id": 292,
+        "name": "X-ray of Abdomen Erect",
+        "uuid": ""
+      },
+      {
+        "id": 293,
+        "name": "X-ray of Abdomen Supine",
+        "uuid": ""
+      },
+      {
+        "id": 313,
+        "name": "X-ray of Ankle Joint : Both view",
+        "uuid": ""
+      },
+      {
+        "id": 323,
+        "name": "X-ray of Cervical Spine",
+        "uuid": ""
+      },
+      {
+        "id": 287,
+        "name": "X-ray of Chest",
+        "uuid": ""
+      },
+      {
+        "id": 324,
+        "name": "X-ray of Dorsal Spine",
+        "uuid": ""
+      },
+      {
+        "id": 312,
+        "name": "X-ray of Knee Joint : Both view",
+        "uuid": ""
+      },
+      {
+        "id": 294,
+        "name": "X-ray of KUB",
+        "uuid": ""
+      },
+      {
+        "id": 330,
+        "name": "X-ray of Mandible: Oblique view",
+        "uuid": ""
+      },
+      {
+        "id": 333,
+        "name": "X-ray of Mastoid",
+        "uuid": ""
+      },
+      {
+        "id": 331,
+        "name": "X-ray of Nasal Bone: R/L (Lateral view)",
+        "uuid": ""
+      },
+      {
+        "id": 335,
+        "name": "X-ray of Optic Foramen view",
+        "uuid": ""
+      },
+      {
+        "id": 337,
+        "name": "X-ray of Orbit",
+        "uuid": ""
+      },
+      {
+        "id": 299,
+        "name": "X-ray of Shoulder Joint",
+        "uuid": ""
+      },
+      {
+        "id": 298,
+        "name": "X-ray of Skull : Both View",
+        "uuid": ""
+      },
+      {
+        "id": 327,
+        "name": "X-ray of Soft tissue Neck",
+        "uuid": ""
+      },
+      {
+        "id": 332,
+        "name": "X-ray of TM Joint: (Open & Close Mouth)",
+        "uuid": ""
+      },
+      {
+        "id": 329,
+        "name": "X-ray of Tooth: Occusal view",
+        "uuid": ""
+      }
+    ],
+    "first_page_url": "https://rxapi.navanapharma.com/api/allInvestigationReport?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "https://rxapi.navanapharma.com/api/allInvestigationReport?page=1",
+    "links": [
+      {
+        "url": null,
+        "label": "&laquo; Previous",
+        "active": false
+      },
+      {
+        "url": "https://rxapi.navanapharma.com/api/allInvestigationReport?page=1",
+        "label": "1",
+        "active": true
+      },
+      {
+        "url": null,
+        "label": "Next &raquo;",
+        "active": false
+      }
+    ],
+    "next_page_url": null,
+    "path": "https://rxapi.navanapharma.com/api/allInvestigationReport",
+    "per_page": "5000",
+    "prev_page_url": null,
+    "to": 472,
+    "total": 472
+  }
+}

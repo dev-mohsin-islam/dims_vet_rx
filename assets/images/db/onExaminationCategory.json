@@ -1,0 +1,57 @@
+{
+  "success": true,
+  "dataLength": 10,
+  "message": "data found.",
+  "data": [
+    {
+      "id": 4,
+      "name": "Cardio vascular system",
+      "uuid": ""
+    },
+    {
+      "id": 6,
+      "name": "Central nervous system",
+      "uuid": ""
+    },
+    {
+      "id": 5,
+      "name": "Gastro intestinal",
+      "uuid": ""
+    },
+    {
+      "id": 3,
+      "name": "General examination",
+      "uuid": ""
+    },
+    {
+      "id": 9,
+      "name": "Genito-urinary system",
+      "uuid": ""
+    },
+    {
+      "id": 8,
+      "name": "Musculoskeletal system",
+      "uuid": ""
+    },
+    {
+      "id": 11,
+      "name": "Obs/gyn",
+      "uuid": ""
+    },
+    {
+      "id": 12,
+      "name": "Paediatric/Child Info",
+      "uuid": ""
+    },
+    {
+      "id": 7,
+      "name": "Respiratory",
+      "uuid": ""
+    },
+    {
+      "id": 10,
+      "name": "Skin",
+      "uuid": ""
+    }
+  ]
+}

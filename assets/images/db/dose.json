@@ -1,0 +1,98 @@
+{
+  "success": true,
+  "dataLength": 14,
+  "message": "data found.",
+  "data": {
+    "current_page": 1,
+    "data": [
+
+      {
+        "id": 8,
+        "name": "০ + ০ + ১",
+        "uuid": ""
+      },
+      {
+        "id": 2,
+        "name": "০ + ০ + ১/২",
+        "uuid": ""
+      },
+      {
+        "id": 9,
+        "name": "০ + ১ + ০",
+        "uuid": ""
+      },
+      {
+        "id": 11,
+        "name": "০ + ১ + ১",
+        "uuid": ""
+      },
+      {
+        "id": 7,
+        "name": "১ + ০ + ০",
+        "uuid": ""
+      },
+      {
+        "id": 12,
+        "name": "১ + ০ + ১",
+        "uuid": ""
+      },
+      {
+        "id": 10,
+        "name": "১ + ১ + ০",
+        "uuid": ""
+      },
+      {
+        "id": 13,
+        "name": "১ + ১ + ১",
+        "uuid": ""
+      },
+      {
+        "id": 14,
+        "name": "১ + ১ + ১ + ১",
+        "uuid": ""
+      },
+      {
+        "id": 1,
+        "name": "১/২ + ০ + ০",
+        "uuid": ""
+      },
+      {
+        "id": 3,
+        "name": "১/২ + ০ + ১/২",
+        "uuid": ""
+      },
+      {
+        "id": 5,
+        "name": "১/২ + ১/২ + ১/২",
+        "uuid": ""
+      }
+    ],
+    "first_page_url": "https://rxapi.navanapharma.com/api/allDose?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "https://rxapi.navanapharma.com/api/allDose?page=1",
+    "links": [
+      {
+        "url": null,
+        "label": "&laquo; Previous",
+        "active": false
+      },
+      {
+        "url": "https://rxapi.navanapharma.com/api/allDose?page=1",
+        "label": "1",
+        "active": true
+      },
+      {
+        "url": null,
+        "label": "Next &raquo;",
+        "active": false
+      }
+    ],
+    "next_page_url": null,
+    "path": "https://rxapi.navanapharma.com/api/allDose",
+    "per_page": "100",
+    "prev_page_url": null,
+    "to": 14,
+    "total": 14
+  }
+}

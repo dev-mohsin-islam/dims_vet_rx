@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "725943484450",
+    "project_id": "navana-rx-digital",
+    "storage_bucket": "navana-rx-digital.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725943484450:android:13caf5cbe23119953d0a7b",
+        "android_client_info": {
+          "package_name": "com.navana.rx_digital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Wwe94pff7TUwgTVEM_wibkbZkUR8w-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

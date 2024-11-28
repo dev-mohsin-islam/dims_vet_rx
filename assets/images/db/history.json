@@ -1,0 +1,837 @@
+{
+  "success": true,
+  "dataLength": 6,
+  "message": "History Data",
+  "data": [
+    {
+      "type": "Family History",
+      "data": [
+        {
+          "id": 1,
+          "name": "Anxiety",
+          "uuid": ""
+        },
+        {
+          "id": 2,
+          "name": "Depression",
+          "uuid": ""
+        },
+        {
+          "id": 3,
+          "name": "Bipolar disorder",
+          "uuid": ""
+        },
+        {
+          "id": 4,
+          "name": "Obsessive Compulsive Disorder ",
+          "uuid": ""
+        },
+        {
+          "id": 5,
+          "name": "Schizophrenia",
+          "uuid": ""
+        },
+        {
+          "id": 6,
+          "name": "Dementia",
+          "uuid": ""
+        },
+        {
+          "id": 7,
+          "name": "Delirium",
+          "uuid": ""
+        },
+        {
+          "id": 8,
+          "name": "Psycho-sexual disorder",
+          "uuid": ""
+        },
+        {
+          "id": 9,
+          "name": "Substance/Drug related disorde",
+          "uuid": ""
+        },
+        {
+          "id": 10,
+          "name": "Personality disorder",
+          "uuid": ""
+        },
+        {
+          "id": 11,
+          "name": "Mood disorder",
+          "uuid": ""
+        },
+        {
+          "id": 12,
+          "name": "Cognitive disorder",
+          "uuid": ""
+        },
+        {
+          "id": 13,
+          "name": "Eating disorder",
+          "uuid": ""
+        },
+        {
+          "id": 14,
+          "name": "Adjustment disorder",
+          "uuid": ""
+        },
+        {
+          "id": 15,
+          "name": "Domestic violence",
+          "uuid": ""
+        },
+        {
+          "id": 16,
+          "name": "Legal problems",
+          "uuid": ""
+        },
+        {
+          "id": 17,
+          "name": "Learning Disability",
+          "uuid": ""
+        },
+        {
+          "id": 18,
+          "name": "Attention Deficit Disorder",
+          "uuid": ""
+        },
+        {
+          "id": 19,
+          "name": "Mental Retardation",
+          "uuid": ""
+        },
+        {
+          "id": 20,
+          "name": "Autism",
+          "uuid": ""
+        },
+        {
+          "id": 21,
+          "name": "Pervasive Developmental Disord",
+          "uuid": ""
+        },
+        {
+          "id": 22,
+          "name": "Speech and Language Disorder",
+          "uuid": ""
+        },
+        {
+          "id": 23,
+          "name": "Hearing Loss/Deafness",
+          "uuid": ""
+        },
+        {
+          "id": 24,
+          "name": "Tourette or Tic disorder",
+          "uuid": ""
+        },
+        {
+          "id": 25,
+          "name": "Behavior Problem",
+          "uuid": ""
+        },
+        {
+          "id": 26,
+          "name": "Suicide Attempt",
+          "uuid": ""
+        },
+        {
+          "id": 27,
+          "name": "Psychiatric hospitalization",
+          "uuid": ""
+        },
+        {
+          "id": 28,
+          "name": "Alcohol dependency",
+          "uuid": ""
+        },
+        {
+          "id": 29,
+          "name": "Obesity/Weight Problem",
+          "uuid": ""
+        },
+        {
+          "id": 69,
+          "name": "HTN",
+          "uuid": ""
+        },
+        {
+          "id": 70,
+          "name": "DM",
+          "uuid": ""
+        },
+        {
+          "id": 71,
+          "name": "Epilepsy/seizure",
+          "uuid": ""
+        },
+        {
+          "id": 72,
+          "name": "Congenital Malformation (Birth",
+          "uuid": ""
+        },
+        {
+          "id": 73,
+          "name": "Infertility",
+          "uuid": ""
+        },
+        {
+          "id": 74,
+          "name": "Congenital Problem (Genetic di",
+          "uuid": ""
+        },
+        {
+          "id": 75,
+          "name": "IHD",
+          "uuid": ""
+        },
+        {
+          "id": 76,
+          "name": "CKD",
+          "uuid": ""
+        },
+        {
+          "id": 77,
+          "name": "CVD",
+          "uuid": ""
+        },
+        {
+          "id": 78,
+          "name": "TB",
+          "uuid": ""
+        },
+        {
+          "id": 79,
+          "name": "Malaria",
+          "uuid": ""
+        },
+        {
+          "id": 80,
+          "name": "Hepatitis B",
+          "uuid": ""
+        },
+        {
+          "id": 81,
+          "name": "Hepatitis C",
+          "uuid": ""
+        },
+        {
+          "id": 82,
+          "name": "Typhoid",
+          "uuid": ""
+        },
+        {
+          "id": 83,
+          "name": "Measles",
+          "uuid": ""
+        },
+        {
+          "id": 84,
+          "name": "Pneumonia",
+          "uuid": ""
+        },
+        {
+          "id": 85,
+          "name": "Rubella",
+          "uuid": ""
+        },
+        {
+          "id": 86,
+          "name": "Other",
+          "uuid": ""
+        }
+      ]
+    },
+    {
+      "type": "Personal History",
+      "data": [
+        {
+          "id": 30,
+          "name": "HTN",
+          "uuid": ""
+        },
+        {
+          "id": 31,
+          "name": "DM",
+          "uuid": ""
+        },
+        {
+          "id": 32,
+          "name": "GDM",
+          "uuid": ""
+        },
+        {
+          "id": 33,
+          "name": "Epilepsy/seizure",
+          "uuid": ""
+        },
+        {
+          "id": 34,
+          "name": "TB",
+          "uuid": ""
+        },
+        {
+          "id": 35,
+          "name": "Congenital Malformation (Birth",
+          "uuid": ""
+        },
+        {
+          "id": 36,
+          "name": "Infertility",
+          "uuid": ""
+        },
+        {
+          "id": 37,
+          "name": "Thyroid Disease",
+          "uuid": ""
+        },
+        {
+          "id": 38,
+          "name": "SLE",
+          "uuid": ""
+        },
+        {
+          "id": 39,
+          "name": "STD",
+          "uuid": ""
+        },
+        {
+          "id": 40,
+          "name": "Asthma",
+          "uuid": ""
+        },
+        {
+          "id": 41,
+          "name": "Rh-fever",
+          "uuid": ""
+        },
+        {
+          "id": 42,
+          "name": "UTI",
+          "uuid": ""
+        },
+        {
+          "id": 43,
+          "name": "Recurrent abortion",
+          "uuid": ""
+        },
+        {
+          "id": 44,
+          "name": "Jaundice",
+          "uuid": ""
+        },
+        {
+          "id": 45,
+          "name": "PPH",
+          "uuid": ""
+        },
+        {
+          "id": 46,
+          "name": "Twins",
+          "uuid": ""
+        },
+        {
+          "id": 47,
+          "name": "Congenital Problem (Genetic di",
+          "uuid": ""
+        },
+        {
+          "id": 48,
+          "name": "IHD",
+          "uuid": ""
+        },
+        {
+          "id": 49,
+          "name": "CKD",
+          "uuid": ""
+        },
+        {
+          "id": 50,
+          "name": "CVD",
+          "uuid": ""
+        },
+        {
+          "id": 51,
+          "name": "Dyslipidemia",
+          "uuid": ""
+        },
+        {
+          "id": 52,
+          "name": "Pre eclampsia",
+          "uuid": ""
+        },
+        {
+          "id": 53,
+          "name": "Eclampsia",
+          "uuid": ""
+        },
+        {
+          "id": 54,
+          "name": "Anxiety",
+          "uuid": ""
+        },
+        {
+          "id": 55,
+          "name": "Depression",
+          "uuid": ""
+        },
+        {
+          "id": 56,
+          "name": "Bipolar disorder",
+          "uuid": ""
+        },
+        {
+          "id": 57,
+          "name": "Obsessive Compulsive Disorder ",
+          "uuid": ""
+        },
+        {
+          "id": 58,
+          "name": "Schizophrenia",
+          "uuid": ""
+        },
+        {
+          "id": 59,
+          "name": "Psycho-sexual disorder",
+          "uuid": ""
+        },
+        {
+          "id": 60,
+          "name": "Physical/Sexual abuse",
+          "uuid": ""
+        },
+        {
+          "id": 61,
+          "name": "Suicide Attempt",
+          "uuid": ""
+        },
+        {
+          "id": 62,
+          "name": "Head trauma",
+          "uuid": ""
+        },
+        {
+          "id": 63,
+          "name": "Drug allergy",
+          "uuid": ""
+        },
+        {
+          "id": 64,
+          "name": "Other",
+          "uuid": ""
+        }
+      ]
+    },
+    {
+      "type": "social history",
+      "data": [
+        {
+          "id": 65,
+          "name": "Smoking",
+          "uuid": ""
+        },
+        {
+          "id": 66,
+          "name": "Alcohol",
+          "uuid": ""
+        },
+        {
+          "id": 67,
+          "name": "H/O Exposer (venereal disease)",
+          "uuid": ""
+        },
+        {
+          "id": 68,
+          "name": "Substance/Drug use",
+          "uuid": ""
+        }
+      ]
+    },
+    {
+      "type": "Drugs Allergy History",
+      "data": [
+        {
+          "id": 196,
+          "name": "NSAID’S",
+          "uuid": ""
+        },
+        {
+          "id": 197,
+          "name": "Penicillin’s",
+          "uuid": ""
+        },
+        {
+          "id": 198,
+          "name": "Cephalosporin’s",
+          "uuid": ""
+        },
+        {
+          "id": 199,
+          "name": "Sulfonamides (sulfur containing drugs)",
+          "uuid": ""
+        },
+        {
+          "id": 200,
+          "name": "Iodinated contrast media",
+          "uuid": ""
+        },
+        {
+          "id": 201,
+          "name": "Tetracycline",
+          "uuid": ""
+        },
+        {
+          "id": 202,
+          "name": "Quinolones",
+          "uuid": ""
+        },
+        {
+          "id": 203,
+          "name": "Antituberculous drugs",
+          "uuid": ""
+        },
+        {
+          "id": 204,
+          "name": "Antimalarials",
+          "uuid": ""
+        },
+        {
+          "id": 205,
+          "name": "Anticonvulsants",
+          "uuid": ""
+        },
+        {
+          "id": 206,
+          "name": "Anesthetics",
+          "uuid": ""
+        },
+        {
+          "id": 207,
+          "name": "Antipsychotic tranquilizers",
+          "uuid": ""
+        },
+        {
+          "id": 208,
+          "name": "Antihypertensive drugs",
+          "uuid": ""
+        },
+        {
+          "id": 209,
+          "name": "Antiarrhythmic drugs",
+          "uuid": ""
+        },
+        {
+          "id": 210,
+          "name": "Antithyroid drugs",
+          "uuid": ""
+        },
+        {
+          "id": 211,
+          "name": "Antisera and vaccines",
+          "uuid": ""
+        },
+        {
+          "id": 212,
+          "name": "Insulin",
+          "uuid": ""
+        },
+        {
+          "id": 213,
+          "name": "Opioids",
+          "uuid": ""
+        },
+        {
+          "id": 214,
+          "name": "Statins",
+          "uuid": ""
+        },
+        {
+          "id": 215,
+          "name": "ACE inhibitor",
+          "uuid": ""
+        },
+        {
+          "id": 216,
+          "name": "Sedative-hypnotics",
+          "uuid": ""
+        },
+        {
+          "id": 217,
+          "name": "Heavy metals",
+          "uuid": ""
+        },
+        {
+          "id": 218,
+          "name": "Aspirin",
+          "uuid": ""
+        },
+        {
+          "id": 219,
+          "name": "Allopurinol",
+          "uuid": ""
+        },
+        {
+          "id": 220,
+          "name": "Nitrofurantoin",
+          "uuid": ""
+        },
+        {
+          "id": 221,
+          "name": "Griseofulvin",
+          "uuid": ""
+        }
+      ]
+    },
+    {
+      "type": "Foods Allergy History",
+      "data": [
+        {
+          "id": 222,
+          "name": "Cow’s milk",
+          "uuid": ""
+        },
+        {
+          "id": 224,
+          "name": "Eggs",
+          "uuid": ""
+        },
+        {
+          "id": 225,
+          "name": "Peanuts",
+          "uuid": ""
+        },
+        {
+          "id": 226,
+          "name": "Dairy products",
+          "uuid": ""
+        },
+        {
+          "id": 227,
+          "name": "Fish (hilsha, sola fish)",
+          "uuid": ""
+        },
+        {
+          "id": 228,
+          "name": "Shellfish (crab, lobster, shrimp)",
+          "uuid": ""
+        },
+        {
+          "id": 229,
+          "name": "Tree nuts (almonds, cashews, walnuts)",
+          "uuid": ""
+        },
+        {
+          "id": 230,
+          "name": "Meat (beef, chicken, mutton, and pork)",
+          "uuid": ""
+        },
+        {
+          "id": 231,
+          "name": "Wheat",
+          "uuid": ""
+        },
+        {
+          "id": 232,
+          "name": "Soybean",
+          "uuid": ""
+        },
+        {
+          "id": 233,
+          "name": "Seafood’s",
+          "uuid": ""
+        },
+        {
+          "id": 234,
+          "name": "Coconut",
+          "uuid": ""
+        },
+        {
+          "id": 235,
+          "name": "Corn",
+          "uuid": ""
+        },
+        {
+          "id": 236,
+          "name": "Gelatin",
+          "uuid": ""
+        },
+        {
+          "id": 237,
+          "name": "Seeds (sesame, sunflower, and poppy)",
+          "uuid": ""
+        },
+        {
+          "id": 238,
+          "name": "Spices (caraway, coriander, garlic, mustard, Onion etc.)",
+          "uuid": ""
+        },
+        {
+          "id": 239,
+          "name": "Mushrooms",
+          "uuid": ""
+        },
+        {
+          "id": 240,
+          "name": "Brinjal",
+          "uuid": ""
+        },
+        {
+          "id": 241,
+          "name": "Banana",
+          "uuid": ""
+        },
+        {
+          "id": 242,
+          "name": "Pumpkin",
+          "uuid": ""
+        },
+        {
+          "id": 243,
+          "name": "Esculent/Taro roots",
+          "uuid": ""
+        },
+        {
+          "id": 244,
+          "name": "Grapes",
+          "uuid": ""
+        }
+      ]
+    },
+    {
+      "type": "Environmental Allergy History",
+      "data": [
+        {
+          "id": 248,
+          "name": "Pollen",
+          "uuid": ""
+        },
+        {
+          "id": 249,
+          "name": "Dust",
+          "uuid": ""
+        },
+        {
+          "id": 250,
+          "name": "House Dust Mites",
+          "uuid": ""
+        },
+        {
+          "id": 251,
+          "name": "Mites",
+          "uuid": ""
+        },
+        {
+          "id": 252,
+          "name": "Molds",
+          "uuid": ""
+        },
+        {
+          "id": 253,
+          "name": "Pets & Animals",
+          "uuid": ""
+        },
+        {
+          "id": 254,
+          "name": "Animal Dander",
+          "uuid": ""
+        },
+        {
+          "id": 255,
+          "name": "Insect bites",
+          "uuid": ""
+        },
+        {
+          "id": 256,
+          "name": "Cockroaches",
+          "uuid": ""
+        },
+        {
+          "id": 257,
+          "name": "Seasonal (cold, dry or wet weather)",
+          "uuid": ""
+        },
+        {
+          "id": 258,
+          "name": "Fumes",
+          "uuid": ""
+        },
+        {
+          "id": 259,
+          "name": "Smokes",
+          "uuid": ""
+        },
+        {
+          "id": 260,
+          "name": "Cigarette Smoke",
+          "uuid": ""
+        },
+        {
+          "id": 261,
+          "name": "Air pollution",
+          "uuid": ""
+        },
+        {
+          "id": 262,
+          "name": "Chemicals",
+          "uuid": ""
+        },
+        {
+          "id": 263,
+          "name": "Pesticides",
+          "uuid": ""
+        },
+        {
+          "id": 264,
+          "name": "Latex",
+          "uuid": ""
+        },
+        {
+          "id": 265,
+          "name": "Cosmetics",
+          "uuid": ""
+        },
+        {
+          "id": 266,
+          "name": "Perfume",
+          "uuid": ""
+        },
+        {
+          "id": 267,
+          "name": "Arsenic",
+          "uuid": ""
+        },
+        {
+          "id": 268,
+          "name": "Lead",
+          "uuid": ""
+        },
+        {
+          "id": 269,
+          "name": "Mercury",
+          "uuid": ""
+        },
+        {
+          "id": 270,
+          "name": "Gold",
+          "uuid": ""
+        },
+        {
+          "id": 271,
+          "name": "Nickel",
+          "uuid": ""
+        },
+        {
+          "id": 272,
+          "name": "Metals",
+          "uuid": ""
+        },
+        {
+          "id": 273,
+          "name": "Wools",
+          "uuid": ""
+        }
+      ]
+    }
+  ]
+}

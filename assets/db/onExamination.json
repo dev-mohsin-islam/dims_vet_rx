@@ -1,0 +1,1631 @@
+{
+  "success": true,
+  "dataLength": 232,
+  "message": "data found.",
+  "data": [
+    {
+      "id": 429,
+      "name": "Abdomen - Caesarean Section(C/S) Scar",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 430,
+      "name": "Abdomen - Fetal Movement",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 431,
+      "name": "Abdomen - Linea Albicans",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 432,
+      "name": "Abdomen - Linea Nigra",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 433,
+      "name": "Abdomen – Striae Gravidarum",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 321,
+      "name": "Abdominal Distention",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 331,
+      "name": "Abdominal Mass",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 386,
+      "name": "Abdominal Reflex",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 317,
+      "name": "Abdominal Swelling",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 301,
+      "name": "Added Sound",
+      "category": 4,
+      "uuid": "",
+      "category_name": "Cardio vascular system"
+    },
+    {
+      "id": 257,
+      "name": "Anaemia",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 378,
+      "name": "Ankle Jerk",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 408,
+      "name": "Anterior Tibial Pulse",
+      "category": 8,
+      "uuid": "",
+      "category_name": "Musculoskeletal system"
+    },
+    {
+      "id": 492,
+      "name": "Apgar Score",
+      "category": 12,
+      "uuid": "",
+      "category_name": "Paediatric/Child Info"
+    },
+    {
+      "id": 256,
+      "name": "Appearance",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 266,
+      "name": "Appetite",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 320,
+      "name": "Ascities",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 435,
+      "name": "Auscultation - Fetal Heart Rate",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 434,
+      "name": "Auscultation - Fetal Heart Sound",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 437,
+      "name": "Auscultation - Uterine Soufflé",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 436,
+      "name": "Auscultation – Fumic Soufflé",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 379,
+      "name": "Biceps Jerk",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 338,
+      "name": "Bladder Distension",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 280,
+      "name": "Body Build",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 505,
+      "name": "Body Hair",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 327,
+      "name": "Bowel Sound",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 438,
+      "name": "Breast",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 494,
+      "name": "Breast Nodule",
+      "category": 12,
+      "uuid": "",
+      "category_name": "Paediatric/Child Info"
+    },
+    {
+      "id": 392,
+      "name": "Breath Sounds",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 413,
+      "name": "Bruit",
+      "category": 9,
+      "uuid": "",
+      "category_name": "Genito-urinary system"
+    },
+    {
+      "id": 502,
+      "name": "Bruits",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 372,
+      "name": "Bulk Of Muscles",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 384,
+      "name": "Clonus Ankle",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 383,
+      "name": "Clonus Patellar",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 262,
+      "name": "Clubbing",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 278,
+      "name": "Co-operation",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 368,
+      "name": "Co-ordination Of Movements",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 288,
+      "name": "Confusional State",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 300,
+      "name": "Continuous Murmur",
+      "category": 4,
+      "uuid": "",
+      "category_name": "Cardio vascular system"
+    },
+    {
+      "id": 387,
+      "name": "Corneal Reflex",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 388,
+      "name": "Cremasteric Reflex",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 395,
+      "name": "Crepitations",
+      "category": 7,
+      "uuid": "",
+      "category_name": "Respiratory"
+    },
+    {
+      "id": 423,
+      "name": "Cutaneous Eruption",
+      "category": 10,
+      "uuid": "",
+      "category_name": "Skin"
+    },
+    {
+      "id": 259,
+      "name": "Cyanosis",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 419,
+      "name": "Cyst",
+      "category": 9,
+      "uuid": "",
+      "category_name": "Genito-urinary system"
+    },
+    {
+      "id": 398,
+      "name": "Deformities",
+      "category": 7,
+      "uuid": "",
+      "category_name": "Respiratory"
+    },
+    {
+      "id": 403,
+      "name": "Deformity",
+      "category": 8,
+      "uuid": "",
+      "category_name": "Musculoskeletal system"
+    },
+    {
+      "id": 293,
+      "name": "Deformity Or Scar Marks",
+      "category": 4,
+      "uuid": "",
+      "category_name": "Cardio vascular system"
+    },
+    {
+      "id": 261,
+      "name": "Dehydration",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 283,
+      "name": "Delusion",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 298,
+      "name": "Diastolic Murmur",
+      "category": 4,
+      "uuid": "",
+      "category_name": "Cardio vascular system"
+    },
+    {
+      "id": 363,
+      "name": "Diplopia",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 397,
+      "name": "Discharge",
+      "category": 7,
+      "uuid": "",
+      "category_name": "Respiratory"
+    },
+    {
+      "id": 415,
+      "name": "Discharge (urethral)",
+      "category": 9,
+      "uuid": "",
+      "category_name": "Genito-urinary system"
+    },
+    {
+      "id": 416,
+      "name": "Discharge (vaginal)",
+      "category": 9,
+      "uuid": "",
+      "category_name": "Genito-urinary system"
+    },
+    {
+      "id": 409,
+      "name": "Dorsalis Pedis Pulse",
+      "category": 8,
+      "uuid": "",
+      "category_name": "Musculoskeletal system"
+    },
+    {
+      "id": 311,
+      "name": "Dullness",
+      "category": 4,
+      "uuid": "",
+      "category_name": "Cardio vascular system"
+    },
+    {
+      "id": 335,
+      "name": "Enlarged Gallbladder",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 334,
+      "name": "Enlarged Liver (hepatomegaly)",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 336,
+      "name": "Enlarged Spleen (splenomegaly)",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 499,
+      "name": "Epispedias",
+      "category": 12,
+      "uuid": "",
+      "category_name": "Paediatric/Child Info"
+    },
+    {
+      "id": 364,
+      "name": "Exophthalmos",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 294,
+      "name": "First Heart Sound",
+      "category": 4,
+      "uuid": "",
+      "category_name": "Cardio vascular system"
+    },
+    {
+      "id": 342,
+      "name": "Fluid Thrill",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 493,
+      "name": "Fontanelles",
+      "category": 12,
+      "uuid": "",
+      "category_name": "Paediatric/Child Info"
+    },
+    {
+      "id": 501,
+      "name": "Fourth Heart Sound",
+      "category": 4,
+      "uuid": "",
+      "category_name": "Cardio vascular system"
+    },
+    {
+      "id": 366,
+      "name": "Gait",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 308,
+      "name": "Gallop Rhythm",
+      "category": 4,
+      "uuid": "",
+      "category_name": "Cardio vascular system"
+    },
+    {
+      "id": 268,
+      "name": "General Weakness",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 414,
+      "name": "Genital Ulcer",
+      "category": 9,
+      "uuid": "",
+      "category_name": "Genito-urinary system"
+    },
+    {
+      "id": 313,
+      "name": "Gynaecomastia",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 272,
+      "name": "Hair",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 284,
+      "name": "Hallucination",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 491,
+      "name": "Head Control",
+      "category": 12,
+      "uuid": "",
+      "category_name": "Paediatric/Child Info"
+    },
+    {
+      "id": 337,
+      "name": "Hepatosplenomegaly",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 319,
+      "name": "Hernial Orifice",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 498,
+      "name": "Hypospedias",
+      "category": 12,
+      "uuid": "",
+      "category_name": "Paediatric/Child Info"
+    },
+    {
+      "id": 287,
+      "name": "Illusion",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 497,
+      "name": "Imperforate Anus",
+      "category": 12,
+      "uuid": "",
+      "category_name": "Paediatric/Child Info"
+    },
+    {
+      "id": 276,
+      "name": "Intelligence",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 367,
+      "name": "Involuntary Movements",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 258,
+      "name": "Jaundice",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 382,
+      "name": "Jaw Jerk",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 399,
+      "name": "Joint Stiffness",
+      "category": 8,
+      "uuid": "",
+      "category_name": "Musculoskeletal system"
+    },
+    {
+      "id": 265,
+      "name": "JVP",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 344,
+      "name": "Kidney",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 377,
+      "name": "Knee Jerk",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 270,
+      "name": "Koilonychia",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 309,
+      "name": "Left Parasternal Heave",
+      "category": 4,
+      "uuid": "",
+      "category_name": "Cardio vascular system"
+    },
+    {
+      "id": 269,
+      "name": "Leuconychia",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 326,
+      "name": "Lymphnode",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 418,
+      "name": "Mass",
+      "category": 9,
+      "uuid": "",
+      "category_name": "Genito-urinary system"
+    },
+    {
+      "id": 282,
+      "name": "Memory",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 285,
+      "name": "Mental/Emotional State",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 299,
+      "name": "Mid Diastolic Murmur",
+      "category": 4,
+      "uuid": "",
+      "category_name": "Cardio vascular system"
+    },
+    {
+      "id": 303,
+      "name": "Mid Systolic Clicks",
+      "category": 4,
+      "uuid": "",
+      "category_name": "Cardio vascular system"
+    },
+    {
+      "id": 345,
+      "name": "Murphy’s Sign",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 325,
+      "name": "Muscle Rigidity",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 402,
+      "name": "Muscle Weakness",
+      "category": 8,
+      "uuid": "",
+      "category_name": "Musculoskeletal system"
+    },
+    {
+      "id": 369,
+      "name": "Neck Stiffness",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 439,
+      "name": "Nipple",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 274,
+      "name": "Nutrition",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 371,
+      "name": "Ocular Movements",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 260,
+      "name": "Odema",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 281,
+      "name": "Orientation Of Place & Time",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 349,
+      "name": "P/R Exam",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 440,
+      "name": "P/R Exam - External Anal Sphincter",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 441,
+      "name": "P/R Exam - Internal Anal Sphincter",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 442,
+      "name": "P/R Exam - Pouch Of Douglas",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 443,
+      "name": "P/R Exam – Uterus",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 444,
+      "name": "P/V Exam - Amniotic Fluid",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 445,
+      "name": "P/V Exam - Amniotic Membrane",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 446,
+      "name": "P/V Exam - Caput Succedaneum",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 447,
+      "name": "P/V Exam - Cervical Consistency",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 448,
+      "name": "P/V Exam - Cervical Dilatation",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 449,
+      "name": "P/V Exam - Cervical Effacement / Thinness",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 450,
+      "name": "P/V Exam - Cervical Position",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 451,
+      "name": "P/V Exam - Cervical Ripeness",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 453,
+      "name": "P/V Exam - Chadwick's Sign",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 454,
+      "name": "P/V Exam - Fetal Position",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 455,
+      "name": "P/V Exam - Fetal Station",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 458,
+      "name": "P/V Exam - Goodell's Sign",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 459,
+      "name": "P/V Exam - Hegar's Sign",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 460,
+      "name": "P/V Exam - Internal Ballotment",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 461,
+      "name": "P/V Exam - Jacquemier's Sign",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 462,
+      "name": "P/V Exam - Level Of Presenting Part",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 463,
+      "name": "P/V Exam - Maternal Bony Pelvic Dimension",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 464,
+      "name": "P/V Exam - Membrane Rupture",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 465,
+      "name": "P/V Exam - Ovaries And Fallopian Tube (adnexae)",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 466,
+      "name": "P/V Exam - Palmer's Sign",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 467,
+      "name": "P/V Exam - Pelvic Mass",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 468,
+      "name": "P/V Exam - Pelvic Tenderness",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 469,
+      "name": "P/V Exam - Pulsating Umbilical Cord",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 472,
+      "name": "P/V Exam - Vaginal Wall",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 452,
+      "name": "P/V Exam – Cervix",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 456,
+      "name": "P/V Exam – Fore Water Bag Bulging",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 457,
+      "name": "P/V Exam – Gestation",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 470,
+      "name": "P/V Exam – Show",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 471,
+      "name": "P/V Exam – Uterus",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 353,
+      "name": "Pain Sensation",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 420,
+      "name": "Pallor",
+      "category": 10,
+      "uuid": "",
+      "category_name": "Skin"
+    },
+    {
+      "id": 312,
+      "name": "Palmar Erythema",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 310,
+      "name": "Palpable Heart Sound",
+      "category": 4,
+      "uuid": "",
+      "category_name": "Cardio vascular system"
+    },
+    {
+      "id": 473,
+      "name": "Palpation - 1st Pelvic Grip",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 474,
+      "name": "Palpation - 2nd Pelvic Grip",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 476,
+      "name": "Palpation - Braxton Hick's Sign",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 477,
+      "name": "Palpation - External Ballotment",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 478,
+      "name": "Palpation - Fetal Movements",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 479,
+      "name": "Palpation - Fetal Parts",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 480,
+      "name": "Palpation - Fetal Poles And Fetal Lie",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 481,
+      "name": "Palpation - Fundal Grip",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 482,
+      "name": "Palpation - Fundal Height",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 483,
+      "name": "Palpation - Lateral Grip",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 486,
+      "name": "Palpation - Station",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 475,
+      "name": "Palpation – Attitude",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 484,
+      "name": "Palpation – Position",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 485,
+      "name": "Palpation – Presentation",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 314,
+      "name": "Parotid Swelling",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 496,
+      "name": "Passage Of Urine And Meconium",
+      "category": 12,
+      "uuid": "",
+      "category_name": "Paediatric/Child Info"
+    },
+    {
+      "id": 339,
+      "name": "Percussion",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 304,
+      "name": "Pericardial Rub",
+      "category": 4,
+      "uuid": "",
+      "category_name": "Cardio vascular system"
+    },
+    {
+      "id": 406,
+      "name": "Peripheral Pulse",
+      "category": 8,
+      "uuid": "",
+      "category_name": "Musculoskeletal system"
+    },
+    {
+      "id": 267,
+      "name": "Physical Activity",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 421,
+      "name": "Pigmentation",
+      "category": 10,
+      "uuid": "",
+      "category_name": "Skin"
+    },
+    {
+      "id": 385,
+      "name": "Plantar Reflex",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 396,
+      "name": "Pleural Rub",
+      "category": 7,
+      "uuid": "",
+      "category_name": "Respiratory"
+    },
+    {
+      "id": 407,
+      "name": "Popliteal Pulse",
+      "category": 8,
+      "uuid": "",
+      "category_name": "Musculoskeletal system"
+    },
+    {
+      "id": 355,
+      "name": "Position Sense",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 504,
+      "name": "Posterior Tibial Pulse",
+      "category": 8,
+      "uuid": "",
+      "category_name": "Musculoskeletal system"
+    },
+    {
+      "id": 323,
+      "name": "Prominent Superficial Veins",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 361,
+      "name": "Ptosis",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 428,
+      "name": "Rash",
+      "category": 10,
+      "uuid": "",
+      "category_name": "Skin"
+    },
+    {
+      "id": 348,
+      "name": "Rebound Tenderness",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 332,
+      "name": "Rectal Prolapse",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 487,
+      "name": "Recto-vaginal Exam: Ovary",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 488,
+      "name": "Recto-vaginal Exam: Pelvic Mass",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 489,
+      "name": "Recto-vaginal Exam: Uterus",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 370,
+      "name": "Red Eye",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 289,
+      "name": "Relationship To Others",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 347,
+      "name": "Renal Angle",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 405,
+      "name": "Restricted Movements",
+      "category": 8,
+      "uuid": "",
+      "category_name": "Musculoskeletal system"
+    },
+    {
+      "id": 389,
+      "name": "Romberg’s Sign",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 394,
+      "name": "Ronchi/wheeze",
+      "category": 7,
+      "uuid": "",
+      "category_name": "Respiratory"
+    },
+    {
+      "id": 329,
+      "name": "Rub",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 426,
+      "name": "Scar",
+      "category": 10,
+      "uuid": "",
+      "category_name": "Skin"
+    },
+    {
+      "id": 318,
+      "name": "Scar Marks",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 404,
+      "name": "Scars",
+      "category": 8,
+      "uuid": "",
+      "category_name": "Musculoskeletal system"
+    },
+    {
+      "id": 295,
+      "name": "Second Heart Sound",
+      "category": 4,
+      "uuid": "",
+      "category_name": "Cardio vascular system"
+    },
+    {
+      "id": 290,
+      "name": "Sexual Attractio",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 346,
+      "name": "Shifting Dullness",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 490,
+      "name": "Sim's Speculum",
+      "category": 11,
+      "uuid": "",
+      "category_name": "Obs/gyn"
+    },
+    {
+      "id": 271,
+      "name": "Skin Changes",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 424,
+      "name": "Skin Lesion",
+      "category": 10,
+      "uuid": "",
+      "category_name": "Skin"
+    },
+    {
+      "id": 279,
+      "name": "Sleep Disturbance",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 359,
+      "name": "Smell Sensation",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 495,
+      "name": "Sole Crease",
+      "category": 12,
+      "uuid": "",
+      "category_name": "Paediatric/Child Info"
+    },
+    {
+      "id": 286,
+      "name": "Speech",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 316,
+      "name": "Spider Naevi",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 305,
+      "name": "Splinter Haemorrhage",
+      "category": 4,
+      "uuid": "",
+      "category_name": "Cardio vascular system"
+    },
+    {
+      "id": 362,
+      "name": "Squint",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 374,
+      "name": "Strength Of The Muscles",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 341,
+      "name": "Succussion Splash",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 376,
+      "name": "Superficial Reflex",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 381,
+      "name": "Supinator Jerk",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 277,
+      "name": "Sweating",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 411,
+      "name": "Swelling",
+      "category": 9,
+      "uuid": "",
+      "category_name": "Genito-urinary system"
+    },
+    {
+      "id": 297,
+      "name": "Systolic Murmur",
+      "category": 4,
+      "uuid": "",
+      "category_name": "Cardio vascular system"
+    },
+    {
+      "id": 358,
+      "name": "Taste Sensation",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 357,
+      "name": "Temperature Sensation",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 412,
+      "name": "Tenderness",
+      "category": 9,
+      "uuid": "",
+      "category_name": "Genito-urinary system"
+    },
+    {
+      "id": 375,
+      "name": "Tendon Reflex",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 315,
+      "name": "Testicular Atrophy",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 296,
+      "name": "Third Heart Sound",
+      "category": 4,
+      "uuid": "",
+      "category_name": "Cardio vascular system"
+    },
+    {
+      "id": 306,
+      "name": "Thrills",
+      "category": 4,
+      "uuid": "",
+      "category_name": "Cardio vascular system"
+    },
+    {
+      "id": 263,
+      "name": "Thyroid Gland",
+      "category": 3,
+      "uuid": "",
+      "category_name": "General examination"
+    },
+    {
+      "id": 373,
+      "name": "Tone Of The Muscles",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 354,
+      "name": "Touch Sensation",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 380,
+      "name": "Triceps Jerk",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 425,
+      "name": "Ulcer",
+      "category": 10,
+      "uuid": "",
+      "category_name": "Skin"
+    },
+    {
+      "id": 500,
+      "name": "Urethro-vaginal Fistula",
+      "category": 12,
+      "uuid": "",
+      "category_name": "Paediatric/Child Info"
+    },
+    {
+      "id": 333,
+      "name": "Vaginal Prolapse",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 302,
+      "name": "Valve Opening Sounds",
+      "category": 4,
+      "uuid": "",
+      "category_name": "Cardio vascular system"
+    },
+    {
+      "id": 410,
+      "name": "Varicose Veins",
+      "category": 8,
+      "uuid": "",
+      "category_name": "Musculoskeletal system"
+    },
+    {
+      "id": 291,
+      "name": "Venous Engorgement",
+      "category": 4,
+      "uuid": "",
+      "category_name": "Cardio vascular system"
+    },
+    {
+      "id": 330,
+      "name": "Venous Hum",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 356,
+      "name": "Vibration Sense",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 322,
+      "name": "Visible Peristalsis",
+      "category": 5,
+      "uuid": "",
+      "category_name": "Gastro intestinal"
+    },
+    {
+      "id": 307,
+      "name": "Visible Pulsation",
+      "category": 4,
+      "uuid": "",
+      "category_name": "Cardio vascular system"
+    },
+    {
+      "id": 360,
+      "name": "Vision Disturbance",
+      "category": 6,
+      "uuid": "",
+      "category_name": "Central nervous system"
+    },
+    {
+      "id": 503,
+      "name": "Vocal Resonance",
+      "category": 7,
+      "uuid": "",
+      "category_name": "Respiratory"
+    },
+    {
+      "id": 417,
+      "name": "Warts",
+      "category": 9,
+      "uuid": "",
+      "category_name": "Genito-urinary system"
+    },
+    {
+      "id": 422,
+      "name": "Yellowish Coloration",
+      "category": 10,
+      "uuid": "",
+      "category_name": "Skin"
+    }
+  ]
+}
